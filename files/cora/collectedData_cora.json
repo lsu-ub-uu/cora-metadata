@@ -1,0 +1,1565 @@
+{
+    "children": [
+        {
+            "repeatId": "3",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoPVarGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "17",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoSurroundingContainerGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "19",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "presentationChildReferenceGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "childReference"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "20",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "presentationSurroundingContainerGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "presentation"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "21",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoPermissionUnitGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "26",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "presentationContainerGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "presentation"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "29",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoNewPResourceLinkGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "34",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "metadataGroupFilterGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "filter"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "37",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoBibliographicAutogeneratedNewGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "41",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "metadataCollectionItemGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "metadata"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "47",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoContainerGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "50",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoNewPCollVarGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "59",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "permissionTermRulePartGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "permissionTermRulePart"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "60",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoNewItemCollectionGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "62",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "presentationsOfGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "presentationsOf"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "65",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "userRoleRelationGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "userRole"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "67",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoRepeatingContainerGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "69",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoPCollVarGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "73",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoBibliographicGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "83",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "presentationGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "presentation"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "84",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoNewRecordLinkGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "90",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoNewPVarGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "91",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "permissionRuleGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "permissionRule"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "92",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "addressGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "address"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "94",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoNewPGroupGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "95",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoNewGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "96",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoPGroupGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "99",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "searchTermNewGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "searchTerm"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "100",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoNewResourceLinkGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "106",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoNewRepeatingContainerGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "108",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoNewTextVarGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "110",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordTypeNewGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordType"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "111",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordTypeGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordType"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "114",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "presentationSurroundingContainerNewGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "presentation"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "115",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "searchTermGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "searchTerm"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "118",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "presentationGroupNewGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "presentation"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "121",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoNewPRecordLinkGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "124",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "defaultPermissionRuleGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "permissionRule"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "126",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "presentationGroupGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "presentation"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "130",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoPRecordLinkGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "131",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "metadataCollectionItemNewGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "metadata"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "136",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoTextGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "137",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoNewSurroundingContainerGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "138",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "141",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoNewCollectionVarGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "145",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "permissionRuleNewGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "permissionRule"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "148",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "recordInfoPResourceLinkGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "recordInfo"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "154",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "metadataGroup"
+                },
+                {
+                    "name": "key",
+                    "value": "nameInData"
+                },
+                {
+                    "name": "id",
+                    "value": "collectionItemExtraDataPartGroup"
+                },
+                {
+                    "name": "value",
+                    "value": "extraDataPart"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "158",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "coraUser"
+                },
+                {
+                    "name": "key",
+                    "value": "userId"
+                },
+                {
+                    "name": "id",
+                    "value": "coraUser:8012331835977"
+                },
+                {
+                    "name": "value",
+                    "value": "mican434@user.uu.se"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "159",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "coraUser"
+                },
+                {
+                    "name": "key",
+                    "value": "userId"
+                },
+                {
+                    "name": "id",
+                    "value": "coraUser:8140805885752"
+                },
+                {
+                    "name": "value",
+                    "value": "malin121@user.uu.se"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "160",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "coraUser"
+                },
+                {
+                    "name": "key",
+                    "value": "userId"
+                },
+                {
+                    "name": "id",
+                    "value": "coraUser:8079536285214"
+                },
+                {
+                    "name": "value",
+                    "value": "johoe299@user.uu.se"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "161",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "coraUser"
+                },
+                {
+                    "name": "key",
+                    "value": "userId"
+                },
+                {
+                    "name": "id",
+                    "value": "coraUser:1986901372214875"
+                },
+                {
+                    "name": "value",
+                    "value": "kenan399@user.uu.se"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "162",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "coraUser"
+                },
+                {
+                    "name": "key",
+                    "value": "userId"
+                },
+                {
+                    "name": "id",
+                    "value": "coraUser:15697099230192"
+                },
+                {
+                    "name": "value",
+                    "value": "olfel499@user.uu.se"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "163",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "coraUser"
+                },
+                {
+                    "name": "key",
+                    "value": "userId"
+                },
+                {
+                    "name": "id",
+                    "value": "coraUser:15631291678429"
+                },
+                {
+                    "name": "value",
+                    "value": "maken168@user.uu.se"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "164",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "coraUser"
+                },
+                {
+                    "name": "key",
+                    "value": "userId"
+                },
+                {
+                    "name": "id",
+                    "value": "coraUser:8239436126036"
+                },
+                {
+                    "name": "value",
+                    "value": "stand516@user.uu.se@user.uu.se"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "165",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "coraUser"
+                },
+                {
+                    "name": "key",
+                    "value": "userId"
+                },
+                {
+                    "name": "id",
+                    "value": "coraUser:8199051994459"
+                },
+                {
+                    "name": "value",
+                    "value": "urbaeric@user.uu.se"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "166",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "coraUser"
+                },
+                {
+                    "name": "key",
+                    "value": "userId"
+                },
+                {
+                    "name": "id",
+                    "value": "coraUser:8221860835759"
+                },
+                {
+                    "name": "value",
+                    "value": "marso310@user.uu.se"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "172",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "systemOneUser"
+                },
+                {
+                    "name": "key",
+                    "value": "userId"
+                },
+                {
+                    "name": "id",
+                    "value": "12345"
+                },
+                {
+                    "name": "value",
+                    "value": "guest123@system.cora.uu.se"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "173",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "systemOneUser"
+                },
+                {
+                    "name": "key",
+                    "value": "userId"
+                },
+                {
+                    "name": "id",
+                    "value": "guest"
+                },
+                {
+                    "name": "value",
+                    "value": "guest123@system.cora.uu.se"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        },
+        {
+            "repeatId": "174",
+            "children": [
+                {
+                    "name": "type",
+                    "value": "systemOneUser"
+                },
+                {
+                    "name": "key",
+                    "value": "userId"
+                },
+                {
+                    "name": "id",
+                    "value": "user"
+                },
+                {
+                    "name": "value",
+                    "value": "user@system.cora.uu.se"
+                },
+                {
+                    "name": "dataDivider",
+                    "value": "cora"
+                }
+            ],
+            "name": "storageTerm"
+        }
+    ],
+    "name": "collectedData"
+}
