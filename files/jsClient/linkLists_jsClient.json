@@ -642,6 +642,424 @@
                                             },
                                             {
                                                 "name": "linkedRecordId",
+                                                "value": "theClient_indexedText"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "nameInData",
+                                                        "value": "recordInfo"
+                                                    },
+                                                    {
+                                                        "children": [{
+                                                            "name": "nameInData",
+                                                            "value": "type"
+                                                        }],
+                                                        "name": "linkedPath"
+                                                    }
+                                                ],
+                                                "name": "linkedPath"
+                                            }
+                                        ],
+                                        "name": "from"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "recordType"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "coraText"
+                                            }
+                                        ],
+                                        "name": "to"
+                                    }
+                                ],
+                                "name": "recordToRecordLink"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "theClient_indexedText"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "nameInData",
+                                                        "value": "recordInfo"
+                                                    },
+                                                    {
+                                                        "children": [{
+                                                            "name": "nameInData",
+                                                            "value": "createdBy"
+                                                        }],
+                                                        "name": "linkedPath"
+                                                    }
+                                                ],
+                                                "name": "linkedPath"
+                                            }
+                                        ],
+                                        "name": "from"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "systemOneUser"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "141414"
+                                            }
+                                        ],
+                                        "name": "to"
+                                    }
+                                ],
+                                "name": "recordToRecordLink"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "theClient_indexedText"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "nameInData",
+                                                        "value": "recordInfo"
+                                                    },
+                                                    {
+                                                        "children": [{
+                                                            "name": "nameInData",
+                                                            "value": "dataDivider"
+                                                        }],
+                                                        "name": "linkedPath"
+                                                    }
+                                                ],
+                                                "name": "linkedPath"
+                                            }
+                                        ],
+                                        "name": "from"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "system"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "jsClient"
+                                            }
+                                        ],
+                                        "name": "to"
+                                    }
+                                ],
+                                "name": "recordToRecordLink"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "theClient_indexedText"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "nameInData",
+                                                        "value": "recordInfo"
+                                                    },
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "name": "nameInData",
+                                                                "value": "updated"
+                                                            },
+                                                            {
+                                                                "name": "repeatId",
+                                                                "value": "0"
+                                                            },
+                                                            {
+                                                                "children": [{
+                                                                    "name": "nameInData",
+                                                                    "value": "updatedBy"
+                                                                }],
+                                                                "name": "linkedPath"
+                                                            }
+                                                        ],
+                                                        "name": "linkedPath"
+                                                    }
+                                                ],
+                                                "name": "linkedPath"
+                                            }
+                                        ],
+                                        "name": "from"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "systemOneUser"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "141414"
+                                            }
+                                        ],
+                                        "name": "to"
+                                    }
+                                ],
+                                "name": "recordToRecordLink"
+                            }
+                        ],
+                        "name": "collectedDataLinks"
+                    }],
+                    "name": "theClient_indexedText"
+                },
+                {
+                    "children": [{
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "theClient_resumeIndexingText"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "nameInData",
+                                                        "value": "recordInfo"
+                                                    },
+                                                    {
+                                                        "children": [{
+                                                            "name": "nameInData",
+                                                            "value": "type"
+                                                        }],
+                                                        "name": "linkedPath"
+                                                    }
+                                                ],
+                                                "name": "linkedPath"
+                                            }
+                                        ],
+                                        "name": "from"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "recordType"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "coraText"
+                                            }
+                                        ],
+                                        "name": "to"
+                                    }
+                                ],
+                                "name": "recordToRecordLink"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "theClient_resumeIndexingText"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "nameInData",
+                                                        "value": "recordInfo"
+                                                    },
+                                                    {
+                                                        "children": [{
+                                                            "name": "nameInData",
+                                                            "value": "createdBy"
+                                                        }],
+                                                        "name": "linkedPath"
+                                                    }
+                                                ],
+                                                "name": "linkedPath"
+                                            }
+                                        ],
+                                        "name": "from"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "systemOneUser"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "141414"
+                                            }
+                                        ],
+                                        "name": "to"
+                                    }
+                                ],
+                                "name": "recordToRecordLink"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "theClient_resumeIndexingText"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "nameInData",
+                                                        "value": "recordInfo"
+                                                    },
+                                                    {
+                                                        "children": [{
+                                                            "name": "nameInData",
+                                                            "value": "dataDivider"
+                                                        }],
+                                                        "name": "linkedPath"
+                                                    }
+                                                ],
+                                                "name": "linkedPath"
+                                            }
+                                        ],
+                                        "name": "from"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "system"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "jsClient"
+                                            }
+                                        ],
+                                        "name": "to"
+                                    }
+                                ],
+                                "name": "recordToRecordLink"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "theClient_resumeIndexingText"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "nameInData",
+                                                        "value": "recordInfo"
+                                                    },
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "name": "nameInData",
+                                                                "value": "updated"
+                                                            },
+                                                            {
+                                                                "name": "repeatId",
+                                                                "value": "0"
+                                                            },
+                                                            {
+                                                                "children": [{
+                                                                    "name": "nameInData",
+                                                                    "value": "updatedBy"
+                                                                }],
+                                                                "name": "linkedPath"
+                                                            }
+                                                        ],
+                                                        "name": "linkedPath"
+                                                    }
+                                                ],
+                                                "name": "linkedPath"
+                                            }
+                                        ],
+                                        "name": "from"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "systemOneUser"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "141414"
+                                            }
+                                        ],
+                                        "name": "to"
+                                    }
+                                ],
+                                "name": "recordToRecordLink"
+                            }
+                        ],
+                        "name": "collectedDataLinks"
+                    }],
+                    "name": "theClient_resumeIndexingText"
+                },
+                {
+                    "children": [{
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
                                                 "value": "theClient_searchButtonText"
                                             },
                                             {
@@ -837,6 +1255,215 @@
                         "name": "collectedDataLinks"
                     }],
                     "name": "theClient_searchButtonText"
+                },
+                {
+                    "children": [{
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "theClient_indexedRecordTypeText"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "nameInData",
+                                                        "value": "recordInfo"
+                                                    },
+                                                    {
+                                                        "children": [{
+                                                            "name": "nameInData",
+                                                            "value": "type"
+                                                        }],
+                                                        "name": "linkedPath"
+                                                    }
+                                                ],
+                                                "name": "linkedPath"
+                                            }
+                                        ],
+                                        "name": "from"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "recordType"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "coraText"
+                                            }
+                                        ],
+                                        "name": "to"
+                                    }
+                                ],
+                                "name": "recordToRecordLink"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "theClient_indexedRecordTypeText"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "nameInData",
+                                                        "value": "recordInfo"
+                                                    },
+                                                    {
+                                                        "children": [{
+                                                            "name": "nameInData",
+                                                            "value": "createdBy"
+                                                        }],
+                                                        "name": "linkedPath"
+                                                    }
+                                                ],
+                                                "name": "linkedPath"
+                                            }
+                                        ],
+                                        "name": "from"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "systemOneUser"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "141414"
+                                            }
+                                        ],
+                                        "name": "to"
+                                    }
+                                ],
+                                "name": "recordToRecordLink"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "theClient_indexedRecordTypeText"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "nameInData",
+                                                        "value": "recordInfo"
+                                                    },
+                                                    {
+                                                        "children": [{
+                                                            "name": "nameInData",
+                                                            "value": "dataDivider"
+                                                        }],
+                                                        "name": "linkedPath"
+                                                    }
+                                                ],
+                                                "name": "linkedPath"
+                                            }
+                                        ],
+                                        "name": "from"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "system"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "jsClient"
+                                            }
+                                        ],
+                                        "name": "to"
+                                    }
+                                ],
+                                "name": "recordToRecordLink"
+                            },
+                            {
+                                "children": [
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "coraText"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "theClient_indexedRecordTypeText"
+                                            },
+                                            {
+                                                "children": [
+                                                    {
+                                                        "name": "nameInData",
+                                                        "value": "recordInfo"
+                                                    },
+                                                    {
+                                                        "children": [
+                                                            {
+                                                                "name": "nameInData",
+                                                                "value": "updated"
+                                                            },
+                                                            {
+                                                                "name": "repeatId",
+                                                                "value": "0"
+                                                            },
+                                                            {
+                                                                "children": [{
+                                                                    "name": "nameInData",
+                                                                    "value": "updatedBy"
+                                                                }],
+                                                                "name": "linkedPath"
+                                                            }
+                                                        ],
+                                                        "name": "linkedPath"
+                                                    }
+                                                ],
+                                                "name": "linkedPath"
+                                            }
+                                        ],
+                                        "name": "from"
+                                    },
+                                    {
+                                        "children": [
+                                            {
+                                                "name": "linkedRecordType",
+                                                "value": "systemOneUser"
+                                            },
+                                            {
+                                                "name": "linkedRecordId",
+                                                "value": "141414"
+                                            }
+                                        ],
+                                        "name": "to"
+                                    }
+                                ],
+                                "name": "recordToRecordLink"
+                            }
+                        ],
+                        "name": "collectedDataLinks"
+                    }],
+                    "name": "theClient_indexedRecordTypeText"
                 },
                 {
                     "children": [{
@@ -1269,424 +1896,6 @@
                                             },
                                             {
                                                 "name": "linkedRecordId",
-                                                "value": "theClient_indexedText"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "type"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "coraText"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "theClient_indexedText"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "createdBy"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "141414"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "theClient_indexedText"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "dataDivider"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "system"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "jsClient"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "theClient_indexedText"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [
-                                                            {
-                                                                "name": "nameInData",
-                                                                "value": "updated"
-                                                            },
-                                                            {
-                                                                "name": "repeatId",
-                                                                "value": "0"
-                                                            },
-                                                            {
-                                                                "children": [{
-                                                                    "name": "nameInData",
-                                                                    "value": "updatedBy"
-                                                                }],
-                                                                "name": "linkedPath"
-                                                            }
-                                                        ],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "141414"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            }
-                        ],
-                        "name": "collectedDataLinks"
-                    }],
-                    "name": "theClient_indexedText"
-                },
-                {
-                    "children": [{
-                        "children": [
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "theClient_indexedRecordTypeText"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "type"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "coraText"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "theClient_indexedRecordTypeText"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "createdBy"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "141414"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "theClient_indexedRecordTypeText"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "dataDivider"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "system"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "jsClient"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "theClient_indexedRecordTypeText"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [
-                                                            {
-                                                                "name": "nameInData",
-                                                                "value": "updated"
-                                                            },
-                                                            {
-                                                                "name": "repeatId",
-                                                                "value": "0"
-                                                            },
-                                                            {
-                                                                "children": [{
-                                                                    "name": "nameInData",
-                                                                    "value": "updatedBy"
-                                                                }],
-                                                                "name": "linkedPath"
-                                                            }
-                                                        ],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "141414"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            }
-                        ],
-                        "name": "collectedDataLinks"
-                    }],
-                    "name": "theClient_indexedRecordTypeText"
-                },
-                {
-                    "children": [{
-                        "children": [
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
                                                 "value": "theClient_resultListOfText"
                                             },
                                             {
@@ -2091,215 +2300,6 @@
                         "name": "collectedDataLinks"
                     }],
                     "name": "theClient_loginMenuText"
-                },
-                {
-                    "children": [{
-                        "children": [
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "theClient_resumeIndexingText"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "type"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "recordType"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "coraText"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "theClient_resumeIndexingText"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "createdBy"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "141414"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "theClient_resumeIndexingText"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [{
-                                                            "name": "nameInData",
-                                                            "value": "dataDivider"
-                                                        }],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "system"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "jsClient"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            },
-                            {
-                                "children": [
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "coraText"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "theClient_resumeIndexingText"
-                                            },
-                                            {
-                                                "children": [
-                                                    {
-                                                        "name": "nameInData",
-                                                        "value": "recordInfo"
-                                                    },
-                                                    {
-                                                        "children": [
-                                                            {
-                                                                "name": "nameInData",
-                                                                "value": "updated"
-                                                            },
-                                                            {
-                                                                "name": "repeatId",
-                                                                "value": "0"
-                                                            },
-                                                            {
-                                                                "children": [{
-                                                                    "name": "nameInData",
-                                                                    "value": "updatedBy"
-                                                                }],
-                                                                "name": "linkedPath"
-                                                            }
-                                                        ],
-                                                        "name": "linkedPath"
-                                                    }
-                                                ],
-                                                "name": "linkedPath"
-                                            }
-                                        ],
-                                        "name": "from"
-                                    },
-                                    {
-                                        "children": [
-                                            {
-                                                "name": "linkedRecordType",
-                                                "value": "systemOneUser"
-                                            },
-                                            {
-                                                "name": "linkedRecordId",
-                                                "value": "141414"
-                                            }
-                                        ],
-                                        "name": "to"
-                                    }
-                                ],
-                                "name": "recordToRecordLink"
-                            }
-                        ],
-                        "name": "collectedDataLinks"
-                    }],
-                    "name": "theClient_resumeIndexingText"
                 }
             ],
             "name": "coraText"
