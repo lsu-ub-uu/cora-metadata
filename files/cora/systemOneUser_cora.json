@@ -96,6 +96,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "2",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-09-27 14:52:17.779"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -147,27 +170,7 @@
                                 {
                                     "repeatId": "0",
                                     "name": "value",
-                                    "value": "system.system_testSystem"
-                                },
-                                {
-                                    "repeatId": "1",
-                                    "name": "value",
-                                    "value": "system.system_cora"
-                                },
-                                {
-                                    "repeatId": "2",
-                                    "name": "value",
-                                    "value": "system.system_jsClient"
-                                },
-                                {
-                                    "repeatId": "3",
-                                    "name": "value",
-                                    "value": "system.system_systemOne"
-                                },
-                                {
-                                    "repeatId": "4",
-                                    "name": "value",
-                                    "value": "system.system_bibsys"
+                                    "value": "system.*"
                                 }
                             ],
                             "name": "permissionTermRulePart"
