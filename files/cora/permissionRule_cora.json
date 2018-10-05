@@ -2609,6 +2609,52 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "3",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-02 13:34:35.902"
+                                }
+                            ],
+                            "name": "updated"
+                        },
+                        {
+                            "repeatId": "4",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-03 13:50:57.027"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -2783,6 +2829,16 @@
                             "repeatId": "37",
                             "name": "permissionRulePartValue",
                             "value": "system.metadataCollectionItem"
+                        },
+                        {
+                            "repeatId": "38",
+                            "name": "permissionRulePartValue",
+                            "value": "system.search"
+                        },
+                        {
+                            "repeatId": "39",
+                            "name": "permissionRulePartValue",
+                            "value": "system.searchTerm"
                         }
                     ],
                     "name": "permissionRulePart",
