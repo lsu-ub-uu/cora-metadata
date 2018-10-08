@@ -2655,6 +2655,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "5",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-04 06:29:54.883"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -2839,6 +2862,16 @@
                             "repeatId": "39",
                             "name": "permissionRulePartValue",
                             "value": "system.searchTerm"
+                        },
+                        {
+                            "repeatId": "40",
+                            "name": "permissionRulePartValue",
+                            "value": "system.countryCollectionItem"
+                        },
+                        {
+                            "repeatId": "41",
+                            "name": "permissionRulePartValue",
+                            "value": "system.languageCollectionItem"
                         }
                     ],
                     "name": "permissionRulePart",
