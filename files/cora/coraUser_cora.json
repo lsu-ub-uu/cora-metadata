@@ -993,6 +993,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "3",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-11 11:30:21.033"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -1011,53 +1034,131 @@
                 },
                 {
                     "repeatId": "0",
-                    "children": [{
-                        "children": [
-                            {
-                                "name": "linkedRecordType",
-                                "value": "permissionRole"
-                            },
-                            {
-                                "name": "linkedRecordId",
-                                "value": "metadataAdmin"
-                            }
-                        ],
-                        "name": "userRole"
-                    }],
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "permissionRole"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "metadataAdmin"
+                                }
+                            ],
+                            "name": "userRole"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "collectPermissionTerm"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemPermissionTerm"
+                                        }
+                                    ],
+                                    "name": "rule"
+                                },
+                                {
+                                    "repeatId": "0",
+                                    "name": "value",
+                                    "value": "system.*"
+                                }
+                            ],
+                            "name": "permissionTermRulePart"
+                        }
+                    ],
                     "name": "userRole"
                 },
                 {
                     "repeatId": "1",
-                    "children": [{
-                        "children": [
-                            {
-                                "name": "linkedRecordType",
-                                "value": "permissionRole"
-                            },
-                            {
-                                "name": "linkedRecordId",
-                                "value": "systemConfigurator"
-                            }
-                        ],
-                        "name": "userRole"
-                    }],
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "permissionRole"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "systemConfigurator"
+                                }
+                            ],
+                            "name": "userRole"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "collectPermissionTerm"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemPermissionTerm"
+                                        }
+                                    ],
+                                    "name": "rule"
+                                },
+                                {
+                                    "repeatId": "0",
+                                    "name": "value",
+                                    "value": "system.*"
+                                }
+                            ],
+                            "name": "permissionTermRulePart"
+                        }
+                    ],
                     "name": "userRole"
                 },
                 {
                     "repeatId": "2",
-                    "children": [{
-                        "children": [
-                            {
-                                "name": "linkedRecordType",
-                                "value": "permissionRole"
-                            },
-                            {
-                                "name": "linkedRecordId",
-                                "value": "binaryUserRole"
-                            }
-                        ],
-                        "name": "userRole"
-                    }],
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "permissionRole"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "binaryUserRole"
+                                }
+                            ],
+                            "name": "userRole"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "collectPermissionTerm"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemPermissionTerm"
+                                        }
+                                    ],
+                                    "name": "rule"
+                                },
+                                {
+                                    "repeatId": "0",
+                                    "name": "value",
+                                    "value": "system.*"
+                                }
+                            ],
+                            "name": "permissionTermRulePart"
+                        }
+                    ],
                     "name": "userRole"
                 },
                 {
@@ -1099,25 +1200,75 @@
                                 }
                             ],
                             "name": "permissionTermRulePart"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "collectPermissionTerm"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemPermissionTerm"
+                                        }
+                                    ],
+                                    "name": "rule"
+                                },
+                                {
+                                    "repeatId": "0",
+                                    "name": "value",
+                                    "value": "system.*"
+                                }
+                            ],
+                            "name": "permissionTermRulePart"
                         }
                     ],
                     "name": "userRole"
                 },
                 {
                     "repeatId": "4",
-                    "children": [{
-                        "children": [
-                            {
-                                "name": "linkedRecordType",
-                                "value": "permissionRole"
-                            },
-                            {
-                                "name": "linkedRecordId",
-                                "value": "userAdminRole"
-                            }
-                        ],
-                        "name": "userRole"
-                    }],
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "permissionRole"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "userAdminRole"
+                                }
+                            ],
+                            "name": "userRole"
+                        },
+                        {
+                            "repeatId": "0",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "collectPermissionTerm"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "systemPermissionTerm"
+                                        }
+                                    ],
+                                    "name": "rule"
+                                },
+                                {
+                                    "repeatId": "0",
+                                    "name": "value",
+                                    "value": "system.*"
+                                }
+                            ],
+                            "name": "permissionTermRulePart"
+                        }
+                    ],
                     "name": "userRole"
                 },
                 {
@@ -1453,13 +1604,36 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "3",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-11 11:51:00.607"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
                 },
                 {
                     "name": "userId",
-                    "value": "stand516@user.uu.se@user.uu.se"
+                    "value": "stand516@user.uu.se"
                 },
                 {
                     "name": "userFirstname",
