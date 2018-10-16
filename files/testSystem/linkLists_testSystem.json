@@ -3621,57 +3621,6 @@
                                             "children": [
                                                 {
                                                     "name": "nameInData",
-                                                    "value": "personRole"
-                                                },
-                                                {
-                                                    "name": "repeatId",
-                                                    "value": "2"
-                                                },
-                                                {
-                                                    "children": [{
-                                                        "name": "nameInData",
-                                                        "value": "personLink"
-                                                    }],
-                                                    "name": "linkedPath"
-                                                }
-                                            ],
-                                            "name": "linkedPath"
-                                        }
-                                    ],
-                                    "name": "from"
-                                },
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "person"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "person2"
-                                        }
-                                    ],
-                                    "name": "to"
-                                }
-                            ],
-                            "name": "recordToRecordLink"
-                        },
-                        {
-                            "children": [
-                                {
-                                    "children": [
-                                        {
-                                            "name": "linkedRecordType",
-                                            "value": "writtenText"
-                                        },
-                                        {
-                                            "name": "linkedRecordId",
-                                            "value": "writtenText:9011356289912"
-                                        },
-                                        {
-                                            "children": [
-                                                {
-                                                    "name": "nameInData",
                                                     "value": "physicalLocation"
                                                 },
                                                 {
