@@ -12048,6 +12048,29 @@
                                 }
                             ],
                             "name": "updated"
+                        },
+                        {
+                            "repeatId": "1",
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "name": "linkedRecordType",
+                                            "value": "user"
+                                        },
+                                        {
+                                            "name": "linkedRecordId",
+                                            "value": "141414"
+                                        }
+                                    ],
+                                    "name": "updatedBy"
+                                },
+                                {
+                                    "name": "tsUpdated",
+                                    "value": "2018-10-22 06:39:51.480"
+                                }
+                            ],
+                            "name": "updated"
                         }
                     ],
                     "name": "recordInfo"
@@ -12164,6 +12187,34 @@
                                 {
                                     "name": "linkedRecordId",
                                     "value": "permissionItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "8",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "publicationTypeItem"
+                                }
+                            ],
+                            "name": "ref"
+                        },
+                        {
+                            "repeatId": "9",
+                            "children": [
+                                {
+                                    "name": "linkedRecordType",
+                                    "value": "genericCollectionItem"
+                                },
+                                {
+                                    "name": "linkedRecordId",
+                                    "value": "controlledListsItem"
                                 }
                             ],
                             "name": "ref"
