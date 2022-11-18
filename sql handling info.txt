@@ -1,0 +1,1 @@
+psql -h localhost -U systemone -c "\copy (select * from record where datadivider = 'jsClient') to '/jsclient.txt'"
