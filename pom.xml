@@ -52,6 +52,12 @@
 				<includes>
 				</includes>
 			</resource>
+			<resource>
+				<targetPath>dbfiles</targetPath>
+				<directory>export</directory>
+				<includes>
+				</includes>
+			</resource>
 		</resources>
 		<plugins>
 			<plugin>
