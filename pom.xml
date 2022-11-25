@@ -54,7 +54,7 @@
 			</resource>
 			<resource>
 				<targetPath>dbfiles</targetPath>
-				<directory>export</directory>
+				<directory>dbfiles</directory>
 				<includes>
 				</includes>
 			</resource>

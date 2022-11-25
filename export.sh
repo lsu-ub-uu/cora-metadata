@@ -1,7 +1,8 @@
 #! /bin/bash
 
 baseDir="dbfiles"
-dockerName="systemone-cora-docker-postgresql"
+
+dockerName="systemone-docker-postgresql"
 
 start(){
 	echo "Exporting data from docker "$dockerName
