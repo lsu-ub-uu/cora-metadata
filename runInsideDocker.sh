@@ -52,9 +52,9 @@ exportLinks(){
 exportStorageTerms(){
 	local dataDivider=$1
 	local file="/"$baseDir"/"$dataDivider"/3_storageterms.sql"
-	local sql="select s.* from storageterm s join record r on s.recordtype = r."type"  and s.recordid = r.id where datadivider = '"$dataDivider"'"
+	local sql="select recordtype, recordid, storagetermid, value, storagekey from storageterm s join record r on s.recordtype = r."type"  and s.recordid = r.id where datadivider = '"$dataDivider"'"
 
-	echo "COPY public.storageterm (id, recordtype, recordid, storagetermid, value, storagekey) FROM stdin;" > $file
+	echo "COPY public.storageterm (recordtype, recordid, storagetermid, value, storagekey) FROM stdin;" > $file
 	runExport "$sql" "$file"
 }
 
