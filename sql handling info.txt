@@ -1,0 +1,32 @@
+pg_dump -U systemone -f systemone_2022-11-24.sql systemone
+
+docker cp systemone-cora-docker-postgresql:systemone_2022-11-24.sql .
+
+psql -h localhost -U systemone -c "\copy (select * from record where datadivider = 'jsClient') to '/jsclient.txt'"
+
+
+-- selects to get data by datadivider
+select * from record where datadivider = 'jsClient';
+select l.* from link l join record r on l.fromtype = r."type"  and l.fromid = r.id where datadivider = 'jsClient';
+select s.* from storageterm s join record r on s.recordtype = r."type"  and s.recordid = r.id where datadivider = 'jsClient';
+
+
+
+--datadivider, order
+-- for cora / systemO
+cora
+jsClient
+systemOne
+testSystem
+
+-- for Alvin
+cora
+jsClient
+alvin
+
+-- for DiVA
+cora
+jsClient
+diva
+divaProdSystem
+divaTestSystem
