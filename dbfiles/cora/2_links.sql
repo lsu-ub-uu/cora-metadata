@@ -5176,8 +5176,12 @@ coraText	validationOrderValidateLinksCollectionVarText	user	141414
 coraText	validationTypeDefText	recordType	coraText
 coraText	validationTypeDefText	system	cora
 coraText	validationTypeDefText	user	141414
+coraText	validationTypeLinkDefText	recordType	coraText
 coraText	validationTypeLinkDefText	system	cora
+coraText	validationTypeLinkDefText	user	141414
+coraText	validationTypeLinkText	recordType	coraText
 coraText	validationTypeLinkText	system	cora
+coraText	validationTypeLinkText	user	141414
 coraText	validationTypeNewDefText	system	cora
 coraText	validationTypeNewText	recordType	coraText
 coraText	validationTypeNewText	system	cora
