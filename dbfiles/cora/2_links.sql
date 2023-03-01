@@ -133,6 +133,7 @@ coraText	appTokenText	recordType	coraText
 coraText	appTokenText	system	cora
 coraText	appTokenText	systemOneUser	12345
 coraText	appTokenText	user	141414
+coraText	appTokenValidationDefText	system	cora
 coraText	attributeDefText	recordType	coraText
 coraText	attributeDefText	system	cora
 coraText	attributeDefText	systemOneUser	12345
@@ -497,6 +498,7 @@ coraText	collectIndexTermText	recordType	coraText
 coraText	collectIndexTermText	system	cora
 coraText	collectIndexTermText	systemOneUser	141414
 coraText	collectIndexTermText	user	141414
+coraText	collectIndexTermValidationDefText	system	cora
 coraText	collectionItemExtraDataGroupDefText	recordType	coraText
 coraText	collectionItemExtraDataGroupDefText	system	cora
 coraText	collectionItemExtraDataGroupDefText	user	141414
@@ -561,6 +563,7 @@ coraText	collectPermissionTermTypeCollectionVarDefText	systemOneUser	141414
 coraText	collectPermissionTermTypeCollectionVarText	recordType	coraText
 coraText	collectPermissionTermTypeCollectionVarText	system	cora
 coraText	collectPermissionTermTypeCollectionVarText	systemOneUser	141414
+coraText	collectPermissionTermValidationDefText	system	cora
 coraText	collectStorageTermDefText	recordType	coraText
 coraText	collectStorageTermDefText	system	cora
 coraText	collectStorageTermDefText	systemOneUser	141414
@@ -598,6 +601,7 @@ coraText	collectStorageTermTypeCollectionVarDefText	systemOneUser	141414
 coraText	collectStorageTermTypeCollectionVarText	recordType	coraText
 coraText	collectStorageTermTypeCollectionVarText	system	cora
 coraText	collectStorageTermTypeCollectionVarText	systemOneUser	141414
+coraText	collectStorageTermValidationDefText	system	cora
 coraText	collectTermDefText	recordType	coraText
 coraText	collectTermDefText	system	cora
 coraText	collectTermDefText	systemOneUser	141414
@@ -690,6 +694,7 @@ coraText	coraTextText	recordType	coraText
 coraText	coraTextText	system	cora
 coraText	coraTextText	systemOneUser	12345
 coraText	coraTextText	user	141414
+coraText	coraTextValidationDefText	system	cora
 coraText	coraUserDefText	recordType	coraText
 coraText	coraUserDefText	system	cora
 coraText	coraUserDefText	user	141414
@@ -732,6 +737,7 @@ coraText	coraUserTypeItemDefText	user	141414
 coraText	coraUserTypeItemText	recordType	coraText
 coraText	coraUserTypeItemText	system	cora
 coraText	coraUserTypeItemText	user	141414
+coraText	coraUserValidationDefText	system	cora
 coraText	countryTextVarDefText	recordType	coraText
 coraText	countryTextVarDefText	system	cora
 coraText	countryTextVarDefText	systemOneUser	141414
@@ -1057,6 +1063,7 @@ coraText	genericBinaryText	recordType	coraText
 coraText	genericBinaryText	system	cora
 coraText	genericBinaryText	systemOneUser	12345
 coraText	genericBinaryText	user	141414
+coraText	genericBinaryValidationDefText	system	cora
 coraText	genericCollectionItemDefText	recordType	coraText
 coraText	genericCollectionItemDefText	system	cora
 coraText	genericCollectionItemDefText	systemOneUser	12345
@@ -1082,6 +1089,7 @@ coraText	genericCollectionItemText	recordType	coraText
 coraText	genericCollectionItemText	system	cora
 coraText	genericCollectionItemText	systemOneUser	12345
 coraText	genericCollectionItemText	user	141414
+coraText	genericCollectionItemValidationDefText	system	cora
 coraText	genericFilterGroupDefText	recordType	coraText
 coraText	genericFilterGroupDefText	system	cora
 coraText	genericFilterGroupDefText	user	141414
@@ -1167,6 +1175,7 @@ coraText	guiElementLinkSearchText	user	141414
 coraText	guiElementLinkText	recordType	coraText
 coraText	guiElementLinkText	system	cora
 coraText	guiElementLinkText	user	141414
+coraText	guiElementLinkValidationDefText	system	cora
 coraText	guiElementNewGroupDefText	recordType	coraText
 coraText	guiElementNewGroupDefText	system	cora
 coraText	guiElementNewGroupDefText	user	141414
@@ -1396,6 +1405,7 @@ coraText	imageText	recordType	coraText
 coraText	imageText	system	cora
 coraText	imageText	systemOneUser	12345
 coraText	imageText	user	141414
+coraText	imageValidationDefText	system	cora
 coraText	inactiveItemDefText	recordType	coraText
 coraText	inactiveItemDefText	system	cora
 coraText	inactiveItemDefText	systemOneUser	12345
@@ -1444,6 +1454,7 @@ coraText	indexBatchJobSearchText	user	141414
 coraText	indexBatchJobText	recordType	coraText
 coraText	indexBatchJobText	system	cora
 coraText	indexBatchJobText	user	141414
+coraText	indexBatchJobValidationDefText	system	cora
 coraText	indexFieldNameTextVarDefText	recordType	coraText
 coraText	indexFieldNameTextVarDefText	system	cora
 coraText	indexFieldNameTextVarDefText	systemOneUser	141414
@@ -1793,6 +1804,7 @@ coraText	loginLDAPSearchText	user	141414
 coraText	loginLDAPText	recordType	coraText
 coraText	loginLDAPText	system	cora
 coraText	loginLDAPText	user	141414
+coraText	loginLDAPValidationDefText	system	cora
 coraText	loginLinkDefText	recordType	coraText
 coraText	loginLinkDefText	system	cora
 coraText	loginLinkDefText	systemOneUser	141414
@@ -1834,6 +1846,7 @@ coraText	loginTokenText	recordType	coraText
 coraText	loginTokenText	system	cora
 coraText	loginTokenText	systemOneUser	12345
 coraText	loginTokenText	user	141414
+coraText	loginTokenValidationDefText	system	cora
 coraText	loginTypeCollectionDefText	recordType	coraText
 coraText	loginTypeCollectionDefText	system	cora
 coraText	loginTypeCollectionDefText	systemOneUser	12345
@@ -1921,6 +1934,7 @@ coraText	loginUnitText	recordType	coraText
 coraText	loginUnitText	system	cora
 coraText	loginUnitText	systemOneUser	141414
 coraText	loginUnitText	user	141414
+coraText	loginUnitValidationDefText	system	cora
 coraText	loginWebRedirectDefText	recordType	coraText
 coraText	loginWebRedirectDefText	system	cora
 coraText	loginWebRedirectDefText	systemOneUser	12345
@@ -1940,6 +1954,7 @@ coraText	loginWebRedirectText	recordType	coraText
 coraText	loginWebRedirectText	system	cora
 coraText	loginWebRedirectText	systemOneUser	12345
 coraText	loginWebRedirectText	user	141414
+coraText	loginWebRedirectValidationDefText	system	cora
 coraText	mapItemDefText	recordType	coraText
 coraText	mapItemDefText	system	cora
 coraText	mapItemDefText	systemOneUser	141414
@@ -2037,6 +2052,7 @@ coraText	metadataCollectionVariableText	recordType	coraText
 coraText	metadataCollectionVariableText	system	cora
 coraText	metadataCollectionVariableText	systemOneUser	12345
 coraText	metadataCollectionVariableText	user	141414
+coraText	metadataCollectionVariableValidationDefText	system	cora
 coraText	metadataDefText	recordType	coraText
 coraText	metadataDefText	system	cora
 coraText	metadataDefText	systemOneUser	12345
@@ -2095,6 +2111,7 @@ coraText	metadataGroupText	recordType	coraText
 coraText	metadataGroupText	system	cora
 coraText	metadataGroupText	systemOneUser	12345
 coraText	metadataGroupText	user	141414
+coraText	metadataGroupValidationDefText	system	cora
 coraText	metadataHeadlineText	recordType	coraText
 coraText	metadataHeadlineText	system	cora
 coraText	metadataHeadlineText	systemOneUser	141414
@@ -2135,6 +2152,7 @@ coraText	metadataItemCollectionText	recordType	coraText
 coraText	metadataItemCollectionText	system	cora
 coraText	metadataItemCollectionText	systemOneUser	12345
 coraText	metadataItemCollectionText	user	141414
+coraText	metadataItemCollectionValidationDefText	system	cora
 coraText	metadataItemDefText	recordType	coraText
 coraText	metadataItemDefText	system	cora
 coraText	metadataItemDefText	systemOneUser	141414
@@ -2195,6 +2213,7 @@ coraText	metadataNumberVariableSearchText	user	141414
 coraText	metadataNumberVariableText	recordType	coraText
 coraText	metadataNumberVariableText	system	cora
 coraText	metadataNumberVariableText	user	141414
+coraText	metadataNumberVariableValidationDefText	system	cora
 coraText	metadataRecordLinkDefText	recordType	coraText
 coraText	metadataRecordLinkDefText	system	cora
 coraText	metadataRecordLinkDefText	systemOneUser	12345
@@ -2214,6 +2233,7 @@ coraText	metadataRecordLinkText	recordType	coraText
 coraText	metadataRecordLinkText	system	cora
 coraText	metadataRecordLinkText	systemOneUser	12345
 coraText	metadataRecordLinkText	user	141414
+coraText	metadataRecordLinkValidationDefText	system	cora
 coraText	metadataResourceLinkDefText	recordType	coraText
 coraText	metadataResourceLinkDefText	system	cora
 coraText	metadataResourceLinkDefText	systemOneUser	12345
@@ -2239,6 +2259,7 @@ coraText	metadataResourceLinkText	recordType	coraText
 coraText	metadataResourceLinkText	system	cora
 coraText	metadataResourceLinkText	systemOneUser	12345
 coraText	metadataResourceLinkText	user	141414
+coraText	metadataResourceLinkValidationDefText	system	cora
 coraText	metadataSearchDefText	recordType	coraText
 coraText	metadataSearchDefText	system	cora
 coraText	metadataSearchDefText	user	141414
@@ -2324,6 +2345,7 @@ coraText	metadataTextVariableText	recordType	coraText
 coraText	metadataTextVariableText	system	cora
 coraText	metadataTextVariableText	systemOneUser	12345
 coraText	metadataTextVariableText	user	141414
+coraText	metadataTextVariableValidationDefText	system	cora
 coraText	metadataToValidateCollectionDefText	recordType	coraText
 coraText	metadataToValidateCollectionDefText	system	cora
 coraText	metadataToValidateCollectionDefText	user	141414
@@ -2744,6 +2766,7 @@ coraText	permissionRoleText	recordType	coraText
 coraText	permissionRoleText	system	cora
 coraText	permissionRoleText	systemOneUser	12345
 coraText	permissionRoleText	user	141414
+coraText	permissionRoleValidationDefText	system	cora
 coraText	permissionRuleDefText	recordType	coraText
 coraText	permissionRuleDefText	system	cora
 coraText	permissionRuleDefText	systemOneUser	12345
@@ -2894,6 +2917,7 @@ coraText	permissionRuleText	recordType	coraText
 coraText	permissionRuleText	system	cora
 coraText	permissionRuleText	systemOneUser	12345
 coraText	permissionRuleText	user	141414
+coraText	permissionRuleValidationDefText	system	cora
 coraText	permissionTermRulePartGroupDefText	recordType	coraText
 coraText	permissionTermRulePartGroupDefText	system	cora
 coraText	permissionTermRulePartGroupDefText	user	141414
@@ -2948,6 +2972,7 @@ coraText	permissionUnitSearchText	systemOneUser	141414
 coraText	permissionUnitText	recordType	coraText
 coraText	permissionUnitText	system	cora
 coraText	permissionUnitText	systemOneUser	141414
+coraText	permissionUnitValidationDefText	system	cora
 coraText	pGroupItemDefText	recordType	coraText
 coraText	pGroupItemDefText	system	cora
 coraText	pGroupItemDefText	systemOneUser	12345
@@ -3028,6 +3053,7 @@ coraText	presentationCollectionVarText	recordType	coraText
 coraText	presentationCollectionVarText	system	cora
 coraText	presentationCollectionVarText	systemOneUser	12345
 coraText	presentationCollectionVarText	user	141414
+coraText	presentationCollectionVarValidationDefText	system	cora
 coraText	presentationContainerGroupDefText	recordType	coraText
 coraText	presentationContainerGroupDefText	system	cora
 coraText	presentationContainerGroupDefText	systemOneUser	141414
@@ -3077,6 +3103,7 @@ coraText	presentationGroupText	recordType	coraText
 coraText	presentationGroupText	system	cora
 coraText	presentationGroupText	systemOneUser	12345
 coraText	presentationGroupText	user	141414
+coraText	presentationGroupValidationDefText	system	cora
 coraText	presentationHeadlineText	recordType	coraText
 coraText	presentationHeadlineText	system	cora
 coraText	presentationHeadlineText	systemOneUser	141414
@@ -3140,6 +3167,7 @@ coraText	presentationNumberVarSearchText	user	141414
 coraText	presentationNumberVarText	recordType	coraText
 coraText	presentationNumberVarText	system	cora
 coraText	presentationNumberVarText	user	141414
+coraText	presentationNumberVarValidationDefText	system	cora
 coraText	presentationOfCollectionVarLinkDefText	recordType	coraText
 coraText	presentationOfCollectionVarLinkDefText	system	cora
 coraText	presentationOfCollectionVarLinkDefText	systemOneUser	12345
@@ -3198,6 +3226,7 @@ coraText	presentationRecordLinkText	recordType	coraText
 coraText	presentationRecordLinkText	system	cora
 coraText	presentationRecordLinkText	systemOneUser	12345
 coraText	presentationRecordLinkText	user	141414
+coraText	presentationRecordLinkValidationDefText	system	cora
 coraText	presentationRefGroupDefText	recordType	coraText
 coraText	presentationRefGroupDefText	system	cora
 coraText	presentationRefGroupDefText	systemOneUser	12345
@@ -3247,6 +3276,7 @@ coraText	presentationRepeatingContainerText	recordType	coraText
 coraText	presentationRepeatingContainerText	system	cora
 coraText	presentationRepeatingContainerText	systemOneUser	12345
 coraText	presentationRepeatingContainerText	user	141414
+coraText	presentationRepeatingContainerValidationDefText	system	cora
 coraText	presentationResourceLinkDefText	recordType	coraText
 coraText	presentationResourceLinkDefText	system	cora
 coraText	presentationResourceLinkDefText	systemOneUser	12345
@@ -3272,6 +3302,7 @@ coraText	presentationResourceLinkText	recordType	coraText
 coraText	presentationResourceLinkText	system	cora
 coraText	presentationResourceLinkText	systemOneUser	12345
 coraText	presentationResourceLinkText	user	141414
+coraText	presentationResourceLinkValidationDefText	system	cora
 coraText	presentationSearchGroupDefText	recordType	coraText
 coraText	presentationSearchGroupDefText	system	cora
 coraText	presentationSearchGroupDefText	user	141414
@@ -3348,6 +3379,7 @@ coraText	presentationSurroundingContainerText	recordType	coraText
 coraText	presentationSurroundingContainerText	system	cora
 coraText	presentationSurroundingContainerText	systemOneUser	12345
 coraText	presentationSurroundingContainerText	user	141414
+coraText	presentationSurroundingContainerValidationDefText	system	cora
 coraText	presentationText	recordType	coraText
 coraText	presentationText	system	cora
 coraText	presentationText	systemOneUser	12345
@@ -3489,6 +3521,7 @@ coraText	presentationVarText	recordType	coraText
 coraText	presentationVarText	system	cora
 coraText	presentationVarText	systemOneUser	12345
 coraText	presentationVarText	user	141414
+coraText	presentationVarValidationDefText	system	cora
 coraText	presentationViewIdLinkDefText	recordType	coraText
 coraText	presentationViewIdLinkDefText	system	cora
 coraText	presentationViewIdLinkDefText	systemOneUser	141414
@@ -3795,6 +3828,7 @@ coraText	recordTypeTypeCollectionVarDefText	systemOneUser	12345
 coraText	recordTypeTypeCollectionVarText	recordType	coraText
 coraText	recordTypeTypeCollectionVarText	system	cora
 coraText	recordTypeTypeCollectionVarText	systemOneUser	12345
+coraText	recordTypeValidationDefText	system	cora
 coraText	refCollectionIdLinkDefText	recordType	coraText
 coraText	refCollectionIdLinkDefText	system	cora
 coraText	refCollectionIdLinkDefText	systemOneUser	12345
@@ -4250,9 +4284,11 @@ coraText	searchTermTypeCollectionVarDefText	systemOneUser	141414
 coraText	searchTermTypeCollectionVarText	recordType	coraText
 coraText	searchTermTypeCollectionVarText	system	cora
 coraText	searchTermTypeCollectionVarText	systemOneUser	141414
+coraText	searchTermValidationDefText	system	cora
 coraText	searchText	recordType	coraText
 coraText	searchText	system	cora
 coraText	searchText	systemOneUser	141414
+coraText	searchValidationDefText	system	cora
 coraText	secretKeyTextVarDefText	recordType	coraText
 coraText	secretKeyTextVarDefText	system	cora
 coraText	secretKeyTextVarDefText	systemOneUser	12345
@@ -4352,6 +4388,7 @@ coraText	soundText	recordType	coraText
 coraText	soundText	system	cora
 coraText	soundText	systemOneUser	12345
 coraText	soundText	user	141414
+coraText	soundValidationDefText	system	cora
 coraText	spaceText	recordType	coraText
 coraText	spaceText	system	cora
 coraText	spaceText	user	141414
@@ -4525,6 +4562,7 @@ coraText	systemOneUserRoleRulePartGroupText	systemOneUser	141414
 coraText	systemOneUserText	recordType	coraText
 coraText	systemOneUserText	system	cora
 coraText	systemOneUserText	systemOneUser	12345
+coraText	systemOneUserValidationDefText	system	cora
 coraText	systemSearchGroupDefText	recordType	coraText
 coraText	systemSearchGroupDefText	system	cora
 coraText	systemSearchGroupDefText	user	141414
@@ -4561,10 +4599,12 @@ coraText	systemSecretSearchText	user	141414
 coraText	systemSecretText	recordType	coraText
 coraText	systemSecretText	system	cora
 coraText	systemSecretText	user	141414
+coraText	systemSecretValidationDefText	system	cora
 coraText	systemText	recordType	coraText
 coraText	systemText	system	cora
 coraText	systemText	systemOneUser	12345
 coraText	systemText	user	141414
+coraText	systemValidationDefText	system	cora
 coraText	tenChildStyleItemDefText	recordType	coraText
 coraText	tenChildStyleItemDefText	system	cora
 coraText	tenChildStyleItemDefText	systemOneUser	12345
@@ -4893,6 +4933,7 @@ coraText	textSystemOneText	recordType	coraText
 coraText	textSystemOneText	system	cora
 coraText	textSystemOneText	systemOneUser	12345
 coraText	textSystemOneText	user	141414
+coraText	textSystemOneValidationDefText	system	cora
 coraText	textText	recordType	coraText
 coraText	textText	system	cora
 coraText	textText	systemOneUser	12345
@@ -5182,6 +5223,7 @@ coraText	validationOrderValidateLinksCollectionVarDefText	user	141414
 coraText	validationOrderValidateLinksCollectionVarText	recordType	coraText
 coraText	validationOrderValidateLinksCollectionVarText	system	cora
 coraText	validationOrderValidateLinksCollectionVarText	user	141414
+coraText	validationOrderValidationDefText	system	cora
 coraText	validationTypeDefText	recordType	coraText
 coraText	validationTypeDefText	system	cora
 coraText	validationTypeDefText	user	141414
@@ -5200,6 +5242,7 @@ coraText	validationTypeSearchText	system	cora
 coraText	validationTypeText	recordType	coraText
 coraText	validationTypeText	system	cora
 coraText	validationTypeText	user	141414
+coraText	validationTypeValidationDefText	system	cora
 coraText	validatoinOrderRecordTypeLinkDefText	recordType	coraText
 coraText	validatoinOrderRecordTypeLinkDefText	system	cora
 coraText	validatoinOrderRecordTypeLinkDefText	user	141414
@@ -5285,6 +5328,7 @@ coraText	workOrderTypeItemCollectionDefText	systemOneUser	141414
 coraText	workOrderTypeItemCollectionText	recordType	coraText
 coraText	workOrderTypeItemCollectionText	system	cora
 coraText	workOrderTypeItemCollectionText	systemOneUser	141414
+coraText	workOrderValidationDefText	system	cora
 coraText	yesAttributeItemDefText	recordType	coraText
 coraText	yesAttributeItemDefText	system	cora
 coraText	yesAttributeItemDefText	systemOneUser	131313
@@ -5860,6 +5904,14 @@ indexBatchJob	indexBatchJob:6636707251150538	recordType	indexBatchJob
 indexBatchJob	indexBatchJob:6636707251150538	system	cora
 indexBatchJob	indexBatchJob:6636707251150538	user	141414
 indexBatchJob	indexBatchJob:6636707251150538	user	system
+indexBatchJob	indexBatchJob:6647752797342042	recordType	indexBatchJob
+indexBatchJob	indexBatchJob:6647752797342042	system	cora
+indexBatchJob	indexBatchJob:6647752797342042	user	141414
+indexBatchJob	indexBatchJob:6647752797342042	user	system
+indexBatchJob	indexBatchJob:6647765553754342	recordType	indexBatchJob
+indexBatchJob	indexBatchJob:6647765553754342	system	cora
+indexBatchJob	indexBatchJob:6647765553754342	user	141414
+indexBatchJob	indexBatchJob:6647765553754342	user	system
 loginLDAP	uppsalaLDAP	recordType	loginLDAP
 loginLDAP	uppsalaLDAP	system	cora
 loginLDAP	uppsalaLDAP	user	141414
@@ -7036,10 +7088,60 @@ metadataGroup	recordInfoWorkOrderGroup	metadataTextVariable	tsCreatedTextVar
 metadataGroup	recordInfoWorkOrderGroup	recordType	metadataGroup
 metadataGroup	recordInfoWorkOrderGroup	system	cora
 metadataGroup	recordInfoWorkOrderGroup	user	141414
+metadataGroup	recordTypeGroup	coraText	recordTypeDefText
+metadataGroup	recordTypeGroup	coraText	recordTypeText
+metadataGroup	recordTypeGroup	metadataCollectionVariable	abstractCollectionVar
+metadataGroup	recordTypeGroup	metadataCollectionVariable	groupOfRecordTypeCollectionVar
+metadataGroup	recordTypeGroup	metadataCollectionVariable	publicRecordTypeCollectionVar
+metadataGroup	recordTypeGroup	metadataCollectionVariable	recordTypeCategoryCollectionVar
+metadataGroup	recordTypeGroup	metadataCollectionVariable	storeInArchiveCollectionVar
+metadataGroup	recordTypeGroup	metadataCollectionVariable	userSuppliedIdCollectionVar
+metadataGroup	recordTypeGroup	metadataGroup	recordInfoGroup
+metadataGroup	recordTypeGroup	metadataRecordLink	autocompletePresentationViewLink
+metadataGroup	recordTypeGroup	metadataRecordLink	defTextIdLink
+metadataGroup	recordTypeGroup	metadataRecordLink	listPresentationViewIdLink
+metadataGroup	recordTypeGroup	metadataRecordLink	menuPresentationViewIdLink
+metadataGroup	recordTypeGroup	metadataRecordLink	metadataIdLink
+metadataGroup	recordTypeGroup	metadataRecordLink	newMetadataIdLink
+metadataGroup	recordTypeGroup	metadataRecordLink	newPresentationFormIdLink
+metadataGroup	recordTypeGroup	metadataRecordLink	presentationFormIdLink
+metadataGroup	recordTypeGroup	metadataRecordLink	presentationViewIdLink
+metadataGroup	recordTypeGroup	metadataRecordLink	recordTypeFilterMetadataLink
+metadataGroup	recordTypeGroup	metadataRecordLink	recordTypeFilterPresentationLink
+metadataGroup	recordTypeGroup	metadataRecordLink	recordTypeIndexSettingsLink
+metadataGroup	recordTypeGroup	metadataRecordLink	recordTypeParentIdLink
+metadataGroup	recordTypeGroup	metadataRecordLink	recordTypeSearchLink
+metadataGroup	recordTypeGroup	metadataRecordLink	textIdLink
+metadataGroup	recordTypeGroup	metadataRecordLink	validationTypeLink
 metadataGroup	recordTypeGroup	recordType	metadataGroup
 metadataGroup	recordTypeGroup	system	cora
 metadataGroup	recordTypeGroup	systemOneUser	12345
 metadataGroup	recordTypeGroup	user	141414
+metadataGroup	recordTypeNewGroup	coraText	recordTypeDefText
+metadataGroup	recordTypeNewGroup	coraText	recordTypeText
+metadataGroup	recordTypeNewGroup	metadataCollectionVariable	abstractCollectionVar
+metadataGroup	recordTypeNewGroup	metadataCollectionVariable	groupOfRecordTypeCollectionVar
+metadataGroup	recordTypeNewGroup	metadataCollectionVariable	publicRecordTypeCollectionVar
+metadataGroup	recordTypeNewGroup	metadataCollectionVariable	recordTypeCategoryCollectionVar
+metadataGroup	recordTypeNewGroup	metadataCollectionVariable	storeInArchiveCollectionVar
+metadataGroup	recordTypeNewGroup	metadataCollectionVariable	userSuppliedIdCollectionVar
+metadataGroup	recordTypeNewGroup	metadataGroup	recordInfoNewGroup
+metadataGroup	recordTypeNewGroup	metadataRecordLink	autocompletePresentationViewLink
+metadataGroup	recordTypeNewGroup	metadataRecordLink	defTextIdLink
+metadataGroup	recordTypeNewGroup	metadataRecordLink	listPresentationViewIdLink
+metadataGroup	recordTypeNewGroup	metadataRecordLink	menuPresentationViewIdLink
+metadataGroup	recordTypeNewGroup	metadataRecordLink	metadataIdLink
+metadataGroup	recordTypeNewGroup	metadataRecordLink	newMetadataIdLink
+metadataGroup	recordTypeNewGroup	metadataRecordLink	newPresentationFormIdLink
+metadataGroup	recordTypeNewGroup	metadataRecordLink	presentationFormIdLink
+metadataGroup	recordTypeNewGroup	metadataRecordLink	presentationViewIdLink
+metadataGroup	recordTypeNewGroup	metadataRecordLink	recordTypeFilterMetadataLink
+metadataGroup	recordTypeNewGroup	metadataRecordLink	recordTypeFilterPresentationLink
+metadataGroup	recordTypeNewGroup	metadataRecordLink	recordTypeIndexSettingsLink
+metadataGroup	recordTypeNewGroup	metadataRecordLink	recordTypeParentIdLink
+metadataGroup	recordTypeNewGroup	metadataRecordLink	recordTypeSearchLink
+metadataGroup	recordTypeNewGroup	metadataRecordLink	textIdLink
+metadataGroup	recordTypeNewGroup	metadataRecordLink	validationTypeLink
 metadataGroup	recordTypeNewGroup	recordType	metadataGroup
 metadataGroup	recordTypeNewGroup	system	cora
 metadataGroup	recordTypeNewGroup	systemOneUser	12345
@@ -7228,7 +7330,6 @@ metadataGroup	validationTypeGroup	metadataRecordLink	newMetadataIdLink
 metadataGroup	validationTypeGroup	metadataRecordLink	newPresentationFormIdLink
 metadataGroup	validationTypeGroup	metadataRecordLink	presentationFormIdLink
 metadataGroup	validationTypeGroup	metadataRecordLink	textIdLink
-metadataGroup	validationTypeGroup	metadataRecordLink	validatesRecordTypeLink
 metadataGroup	validationTypeGroup	recordType	metadataGroup
 metadataGroup	validationTypeGroup	system	cora
 metadataGroup	validationTypeGroup	user	141414
@@ -7241,7 +7342,6 @@ metadataGroup	validationTypeNewGroup	metadataRecordLink	newMetadataIdLink
 metadataGroup	validationTypeNewGroup	metadataRecordLink	newPresentationFormIdLink
 metadataGroup	validationTypeNewGroup	metadataRecordLink	presentationFormIdLink
 metadataGroup	validationTypeNewGroup	metadataRecordLink	textIdLink
-metadataGroup	validationTypeNewGroup	metadataRecordLink	validatesRecordTypeLink
 metadataGroup	validationTypeNewGroup	recordType	metadataGroup
 metadataGroup	validationTypeNewGroup	system	cora
 metadataGroup	validationTypeNewGroup	user	141414
@@ -12102,7 +12202,6 @@ presentationGroup	validationTypeNewPGroup	coraText	newPresentationFormIdLinkText
 presentationGroup	validationTypeNewPGroup	coraText	newValidationTypeText
 presentationGroup	validationTypeNewPGroup	coraText	presentationFormIdLinkText
 presentationGroup	validationTypeNewPGroup	coraText	recordInfoNewGroupText
-presentationGroup	validationTypeNewPGroup	coraText	validatesRecordTypeLinkText
 presentationGroup	validationTypeNewPGroup	coraText	validationTypeNewText
 presentationGroup	validationTypeNewPGroup	coraText	validationTypeText
 presentationGroup	validationTypeNewPGroup	metadataGroup	validationTypeNewGroup
@@ -12111,7 +12210,6 @@ presentationGroup	validationTypeNewPGroup	presentationRecordLink	metadataIdPLink
 presentationGroup	validationTypeNewPGroup	presentationRecordLink	newMetadataIdPLink
 presentationGroup	validationTypeNewPGroup	presentationRecordLink	newPresentationFormIdPLink
 presentationGroup	validationTypeNewPGroup	presentationRecordLink	presentationFormIdPLink
-presentationGroup	validationTypeNewPGroup	presentationRecordLink	validatesRecordTypePLink
 presentationGroup	validationTypeNewPGroup	presentationSurroundingContainer	textHeaderSContainer
 presentationGroup	validationTypeNewPGroup	presentationSurroundingContainer	textSContainer
 presentationGroup	validationTypeNewPGroup	recordType	presentationGroup
@@ -12120,7 +12218,6 @@ presentationGroup	validationTypeNewPGroup	user	141414
 presentationGroup	validationTypeOutputPGroup	coraText	newPresentationFormIdLinkText
 presentationGroup	validationTypeOutputPGroup	coraText	presentationFormIdLinkText
 presentationGroup	validationTypeOutputPGroup	coraText	recordInfoGroupText
-presentationGroup	validationTypeOutputPGroup	coraText	validatesRecordTypeLinkText
 presentationGroup	validationTypeOutputPGroup	coraText	validationTypeNewText
 presentationGroup	validationTypeOutputPGroup	coraText	validationTypeText
 presentationGroup	validationTypeOutputPGroup	metadataGroup	validationTypeGroup
@@ -12129,7 +12226,6 @@ presentationGroup	validationTypeOutputPGroup	presentationRecordLink	metadataIdOu
 presentationGroup	validationTypeOutputPGroup	presentationRecordLink	newMetadataIdOutputPLink
 presentationGroup	validationTypeOutputPGroup	presentationRecordLink	newPresentationFormIdOutputPLink
 presentationGroup	validationTypeOutputPGroup	presentationRecordLink	presentationFormIdOutputPLink
-presentationGroup	validationTypeOutputPGroup	presentationRecordLink	validatesRecordTypeOutputPLink
 presentationGroup	validationTypeOutputPGroup	presentationSurroundingContainer	textHeaderSContainer
 presentationGroup	validationTypeOutputPGroup	presentationSurroundingContainer	textOutputSContainer
 presentationGroup	validationTypeOutputPGroup	recordType	presentationGroup
@@ -12138,7 +12234,6 @@ presentationGroup	validationTypeOutputPGroup	user	141414
 presentationGroup	validationTypePGroup	coraText	newPresentationFormIdLinkText
 presentationGroup	validationTypePGroup	coraText	presentationFormIdLinkText
 presentationGroup	validationTypePGroup	coraText	recordInfoGroupText
-presentationGroup	validationTypePGroup	coraText	validatesRecordTypeLinkText
 presentationGroup	validationTypePGroup	coraText	validationTypeNewText
 presentationGroup	validationTypePGroup	coraText	validationTypeText
 presentationGroup	validationTypePGroup	metadataGroup	validationTypeGroup
@@ -12147,7 +12242,6 @@ presentationGroup	validationTypePGroup	presentationRecordLink	metadataIdPLink
 presentationGroup	validationTypePGroup	presentationRecordLink	newMetadataIdPLink
 presentationGroup	validationTypePGroup	presentationRecordLink	newPresentationFormIdPLink
 presentationGroup	validationTypePGroup	presentationRecordLink	presentationFormIdPLink
-presentationGroup	validationTypePGroup	presentationRecordLink	validatesRecordTypePLink
 presentationGroup	validationTypePGroup	presentationSurroundingContainer	textHeaderSContainer
 presentationGroup	validationTypePGroup	presentationSurroundingContainer	textSContainer
 presentationGroup	validationTypePGroup	recordType	presentationGroup
