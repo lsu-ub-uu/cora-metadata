@@ -6235,8 +6235,8 @@ metadata	workOrderNewGroup	metadata	workOrderRecordTypeLink
 metadata	workOrderNewGroup	metadata	workOrderTypeCollectionVar
 metadata	workOrderNewGroup	recordType	metadata
 metadata	workOrderNewGroup	system	cora
-metadata	workOrderNewGroup	text	workOrderGroupDefText
 metadata	workOrderNewGroup	text	workOrderGroupText
+metadata	workOrderNewGroup	text	workOrderNewGroupDefText
 metadata	workOrderNewGroup	user	141414
 metadata	workOrderNewGroup	validationType	metadataGroup
 metadata	workOrderPerformCommitCollectionVar	metadata	trueFalseCollection
@@ -22432,6 +22432,10 @@ text	workOrderGroupText	recordType	text
 text	workOrderGroupText	system	cora
 text	workOrderGroupText	user	141414
 text	workOrderGroupText	validationType	coraText
+text	workOrderNewGroupDefText	recordType	text
+text	workOrderNewGroupDefText	system	cora
+text	workOrderNewGroupDefText	user	141414
+text	workOrderNewGroupDefText	validationType	coraText
 text	workOrderPerformCommitCollectionVarDefText	recordType	text
 text	workOrderPerformCommitCollectionVarDefText	system	cora
 text	workOrderPerformCommitCollectionVarDefText	user	141414
