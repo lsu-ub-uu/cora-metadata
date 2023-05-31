@@ -1563,7 +1563,7 @@ metadata	idTextVarTextVar	user	12345
 metadata	idTextVarTextVar	user	141414
 metadata	idTextVarTextVar	validationType	metadataTextVariable
 metadata	imageGroup	metadata	binaryGroup
-metadata	imageGroup	metadata	binaryTypeImageCollectionVar
+metadata	imageGroup	metadata	binaryTypeGenericBinaryCollectionVar
 metadata	imageGroup	metadata	recordInfoGroup
 metadata	imageGroup	metadata	resourceInfoGroup
 metadata	imageGroup	recordType	metadata

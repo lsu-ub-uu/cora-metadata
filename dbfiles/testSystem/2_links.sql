@@ -1,4 +1,8 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
+binary	binary:607473512331499	recordType	binary
+binary	binary:607473512331499	system	testSystem
+binary	binary:607473512331499	user	141414
+binary	binary:607473512331499	validationType	genericBinary
 binary	binary:81103409083275	recordType	binary
 binary	binary:81103409083275	system	testSystem
 binary	binary:81103409083275	user	141414
@@ -7,6 +11,7 @@ binary	binary:81136955333675	recordType	binary
 binary	binary:81136955333675	system	testSystem
 binary	binary:81136955333675	user	141414
 binary	binary:81136955333675	validationType	genericBinary
+demo	sdfsdf	binary	binary:607473512331499
 demo	sdfsdf	recordType	demo
 demo	sdfsdf	system	testSystem
 demo	sdfsdf	user	141414
