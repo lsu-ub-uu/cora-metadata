@@ -132,36 +132,6 @@ indexBatchJob	indexBatchJob:1315005577496455	system	cora
 indexBatchJob	indexBatchJob:1315005577496455	user	141414
 indexBatchJob	indexBatchJob:1315005577496455	user	system
 indexBatchJob	indexBatchJob:1315005577496455	validationType	indexBatchJob
-indexBatchJob	indexBatchJob:1384762485854503	recordType	indexBatchJob
-indexBatchJob	indexBatchJob:1384762485854503	system	cora
-indexBatchJob	indexBatchJob:1384762485854503	user	141414
-indexBatchJob	indexBatchJob:1384762485854503	user	system
-indexBatchJob	indexBatchJob:1384762485854503	validationType	indexBatchJob
-indexBatchJob	indexBatchJob:1384763324977378	recordType	indexBatchJob
-indexBatchJob	indexBatchJob:1384763324977378	system	cora
-indexBatchJob	indexBatchJob:1384763324977378	user	141414
-indexBatchJob	indexBatchJob:1384763324977378	user	system
-indexBatchJob	indexBatchJob:1384763324977378	validationType	indexBatchJob
-indexBatchJob	indexBatchJob:1384763716681108	recordType	indexBatchJob
-indexBatchJob	indexBatchJob:1384763716681108	system	cora
-indexBatchJob	indexBatchJob:1384763716681108	user	141414
-indexBatchJob	indexBatchJob:1384763716681108	user	system
-indexBatchJob	indexBatchJob:1384763716681108	validationType	indexBatchJob
-indexBatchJob	indexBatchJob:1384764140133438	recordType	indexBatchJob
-indexBatchJob	indexBatchJob:1384764140133438	system	cora
-indexBatchJob	indexBatchJob:1384764140133438	user	141414
-indexBatchJob	indexBatchJob:1384764140133438	user	system
-indexBatchJob	indexBatchJob:1384764140133438	validationType	indexBatchJob
-indexBatchJob	indexBatchJob:1384764846586493	recordType	indexBatchJob
-indexBatchJob	indexBatchJob:1384764846586493	system	cora
-indexBatchJob	indexBatchJob:1384764846586493	user	141414
-indexBatchJob	indexBatchJob:1384764846586493	user	system
-indexBatchJob	indexBatchJob:1384764846586493	validationType	indexBatchJob
-indexBatchJob	indexBatchJob:1384765603635193	recordType	indexBatchJob
-indexBatchJob	indexBatchJob:1384765603635193	system	cora
-indexBatchJob	indexBatchJob:1384765603635193	user	141414
-indexBatchJob	indexBatchJob:1384765603635193	user	system
-indexBatchJob	indexBatchJob:1384765603635193	validationType	indexBatchJob
 login	uppsalaLDAP	metadata	ldapGroup
 login	uppsalaLDAP	presentation	ldapPGroup
 login	uppsalaLDAP	recordType	login
@@ -4683,7 +4653,6 @@ metadata	recordTypeFilterPresentationLink	text	recordTypeFilterPresentationLinkD
 metadata	recordTypeFilterPresentationLink	text	recordTypeFilterPresentationLinkText
 metadata	recordTypeFilterPresentationLink	user	141414
 metadata	recordTypeFilterPresentationLink	validationType	metadataRecordLink
-metadata	recordTypeGroup	metadata	abstractCollectionVar
 metadata	recordTypeGroup	metadata	autocompletePresentationViewLink
 metadata	recordTypeGroup	metadata	defTextIdLink
 metadata	recordTypeGroup	metadata	groupOfRecordTypeCollectionVar
@@ -4722,7 +4691,6 @@ metadata	recordTypeLink	text	recordTypeLinkDefText
 metadata	recordTypeLink	text	recordTypeLinkText
 metadata	recordTypeLink	user	141414
 metadata	recordTypeLink	validationType	metadataRecordLink
-metadata	recordTypeNewGroup	metadata	abstractCollectionVar
 metadata	recordTypeNewGroup	metadata	autocompletePresentationViewLink
 metadata	recordTypeNewGroup	metadata	defTextIdLink
 metadata	recordTypeNewGroup	metadata	groupOfRecordTypeCollectionVar
@@ -10032,8 +10000,6 @@ presentation	permissionRoleMenuPGroup	metadata	permissionRoleGroup
 presentation	permissionRoleMenuPGroup	presentation	recordInfoMenuPGroup
 presentation	permissionRoleMenuPGroup	recordType	presentation
 presentation	permissionRoleMenuPGroup	system	cora
-presentation	permissionRoleMenuPGroup	text	permissionRoleText
-presentation	permissionRoleMenuPGroup	text	spaceText
 presentation	permissionRoleMenuPGroup	user	12345
 presentation	permissionRoleMenuPGroup	user	141414
 presentation	permissionRoleMenuPGroup	validationType	presentationGroup
@@ -10108,8 +10074,6 @@ presentation	permissionRuleMenuPGroup	metadata	permissionRuleGroup
 presentation	permissionRuleMenuPGroup	presentation	recordInfoMenuPGroup
 presentation	permissionRuleMenuPGroup	recordType	presentation
 presentation	permissionRuleMenuPGroup	system	cora
-presentation	permissionRuleMenuPGroup	text	permissionRuleText
-presentation	permissionRuleMenuPGroup	text	spaceText
 presentation	permissionRuleMenuPGroup	user	12345
 presentation	permissionRuleMenuPGroup	user	141414
 presentation	permissionRuleMenuPGroup	validationType	presentationGroup
@@ -11790,7 +11754,6 @@ presentation	recordTypeMenuPGroup	user	12345
 presentation	recordTypeMenuPGroup	user	141414
 presentation	recordTypeMenuPGroup	validationType	presentationGroup
 presentation	recordTypeNewPGroup	metadata	recordTypeNewGroup
-presentation	recordTypeNewPGroup	presentation	abstractCollectionVarPCollVar
 presentation	recordTypeNewPGroup	presentation	autocompletePresentationViewPLink
 presentation	recordTypeNewPGroup	presentation	defTextIdPLink
 presentation	recordTypeNewPGroup	presentation	groupOfRecordTypePCollVar
@@ -11811,7 +11774,6 @@ presentation	recordTypeNewPGroup	presentation	textIdPLink
 presentation	recordTypeNewPGroup	presentation	userSuppliedIdCollectionVarPCollVar
 presentation	recordTypeNewPGroup	recordType	presentation
 presentation	recordTypeNewPGroup	system	cora
-presentation	recordTypeNewPGroup	text	abstractCollectionVarText
 presentation	recordTypeNewPGroup	text	autocompletePresentationViewLinkText
 presentation	recordTypeNewPGroup	text	defTextIdTextVarText
 presentation	recordTypeNewPGroup	text	groupOfRecordTypeCollectionVarText
@@ -11836,7 +11798,6 @@ presentation	recordTypeNewPGroup	user	12345
 presentation	recordTypeNewPGroup	user	141414
 presentation	recordTypeNewPGroup	validationType	presentationGroup
 presentation	recordTypeOutputPGroup	metadata	recordTypeGroup
-presentation	recordTypeOutputPGroup	presentation	abstractCollectionVarOutputPCollVar
 presentation	recordTypeOutputPGroup	presentation	autocompletePresentationViewOutputPLink
 presentation	recordTypeOutputPGroup	presentation	defTextIdOutputPLink
 presentation	recordTypeOutputPGroup	presentation	groupOfRecordTypeOutputPCollVar
@@ -11857,7 +11818,6 @@ presentation	recordTypeOutputPGroup	presentation	textIdOutputPLink
 presentation	recordTypeOutputPGroup	presentation	userSuppliedIdCollectionVarOutputPCollVar
 presentation	recordTypeOutputPGroup	recordType	presentation
 presentation	recordTypeOutputPGroup	system	cora
-presentation	recordTypeOutputPGroup	text	abstractCollectionVarText
 presentation	recordTypeOutputPGroup	text	autocompletePresentationViewLinkText
 presentation	recordTypeOutputPGroup	text	defTextIdTextVarText
 presentation	recordTypeOutputPGroup	text	groupOfRecordTypeCollectionVarText
@@ -11894,7 +11854,6 @@ presentation	recordTypeParentIdPLink	user	131313
 presentation	recordTypeParentIdPLink	user	141414
 presentation	recordTypeParentIdPLink	validationType	presentationRecordLink
 presentation	recordTypePGroup	metadata	recordTypeGroup
-presentation	recordTypePGroup	presentation	abstractCollectionVarPCollVar
 presentation	recordTypePGroup	presentation	autocompletePresentationViewPLink
 presentation	recordTypePGroup	presentation	defTextIdPLink
 presentation	recordTypePGroup	presentation	groupOfRecordTypePCollVar
@@ -11915,7 +11874,6 @@ presentation	recordTypePGroup	presentation	textIdPLink
 presentation	recordTypePGroup	presentation	userSuppliedIdCollectionVarPCollVar
 presentation	recordTypePGroup	recordType	presentation
 presentation	recordTypePGroup	system	cora
-presentation	recordTypePGroup	text	abstractCollectionVarText
 presentation	recordTypePGroup	text	autocompletePresentationViewLinkText
 presentation	recordTypePGroup	text	defTextIdTextVarText
 presentation	recordTypePGroup	text	groupOfRecordTypeCollectionVarText
@@ -13402,8 +13360,6 @@ presentation	userMenuPGroup	metadata	userGroup
 presentation	userMenuPGroup	presentation	recordInfoMenuPGroup
 presentation	userMenuPGroup	recordType	presentation
 presentation	userMenuPGroup	system	cora
-presentation	userMenuPGroup	text	spaceText
-presentation	userMenuPGroup	text	userText
 presentation	userMenuPGroup	user	12345
 presentation	userMenuPGroup	user	141414
 presentation	userMenuPGroup	validationType	presentationGroup
@@ -22402,7 +22358,7 @@ text	userText	recordType	text
 text	userText	system	cora
 text	userText	user	12345
 text	userText	user	141414
-text	userText	validationType	coraText
+text	userText	validationType	textSystemOne
 text	uuLoginUnitText	recordType	text
 text	uuLoginUnitText	system	cora
 text	uuLoginUnitText	user	141414
