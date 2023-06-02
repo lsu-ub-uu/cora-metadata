@@ -2,7 +2,7 @@
 
 baseDir="dbfiles"
 
-dockerName="systemone-postgresql"
+dockerName="systemone-docker-postgresql"
 
 start(){
 	echo "Exporting data from docker "$dockerName
