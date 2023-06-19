@@ -7227,6 +7227,8 @@ presentation	coraTextNewPGroup	presentation	textPartSvPGroup
 presentation	coraTextNewPGroup	recordType	presentation
 presentation	coraTextNewPGroup	system	cora
 presentation	coraTextNewPGroup	text	coraTextNewPGroupText
+presentation	coraTextNewPGroup	text	textPartGroupsHeadlineText
+presentation	coraTextNewPGroup	text	textPartSvPGroupText
 presentation	coraTextNewPGroup	user	12345
 presentation	coraTextNewPGroup	user	141414
 presentation	coraTextNewPGroup	validationType	presentationGroup
@@ -7247,6 +7249,8 @@ presentation	coraTextPGroup	presentation	textPartSvPGroup
 presentation	coraTextPGroup	recordType	presentation
 presentation	coraTextPGroup	system	cora
 presentation	coraTextPGroup	text	coraTextGroupText
+presentation	coraTextPGroup	text	textPartGroupsHeadlineText
+presentation	coraTextPGroup	text	textPartSvPGroupText
 presentation	coraTextPGroup	user	12345
 presentation	coraTextPGroup	user	141414
 presentation	coraTextPGroup	validationType	presentationGroup
@@ -12824,6 +12828,7 @@ presentation	textOutputPGroup	presentation	recordInfoOutputPGroup
 presentation	textOutputPGroup	presentation	textPartOutputPGroup
 presentation	textOutputPGroup	recordType	presentation
 presentation	textOutputPGroup	system	cora
+presentation	textOutputPGroup	text	textPartGroupsHeadlineText
 presentation	textOutputPGroup	text	textText
 presentation	textOutputPGroup	user	12345
 presentation	textOutputPGroup	user	141414
@@ -12909,7 +12914,6 @@ presentation	textPartSvPGroup	metadata	textPartSvGroup
 presentation	textPartSvPGroup	presentation	textTextPVar
 presentation	textPartSvPGroup	recordType	presentation
 presentation	textPartSvPGroup	system	cora
-presentation	textPartSvPGroup	text	textPartSvPGroupText
 presentation	textPartSvPGroup	user	12345
 presentation	textPartSvPGroup	user	141414
 presentation	textPartSvPGroup	validationType	presentationGroup
@@ -12995,6 +12999,8 @@ presentation	textSystemOneNewPGroup	presentation	textPartEnSContainer
 presentation	textSystemOneNewPGroup	presentation	textPartSvPGroup
 presentation	textSystemOneNewPGroup	recordType	presentation
 presentation	textSystemOneNewPGroup	system	cora
+presentation	textSystemOneNewPGroup	text	textPartGroupsHeadlineText
+presentation	textSystemOneNewPGroup	text	textPartSvPGroupText
 presentation	textSystemOneNewPGroup	text	textSystemOneNewPGroupText
 presentation	textSystemOneNewPGroup	user	12345
 presentation	textSystemOneNewPGroup	user	141414
@@ -21667,6 +21673,10 @@ text	textPartGroupDefText	recordType	text
 text	textPartGroupDefText	system	cora
 text	textPartGroupDefText	user	141414
 text	textPartGroupDefText	validationType	coraText
+text	textPartGroupsHeadlineText	recordType	text
+text	textPartGroupsHeadlineText	system	cora
+text	textPartGroupsHeadlineText	user	141414
+text	textPartGroupsHeadlineText	validationType	coraText
 text	textPartGroupText	recordType	text
 text	textPartGroupText	system	cora
 text	textPartGroupText	user	141414
