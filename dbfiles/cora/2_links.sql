@@ -11776,7 +11776,7 @@ presentation	recordTypeOutputPGroup	text	listPresentationViewIdTextVarText
 presentation	recordTypeOutputPGroup	text	menuPresentationViewIdTextVarText
 presentation	recordTypeOutputPGroup	text	metadataHeadlineText
 presentation	recordTypeOutputPGroup	text	metadataIdTextVarText
-presentation	recordTypeOutputPGroup	text	otherText
+presentation	recordTypeOutputPGroup	text	otherHeadlineText
 presentation	recordTypeOutputPGroup	text	presentationHeadlineText
 presentation	recordTypeOutputPGroup	text	presentationViewIdTextVarText
 presentation	recordTypeOutputPGroup	text	publicRecordTypeCollectionVarText
@@ -18561,6 +18561,10 @@ text	otherAttributeItemText	system	cora
 text	otherAttributeItemText	user	131313
 text	otherAttributeItemText	user	141414
 text	otherAttributeItemText	validationType	coraText
+text	otherHeadlineText	recordType	text
+text	otherHeadlineText	system	cora
+text	otherHeadlineText	user	141414
+text	otherHeadlineText	validationType	coraText
 text	otherItemDefText	recordType	text
 text	otherItemDefText	system	cora
 text	otherItemDefText	user	141414
@@ -18569,10 +18573,6 @@ text	otherItemText	recordType	text
 text	otherItemText	system	cora
 text	otherItemText	user	141414
 text	otherItemText	validationType	coraText
-text	otherText	recordType	text
-text	otherText	system	cora
-text	otherText	user	141414
-text	otherText	validationType	coraText
 text	outputFormatCollectionDefText	recordType	text
 text	outputFormatCollectionDefText	system	cora
 text	outputFormatCollectionDefText	user	12345
