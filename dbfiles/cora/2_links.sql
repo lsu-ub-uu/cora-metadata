@@ -5211,7 +5211,7 @@ metadata	resourceIdTextVar	text	resourceIdTextVarDefText
 metadata	resourceIdTextVar	text	resourceIdTextVarText
 metadata	resourceIdTextVar	user	141414
 metadata	resourceIdTextVar	validationType	metadataTextVariable
-metadata	resourceInfoGroup	metadata	masterImageBinaryGroup
+metadata	resourceInfoGroup	metadata	masterResLink
 metadata	resourceInfoGroup	metadata	thumbnailGroup
 metadata	resourceInfoGroup	recordType	metadata
 metadata	resourceInfoGroup	system	cora
