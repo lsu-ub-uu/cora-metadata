@@ -6950,6 +6950,8 @@ presentation	binaryMenuPGroup	metadata	binaryGroup
 presentation	binaryMenuPGroup	presentation	recordInfoMenuPGroup
 presentation	binaryMenuPGroup	recordType	presentation
 presentation	binaryMenuPGroup	system	cora
+presentation	binaryMenuPGroup	text	binaryText
+presentation	binaryMenuPGroup	text	spaceText
 presentation	binaryMenuPGroup	user	131313
 presentation	binaryMenuPGroup	user	141414
 presentation	binaryMenuPGroup	validationType	presentationGroup
