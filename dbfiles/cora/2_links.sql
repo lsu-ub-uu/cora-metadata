@@ -6040,6 +6040,7 @@ metadata	threeChildStyleItem	user	141414
 metadata	threeChildStyleItem	validationType	genericCollectionItem
 metadata	thumbnailGroup	metadata	fileSizeNumberVar
 metadata	thumbnailGroup	metadata	heightImageBinaryNumberVar
+metadata	thumbnailGroup	metadata	mimeTypeTextVar
 metadata	thumbnailGroup	metadata	resoultionImageBinaryNumberVar
 metadata	thumbnailGroup	metadata	resourceIdTextVar
 metadata	thumbnailGroup	metadata	resourceLinkResLink
