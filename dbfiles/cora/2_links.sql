@@ -1273,6 +1273,7 @@ metadata	fromNoNumberVar	text	fromNoNumberVarDefText
 metadata	fromNoNumberVar	text	fromNoNumberVarText
 metadata	fromNoNumberVar	user	141414
 metadata	fromNoNumberVar	validationType	metadataNumberVariable
+metadata	genericBinaryNewGroup	metadata	binaryGroup
 metadata	genericBinaryNewGroup	metadata	binaryTypeGenericBinaryCollectionVar
 metadata	genericBinaryNewGroup	metadata	expectedChecksumTextVar
 metadata	genericBinaryNewGroup	metadata	expectedFileSizeNumberVar
@@ -1285,6 +1286,7 @@ metadata	genericBinaryNewGroup	text	genericBinaryNewGroupText
 metadata	genericBinaryNewGroup	user	12345
 metadata	genericBinaryNewGroup	user	141414
 metadata	genericBinaryNewGroup	validationType	metadataGroup
+metadata	genericBinaryUpdateGroup	metadata	binaryGroup
 metadata	genericBinaryUpdateGroup	metadata	binaryTypeGenericBinaryCollectionVar
 metadata	genericBinaryUpdateGroup	metadata	checksumTextVar
 metadata	genericBinaryUpdateGroup	metadata	checksumTypeTextVar
@@ -1677,6 +1679,7 @@ metadata	idTextVarTextVar	text	idTextVarTextVarText
 metadata	idTextVarTextVar	user	12345
 metadata	idTextVarTextVar	user	141414
 metadata	idTextVarTextVar	validationType	metadataTextVariable
+metadata	imageBinaryNewGroup	metadata	binaryGroup
 metadata	imageBinaryNewGroup	metadata	binaryTypeImageCollectionVar
 metadata	imageBinaryNewGroup	metadata	expectedChecksumTextVar
 metadata	imageBinaryNewGroup	metadata	expectedFileSizeNumberVar
@@ -1688,6 +1691,7 @@ metadata	imageBinaryNewGroup	text	imageBinaryNewGroupDefText
 metadata	imageBinaryNewGroup	text	imageBinaryNewGroupText
 metadata	imageBinaryNewGroup	user	141414
 metadata	imageBinaryNewGroup	validationType	metadataGroup
+metadata	imageBinaryUpdateGroup	metadata	binaryGroup
 metadata	imageBinaryUpdateGroup	metadata	binaryTypeImageCollectionVar
 metadata	imageBinaryUpdateGroup	metadata	checksumTextVar
 metadata	imageBinaryUpdateGroup	metadata	checksumTypeTextVar
