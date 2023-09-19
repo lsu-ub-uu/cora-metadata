@@ -6091,7 +6091,7 @@ metadata	thumbnailGroup	metadata	heightImageBinaryNumberVar
 metadata	thumbnailGroup	metadata	mimeTypeTextVar
 metadata	thumbnailGroup	metadata	resoultionImageBinaryNumberVar
 metadata	thumbnailGroup	metadata	resourceIdTextVar
-metadata	thumbnailGroup	metadata	resourceLinkResLink
+metadata	thumbnailGroup	metadata	thumbnailResLink
 metadata	thumbnailGroup	metadata	widthImageBinaryNumberVar
 metadata	thumbnailGroup	recordType	metadata
 metadata	thumbnailGroup	system	cora
@@ -6105,7 +6105,7 @@ metadata	thumbnailImageBinaryGroup	metadata	heightImageBinaryNumberVar
 metadata	thumbnailImageBinaryGroup	metadata	mimeTypeTextVar
 metadata	thumbnailImageBinaryGroup	metadata	resoultionImageBinaryNumberVar
 metadata	thumbnailImageBinaryGroup	metadata	resourceIdTextVar
-metadata	thumbnailImageBinaryGroup	metadata	resourceLinkResLink
+metadata	thumbnailImageBinaryGroup	metadata	thumbnailResLink
 metadata	thumbnailImageBinaryGroup	metadata	widthImageBinaryNumberVar
 metadata	thumbnailImageBinaryGroup	recordType	metadata
 metadata	thumbnailImageBinaryGroup	system	cora
@@ -6123,6 +6123,12 @@ metadata	thumbnailLargeGroup	text	thumbnailLargeGroupText
 metadata	thumbnailLargeGroup	user	12345
 metadata	thumbnailLargeGroup	user	141414
 metadata	thumbnailLargeGroup	validationType	metadataGroup
+metadata	thumbnailResLink	recordType	metadata
+metadata	thumbnailResLink	system	cora
+metadata	thumbnailResLink	text	resourceLinkResLinkDefText
+metadata	thumbnailResLink	text	resourceLinkResLinkText
+metadata	thumbnailResLink	user	141414
+metadata	thumbnailResLink	validationType	metadataResourceLink
 metadata	thumbnailSmallGroup	metadata	filesizeTextVar
 metadata	thumbnailSmallGroup	metadata	streamIdTextVar
 metadata	thumbnailSmallGroup	metadata	urlTextVar
