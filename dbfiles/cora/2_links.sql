@@ -23374,6 +23374,7 @@ user	12345	user	guest
 user	12345	validationType	systemOneUser
 user	131313	appToken	appToken:3603190243788
 user	131313	collectTerm	systemPermissionTerm
+user	131313	permissionRole	binaryUserRole
 user	131313	permissionRole	everything
 user	131313	recordType	user
 user	131313	system	cora
