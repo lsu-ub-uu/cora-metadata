@@ -1,4 +1,9 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
+binary	binary:8458713830924	recordType	binary
+binary	binary:8458713830924	system	testSystem
+binary	binary:8458713830924	user	141414
+binary	binary:8458713830924	validationType	genericBinary
+demo	sdfsdf	binary	binary:8458713830924
 demo	sdfsdf	recordType	demo
 demo	sdfsdf	system	testSystem
 demo	sdfsdf	user	141414
@@ -258,6 +263,7 @@ presentation	demoAutocompletePGroup	text	recordInfoGroupText
 presentation	demoAutocompletePGroup	user	141414
 presentation	demoAutocompletePGroup	validationType	presentationGroup
 presentation	demoListPGroup	metadata	demoGroup
+presentation	demoListPGroup	presentation	bookTitleTextVarOutputPVar
 presentation	demoListPGroup	presentation	recordInfoListPGroup
 presentation	demoListPGroup	recordType	presentation
 presentation	demoListPGroup	system	testSystem
@@ -272,11 +278,13 @@ presentation	demoMenuPGroup	user	141414
 presentation	demoMenuPGroup	validationType	presentationGroup
 presentation	demoNewPGroup	metadata	demoNewGroup
 presentation	demoNewPGroup	presentation	bookTitleTextVarPVar
+presentation	demoNewPGroup	presentation	keepThisPNumVar
 presentation	demoNewPGroup	presentation	recordInfoNewPGroup
 presentation	demoNewPGroup	recordType	presentation
 presentation	demoNewPGroup	system	testSystem
 presentation	demoNewPGroup	text	bookTitleTextVarText
 presentation	demoNewPGroup	text	demoText
+presentation	demoNewPGroup	text	keepThisNumberVarText
 presentation	demoNewPGroup	user	141414
 presentation	demoNewPGroup	validationType	presentationGroup
 presentation	exampelColourOutputPCollVar	metadata	exampelColourCollectionVar
