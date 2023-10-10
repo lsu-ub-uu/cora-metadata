@@ -76,6 +76,10 @@ collectTerm	userUserIdStorageTerm	recordType	collectTerm
 collectTerm	userUserIdStorageTerm	system	cora
 collectTerm	userUserIdStorageTerm	user	141414
 collectTerm	userUserIdStorageTerm	validationType	collectStorageTerm
+collectTerm	validatesRecordTypeIndexTerm	recordType	collectTerm
+collectTerm	validatesRecordTypeIndexTerm	system	cora
+collectTerm	validatesRecordTypeIndexTerm	user	141414
+collectTerm	validatesRecordTypeIndexTerm	validationType	collectIndexTerm
 indexBatchJob	indexBatchJob:161709413173701	recordType	indexBatchJob
 indexBatchJob	indexBatchJob:161709413173701	system	cora
 indexBatchJob	indexBatchJob:161709413173701	user	141414
@@ -6552,6 +6556,7 @@ metadata	validationOrderRecordTypeLink	text	validationOrderRecordTypeLinkDefText
 metadata	validationOrderRecordTypeLink	text	validationOrderRecordTypeLinkText
 metadata	validationOrderRecordTypeLink	user	141414
 metadata	validationOrderRecordTypeLink	validationType	metadataRecordLink
+metadata	validationTypeGroup	collectTerm	validatesRecordTypeIndexTerm
 metadata	validationTypeGroup	metadata	defTextIdLink
 metadata	validationTypeGroup	metadata	metadataIdLink
 metadata	validationTypeGroup	metadata	newMetadataIdLink
@@ -12196,7 +12201,8 @@ presentation	recordInfoNoDataDividerPGroup	validationType	presentationGroup
 presentation	recordInfoOutputPGroup	metadata	recordInfoGroup
 presentation	recordInfoOutputPGroup	presentation	dataDividerOutputPLink
 presentation	recordInfoOutputPGroup	presentation	idTextOutputPVar
-presentation	recordInfoOutputPGroup	presentation	updatedOutputPGroup
+presentation	recordInfoOutputPGroup	presentation	updatesMinimizedSContainer
+presentation	recordInfoOutputPGroup	presentation	updatesSContainer
 presentation	recordInfoOutputPGroup	presentation	validationTypeOutputPLink
 presentation	recordInfoOutputPGroup	recordType	presentation
 presentation	recordInfoOutputPGroup	system	cora
@@ -14019,6 +14025,11 @@ presentation	tsUpdatedPVar	recordType	presentation
 presentation	tsUpdatedPVar	system	cora
 presentation	tsUpdatedPVar	user	141414
 presentation	tsUpdatedPVar	validationType	presentationVar
+presentation	updatedByOutputPLink	metadata	updatedByLink
+presentation	updatedByOutputPLink	recordType	presentation
+presentation	updatedByOutputPLink	system	cora
+presentation	updatedByOutputPLink	user	141414
+presentation	updatedByOutputPLink	validationType	presentationRecordLink
 presentation	updatedByPLink	metadata	updatedByLink
 presentation	updatedByPLink	recordType	presentation
 presentation	updatedByPLink	system	cora
@@ -14026,6 +14037,7 @@ presentation	updatedByPLink	user	141414
 presentation	updatedByPLink	validationType	presentationRecordLink
 presentation	updatedOutputPGroup	metadata	updatedGroup
 presentation	updatedOutputPGroup	presentation	tsUpdatedOutputPVar
+presentation	updatedOutputPGroup	presentation	updatedByOutputPLink
 presentation	updatedOutputPGroup	recordType	presentation
 presentation	updatedOutputPGroup	system	cora
 presentation	updatedOutputPGroup	user	141414
@@ -14037,6 +14049,19 @@ presentation	updatedPGroup	recordType	presentation
 presentation	updatedPGroup	system	cora
 presentation	updatedPGroup	user	141414
 presentation	updatedPGroup	validationType	presentationGroup
+presentation	updatesMinimizedSContainer	metadata	updatedGroup
+presentation	updatesMinimizedSContainer	recordType	presentation
+presentation	updatesMinimizedSContainer	system	cora
+presentation	updatesMinimizedSContainer	text	updatesHeadlineText
+presentation	updatesMinimizedSContainer	user	141414
+presentation	updatesMinimizedSContainer	validationType	presentationSurroundingContainer
+presentation	updatesSContainer	metadata	updatedGroup
+presentation	updatesSContainer	presentation	updatedOutputPGroup
+presentation	updatesSContainer	recordType	presentation
+presentation	updatesSContainer	system	cora
+presentation	updatesSContainer	text	updatesHeadlineText
+presentation	updatesSContainer	user	141414
+presentation	updatesSContainer	validationType	presentationSurroundingContainer
 presentation	urlTextVarAsLinkOutputPVar	metadata	urlTextVar
 presentation	urlTextVarAsLinkOutputPVar	recordType	presentation
 presentation	urlTextVarAsLinkOutputPVar	system	cora
@@ -14471,6 +14496,7 @@ presentation	validationTypePGroup	user	141414
 presentation	validationTypePGroup	validationType	presentationGroup
 presentation	validationTypePLink	metadata	validationTypeLink
 presentation	validationTypePLink	recordType	presentation
+presentation	validationTypePLink	search	validationTypeSearch
 presentation	validationTypePLink	system	cora
 presentation	validationTypePLink	user	141414
 presentation	validationTypePLink	validationType	presentationRecordLink
@@ -23128,6 +23154,10 @@ text	updatedGroupText	recordType	text
 text	updatedGroupText	system	cora
 text	updatedGroupText	user	141414
 text	updatedGroupText	validationType	coraText
+text	updatesHeadlineText	recordType	text
+text	updatesHeadlineText	system	cora
+text	updatesHeadlineText	user	141414
+text	updatesHeadlineText	validationType	coraText
 text	urlTextVarText	recordType	text
 text	urlTextVarText	system	cora
 text	urlTextVarText	user	12345
