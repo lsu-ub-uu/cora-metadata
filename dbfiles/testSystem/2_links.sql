@@ -625,13 +625,10 @@ presentation	exampleTwoAttributesPVar	system	testSystem
 presentation	exampleTwoAttributesPVar	user	141414
 presentation	exampleTwoAttributesPVar	validationType	presentationVar
 recordType	demo	metadata	demoGroup
-recordType	demo	metadata	demoNewGroup
 recordType	demo	presentation	demoAutocompletePGroup
 recordType	demo	presentation	demoListPGroup
 recordType	demo	presentation	demoMenuPGroup
-recordType	demo	presentation	demoNewPGroup
 recordType	demo	presentation	demoOutputPGroup
-recordType	demo	presentation	demoPGroup
 recordType	demo	recordType	recordType
 recordType	demo	search	demoSearch
 recordType	demo	system	testSystem
@@ -640,13 +637,10 @@ recordType	demo	text	demoText
 recordType	demo	user	141414
 recordType	demo	validationType	recordType
 recordType	example	metadata	exampleGroup
-recordType	example	metadata	exampleNewGroup
 recordType	example	presentation	exampleAutocompletePGroup
 recordType	example	presentation	exampleListPGroup
 recordType	example	presentation	exampleMenuPGroup
-recordType	example	presentation	exampleNewPGroup
 recordType	example	presentation	exampleOutputPGroup
-recordType	example	presentation	examplePGroup
 recordType	example	recordType	recordType
 recordType	example	search	exampleSearch
 recordType	example	system	testSystem
