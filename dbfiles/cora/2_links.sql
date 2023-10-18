@@ -12941,6 +12941,7 @@ presentation	searchDataDividerOutputPVar	validationType	presentationVar
 presentation	searchDataDividerPVar	metadata	searchDataDividerTextVar
 presentation	searchDataDividerPVar	recordType	presentation
 presentation	searchDataDividerPVar	system	cora
+presentation	searchDataDividerPVar	text	searchDataDividerPVarPlaceholderText
 presentation	searchDataDividerPVar	user	141414
 presentation	searchDataDividerPVar	validationType	presentationVar
 presentation	searchGenericOutputPVar	metadata	searchGenericTextVar
@@ -13082,6 +13083,7 @@ presentation	searchRowsOutputPNumVar	validationType	presentationNumberVar
 presentation	searchRowsPNumVar	metadata	searchRowsNumberVar
 presentation	searchRowsPNumVar	recordType	presentation
 presentation	searchRowsPNumVar	system	cora
+presentation	searchRowsPNumVar	text	searchRowsPNumPlaceholderText
 presentation	searchRowsPNumVar	user	141414
 presentation	searchRowsPNumVar	validationType	presentationNumberVar
 presentation	searchStartOutputPNumVar	metadata	searchStartNumberVar
@@ -13092,6 +13094,7 @@ presentation	searchStartOutputPNumVar	validationType	presentationNumberVar
 presentation	searchStartPNumVar	metadata	searchStartNumberVar
 presentation	searchStartPNumVar	recordType	presentation
 presentation	searchStartPNumVar	system	cora
+presentation	searchStartPNumVar	text	searchStartPNumPlaceholderText
 presentation	searchStartPNumVar	user	141414
 presentation	searchStartPNumVar	validationType	presentationNumberVar
 presentation	searchSwedishTextOutputPVar	metadata	searchSwedishTextTextVar
@@ -21712,6 +21715,10 @@ text	ruleRecordPartWritePermissionTextVarText	recordType	text
 text	ruleRecordPartWritePermissionTextVarText	system	cora
 text	ruleRecordPartWritePermissionTextVarText	user	141414
 text	ruleRecordPartWritePermissionTextVarText	validationType	coraText
+text	searchDataDividerPVarPlaceholderText	recordType	text
+text	searchDataDividerPVarPlaceholderText	system	cora
+text	searchDataDividerPVarPlaceholderText	user	141414
+text	searchDataDividerPVarPlaceholderText	validationType	coraText
 text	searchDataDividerTextVarDefText	recordType	text
 text	searchDataDividerTextVarDefText	system	cora
 text	searchDataDividerTextVarDefText	user	141414
@@ -21834,6 +21841,10 @@ text	searchRowsNumberVarText	recordType	text
 text	searchRowsNumberVarText	system	cora
 text	searchRowsNumberVarText	user	141414
 text	searchRowsNumberVarText	validationType	coraText
+text	searchRowsPNumPlaceholderText	recordType	text
+text	searchRowsPNumPlaceholderText	system	cora
+text	searchRowsPNumPlaceholderText	user	141414
+text	searchRowsPNumPlaceholderText	validationType	coraText
 text	searchStartNumberVarDefText	recordType	text
 text	searchStartNumberVarDefText	system	cora
 text	searchStartNumberVarDefText	user	141414
@@ -21842,6 +21853,10 @@ text	searchStartNumberVarText	recordType	text
 text	searchStartNumberVarText	system	cora
 text	searchStartNumberVarText	user	141414
 text	searchStartNumberVarText	validationType	coraText
+text	searchStartPNumPlaceholderText	recordType	text
+text	searchStartPNumPlaceholderText	system	cora
+text	searchStartPNumPlaceholderText	user	141414
+text	searchStartPNumPlaceholderText	validationType	coraText
 text	searchSwedishTextTextVarDefText	recordType	text
 text	searchSwedishTextTextVarDefText	system	cora
 text	searchSwedishTextTextVarDefText	user	141414
