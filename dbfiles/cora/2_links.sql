@@ -2573,9 +2573,12 @@ metadata	master	user	12345
 metadata	master	user	141414
 metadata	master	validationType	metadataResourceLink
 metadata	masterGenericBinaryGroup	metadata	fileSizeNumberVar
+metadata	masterGenericBinaryGroup	metadata	heightImageBinaryNumberVar
 metadata	masterGenericBinaryGroup	metadata	mimeTypeTextVar
+metadata	masterGenericBinaryGroup	metadata	resoultionImageBinaryNumberVar
 metadata	masterGenericBinaryGroup	metadata	resourceIdTextVar
 metadata	masterGenericBinaryGroup	metadata	resourceLinkResLink
+metadata	masterGenericBinaryGroup	metadata	widthImageBinaryNumberVar
 metadata	masterGenericBinaryGroup	recordType	metadata
 metadata	masterGenericBinaryGroup	system	cora
 metadata	masterGenericBinaryGroup	text	masterGroupDefText
