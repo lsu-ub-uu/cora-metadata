@@ -4702,7 +4702,7 @@ metadata	recordInfoNewGroup	collectTerm	recordIdCollectIndexTerm
 metadata	recordInfoNewGroup	collectTerm	systemPermissionTerm
 metadata	recordInfoNewGroup	metadata	dataDividerLink
 metadata	recordInfoNewGroup	metadata	idTextVar
-metadata	recordInfoNewGroup	metadata	validationTypeGroupLink
+metadata	recordInfoNewGroup	metadata	validationTypeLink
 metadata	recordInfoNewGroup	recordType	metadata
 metadata	recordInfoNewGroup	system	cora
 metadata	recordInfoNewGroup	text	recordInfoDefText
