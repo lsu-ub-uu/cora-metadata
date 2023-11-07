@@ -8799,6 +8799,11 @@ presentation	idTextOutputPVar	system	cora
 presentation	idTextOutputPVar	user	12345
 presentation	idTextOutputPVar	user	141414
 presentation	idTextOutputPVar	validationType	presentationVar
+presentation	idTextOutputWithouLabelPVar	metadata	idTextVar
+presentation	idTextOutputWithouLabelPVar	recordType	presentation
+presentation	idTextOutputWithouLabelPVar	system	cora
+presentation	idTextOutputWithouLabelPVar	user	141414
+presentation	idTextOutputWithouLabelPVar	validationType	presentationVar
 presentation	idTextTextOutputPVar	metadata	idTextTextVar
 presentation	idTextTextOutputPVar	recordType	presentation
 presentation	idTextTextOutputPVar	system	cora
@@ -12158,7 +12163,7 @@ presentation	recordInfoIdOutputPGroup	system	cora
 presentation	recordInfoIdOutputPGroup	user	141414
 presentation	recordInfoIdOutputPGroup	validationType	presentationGroup
 presentation	recordInfoListPGroup	metadata	recordInfoGroup
-presentation	recordInfoListPGroup	presentation	idTextOutputPVar
+presentation	recordInfoListPGroup	presentation	idTextOutputWithouLabelPVar
 presentation	recordInfoListPGroup	recordType	presentation
 presentation	recordInfoListPGroup	system	cora
 presentation	recordInfoListPGroup	user	141414
@@ -12171,7 +12176,7 @@ presentation	recordInfoMenuOutputPGroup	text	idVarText
 presentation	recordInfoMenuOutputPGroup	user	141414
 presentation	recordInfoMenuOutputPGroup	validationType	presentationGroup
 presentation	recordInfoMenuPGroup	metadata	recordInfoGroup
-presentation	recordInfoMenuPGroup	presentation	idTextOutputPVar
+presentation	recordInfoMenuPGroup	presentation	idTextOutputWithouLabelPVar
 presentation	recordInfoMenuPGroup	recordType	presentation
 presentation	recordInfoMenuPGroup	system	cora
 presentation	recordInfoMenuPGroup	text	spaceText
