@@ -51,6 +51,10 @@ text	theClient_searchButtonText	recordType	text
 text	theClient_searchButtonText	system	jsClient
 text	theClient_searchButtonText	user	141414
 text	theClient_searchButtonText	validationType	coraText
+text	theClient_searchesHeadlineText	recordType	text
+text	theClient_searchesHeadlineText	system	jsClient
+text	theClient_searchesHeadlineText	user	141414
+text	theClient_searchesHeadlineText	validationType	coraText
 text	theClient_uploadMenuText	recordType	text
 text	theClient_uploadMenuText	system	jsClient
 text	theClient_uploadMenuText	user	131313
