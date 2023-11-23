@@ -2297,8 +2297,8 @@ metadata	largeGroup	metadata	resourceIdTextVar
 metadata	largeGroup	metadata	widthImageBinaryNumberVar
 metadata	largeGroup	recordType	metadata
 metadata	largeGroup	system	cora
-metadata	largeGroup	text	thumbnailGroupDefText
-metadata	largeGroup	text	thumbnailGroupText
+metadata	largeGroup	text	largeGroupDefText
+metadata	largeGroup	text	largeGroupText
 metadata	largeGroup	user	141414
 metadata	largeGroup	validationType	metadataGroup
 metadata	largeResLink	recordType	metadata
@@ -18090,6 +18090,14 @@ text	languageCollectionVarText	recordType	text
 text	languageCollectionVarText	system	cora
 text	languageCollectionVarText	user	141414
 text	languageCollectionVarText	validationType	coraText
+text	largeGroupDefText	recordType	text
+text	largeGroupDefText	system	cora
+text	largeGroupDefText	user	141414
+text	largeGroupDefText	validationType	coraText
+text	largeGroupText	recordType	text
+text	largeGroupText	system	cora
+text	largeGroupText	user	141414
+text	largeGroupText	validationType	coraText
 text	lastNameTextVarText	recordType	text
 text	lastNameTextVarText	system	cora
 text	lastNameTextVarText	user	12345
