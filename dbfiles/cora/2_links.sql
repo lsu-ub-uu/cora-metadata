@@ -11954,7 +11954,6 @@ presentation	presentationVarPGroup	presentation	presentationOfTextVarPLink
 presentation	presentationVarPGroup	presentation	recordInfoPGroup
 presentation	presentationVarPGroup	recordType	presentation
 presentation	presentationVarPGroup	system	cora
-presentation	presentationVarPGroup	text	presentationVarHeadlineText
 presentation	presentationVarPGroup	text	settingsHeadlineText
 presentation	presentationVarPGroup	user	12345
 presentation	presentationVarPGroup	user	141414
