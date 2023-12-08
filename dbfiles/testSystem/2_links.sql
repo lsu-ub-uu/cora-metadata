@@ -258,6 +258,10 @@ metadata	exampleYellowItem	text	exampleYellowItemDefText
 metadata	exampleYellowItem	text	exampleYellowItemText
 metadata	exampleYellowItem	user	141414
 metadata	exampleYellowItem	validationType	genericCollectionItem
+permissionUnit	testPermissionUnit	recordType	permissionUnit
+permissionUnit	testPermissionUnit	system	testSystem
+permissionUnit	testPermissionUnit	user	141414
+permissionUnit	testPermissionUnit	validationType	permissionUnit
 presentation	demoAutocompletePGroup	metadata	demoGroup
 presentation	demoAutocompletePGroup	presentation	recordInfoPGroup
 presentation	demoAutocompletePGroup	recordType	presentation
