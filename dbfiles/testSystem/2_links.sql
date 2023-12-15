@@ -422,6 +422,7 @@ presentation	exampleLatitudePVar	system	testSystem
 presentation	exampleLatitudePVar	user	141414
 presentation	exampleLatitudePVar	validationType	presentationVar
 presentation	exampleListPGroup	metadata	exampleGroup
+presentation	exampleListPGroup	presentation	exampleMetadataOutputPVar
 presentation	exampleListPGroup	presentation	recordInfoListPGroup
 presentation	exampleListPGroup	recordType	presentation
 presentation	exampleListPGroup	system	testSystem
