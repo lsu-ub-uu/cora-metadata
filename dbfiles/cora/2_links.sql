@@ -917,6 +917,7 @@ metadata	batchJobStatusCollectionVar	text	batchJobStatusCollectionVarDefText
 metadata	batchJobStatusCollectionVar	text	batchJobStatusCollectionVarText
 metadata	batchJobStatusCollectionVar	user	141414
 metadata	batchJobStatusCollectionVar	validationType	metadataCollectionVariable
+metadata	binaryGroup	metadata	adminInfoGroup
 metadata	binaryGroup	metadata	binaryTypeCollectionVar
 metadata	binaryGroup	metadata	expectedChecksumTextVar
 metadata	binaryGroup	metadata	expectedFileSizeNumberVar
@@ -924,6 +925,7 @@ metadata	binaryGroup	metadata	jp2Group
 metadata	binaryGroup	metadata	largeGroup
 metadata	binaryGroup	metadata	masterGroup
 metadata	binaryGroup	metadata	mediumGroup
+metadata	binaryGroup	metadata	originalFileNameTextVar
 metadata	binaryGroup	metadata	recordInfoBinaryGroup
 metadata	binaryGroup	metadata	thumbnailGroup
 metadata	binaryGroup	recordType	metadata
@@ -1824,6 +1826,7 @@ metadata	fromNoNumberVar	text	fromNoNumberVarDefText
 metadata	fromNoNumberVar	text	fromNoNumberVarText
 metadata	fromNoNumberVar	user	141414
 metadata	fromNoNumberVar	validationType	metadataNumberVariable
+metadata	genericBinaryNewGroup	metadata	adminInfoGroup
 metadata	genericBinaryNewGroup	metadata	binaryGroup
 metadata	genericBinaryNewGroup	metadata	binaryTypeGenericBinaryCollectionVar
 metadata	genericBinaryNewGroup	metadata	expectedChecksumTextVar
@@ -1837,6 +1840,7 @@ metadata	genericBinaryNewGroup	text	genericBinaryNewGroupText
 metadata	genericBinaryNewGroup	user	12345
 metadata	genericBinaryNewGroup	user	141414
 metadata	genericBinaryNewGroup	validationType	metadataGroup
+metadata	genericBinaryUpdateGroup	metadata	adminInfoGroup
 metadata	genericBinaryUpdateGroup	metadata	binaryGroup
 metadata	genericBinaryUpdateGroup	metadata	binaryTypeGenericBinaryCollectionVar
 metadata	genericBinaryUpdateGroup	metadata	jp2Group
