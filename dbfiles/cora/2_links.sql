@@ -15065,12 +15065,9 @@ recordType	appToken	user	131313
 recordType	appToken	user	141414
 recordType	appToken	validationType	recordType
 recordType	binary	metadata	binaryGroup
-recordType	binary	metadata	binaryNewGroup
 recordType	binary	presentation	binaryListPGroup
 recordType	binary	presentation	binaryMenuPGroup
-recordType	binary	presentation	binaryNewPGroup
 recordType	binary	presentation	binaryOutputPGroup
-recordType	binary	presentation	binaryPGroup
 recordType	binary	recordType	recordType
 recordType	binary	search	binarySearch
 recordType	binary	system	cora
