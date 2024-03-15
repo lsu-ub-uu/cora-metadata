@@ -6501,9 +6501,11 @@ metadata	systemNameTextVar	text	systemNameTypeTextVarDefText
 metadata	systemNameTextVar	user	12345
 metadata	systemNameTextVar	user	141414
 metadata	systemNameTextVar	validationType	metadataTextVariable
+metadata	systemNewGroup	metadata	defTextIdLink
 metadata	systemNewGroup	metadata	recordInfoNewGroup
 metadata	systemNewGroup	metadata	systemGroup
 metadata	systemNewGroup	metadata	systemNameTextVar
+metadata	systemNewGroup	metadata	textIdLink
 metadata	systemNewGroup	recordType	metadata
 metadata	systemNewGroup	system	cora
 metadata	systemNewGroup	text	systemNewGroupDefText
