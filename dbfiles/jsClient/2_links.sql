@@ -1,6 +1,8 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
 system	jsClient	recordType	system
 system	jsClient	system	jsClient
+system	jsClient	text	jsClientDefText
+system	jsClient	text	jsClientText
 system	jsClient	user	12345
 system	jsClient	user	141414
 system	jsClient	validationType	system

@@ -760,6 +760,8 @@ search	exampleSearch	user	141414
 search	exampleSearch	validationType	search
 system	testSystem	recordType	system
 system	testSystem	system	testSystem
+system	testSystem	text	testSystemDefText
+system	testSystem	text	testSystemText
 system	testSystem	user	12345
 system	testSystem	user	141414
 system	testSystem	validationType	system
