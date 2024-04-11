@@ -10,3 +10,5 @@ user	coraUser:8012331835977	userUserIdStorageTerm	mican434@user.uu.se	userId
 user	coraUser:8239436126036	userUserIdStorageTerm	stand516@user.uu.se	userId
 user	guest	userUserIdStorageTerm	guest123@system.cora.uu.se	userId
 user	user	userUserIdStorageTerm	user@system.cora.uu.se	userId
+user	user:11385927333713116	userUserIdStorageTerm	palra847@user.uu.se	userId
+user	user:11385961546081631	userUserIdStorageTerm	andma210@user.uu.se	userId
