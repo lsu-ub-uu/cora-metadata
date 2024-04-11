@@ -2821,6 +2821,7 @@ metadata	loginGroup	metadata	ldapLoginDescriptionLink
 metadata	loginGroup	metadata	ldapLoginMetadataGroupLink
 metadata	loginGroup	metadata	ldapLoginPresentationGroupLink
 metadata	loginGroup	metadata	loginNameTextVar
+metadata	loginGroup	metadata	loginTypeCollectionVar
 metadata	loginGroup	metadata	recordInfoGroup
 metadata	loginGroup	metadata	urlTextVar
 metadata	loginGroup	recordType	metadata
@@ -2922,8 +2923,8 @@ metadata	loginTypeLDAPCollectionVar	metadata	loginTypeCollection
 metadata	loginTypeLDAPCollectionVar	metadata	loginTypeCollectionVar
 metadata	loginTypeLDAPCollectionVar	recordType	metadata
 metadata	loginTypeLDAPCollectionVar	system	cora
-metadata	loginTypeLDAPCollectionVar	text	loginTypeLDAPCollectionVarDefText
-metadata	loginTypeLDAPCollectionVar	text	loginTypeLDAPCollectionVarText
+metadata	loginTypeLDAPCollectionVar	text	loginTypeCollectionVarDefText
+metadata	loginTypeLDAPCollectionVar	text	loginTypeCollectionVarText
 metadata	loginTypeLDAPCollectionVar	user	141414
 metadata	loginTypeLDAPCollectionVar	validationType	metadataCollectionVariable
 metadata	loginTypeLDAPItem	recordType	metadata
@@ -2943,8 +2944,8 @@ metadata	loginTypeTokenCollectionVar	metadata	loginTypeCollection
 metadata	loginTypeTokenCollectionVar	metadata	loginTypeCollectionVar
 metadata	loginTypeTokenCollectionVar	recordType	metadata
 metadata	loginTypeTokenCollectionVar	system	cora
-metadata	loginTypeTokenCollectionVar	text	loginTypeTokenCollectionVarDefText
-metadata	loginTypeTokenCollectionVar	text	loginTypeTokenCollectionVarText
+metadata	loginTypeTokenCollectionVar	text	loginTypeCollectionVarDefText
+metadata	loginTypeTokenCollectionVar	text	loginTypeCollectionVarText
 metadata	loginTypeTokenCollectionVar	user	12345
 metadata	loginTypeTokenCollectionVar	user	141414
 metadata	loginTypeTokenCollectionVar	validationType	metadataCollectionVariable
@@ -2959,8 +2960,8 @@ metadata	loginTypeWebRedirectCollectionVar	metadata	loginTypeCollection
 metadata	loginTypeWebRedirectCollectionVar	metadata	loginTypeCollectionVar
 metadata	loginTypeWebRedirectCollectionVar	recordType	metadata
 metadata	loginTypeWebRedirectCollectionVar	system	cora
-metadata	loginTypeWebRedirectCollectionVar	text	loginTypeWebRedirectCollectionVarDefText
-metadata	loginTypeWebRedirectCollectionVar	text	loginTypeWebRedirectCollectionVarText
+metadata	loginTypeWebRedirectCollectionVar	text	loginTypeCollectionVarDefText
+metadata	loginTypeWebRedirectCollectionVar	text	loginTypeCollectionVarText
 metadata	loginTypeWebRedirectCollectionVar	user	12345
 metadata	loginTypeWebRedirectCollectionVar	user	141414
 metadata	loginTypeWebRedirectCollectionVar	validationType	metadataCollectionVariable
@@ -18765,11 +18766,6 @@ text	loginText	system	cora
 text	loginText	user	12345
 text	loginText	user	141414
 text	loginText	validationType	coraText
-text	loginTokenDefText	recordType	text
-text	loginTokenDefText	system	cora
-text	loginTokenDefText	user	12345
-text	loginTokenDefText	user	141414
-text	loginTokenDefText	validationType	coraText
 text	loginTokenGroupDefText	recordType	text
 text	loginTokenGroupDefText	system	cora
 text	loginTokenGroupDefText	user	141414
@@ -18848,11 +18844,6 @@ text	loginTypeTokenCollectionVarDefText	system	cora
 text	loginTypeTokenCollectionVarDefText	user	12345
 text	loginTypeTokenCollectionVarDefText	user	141414
 text	loginTypeTokenCollectionVarDefText	validationType	coraText
-text	loginTypeTokenCollectionVarText	recordType	text
-text	loginTypeTokenCollectionVarText	system	cora
-text	loginTypeTokenCollectionVarText	user	12345
-text	loginTypeTokenCollectionVarText	user	141414
-text	loginTypeTokenCollectionVarText	validationType	coraText
 text	loginTypeTokenItemDefText	recordType	text
 text	loginTypeTokenItemDefText	system	cora
 text	loginTypeTokenItemDefText	user	12345
