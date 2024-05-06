@@ -3,7 +3,6 @@ binary	binary:13641255583704384	recordType	binary
 binary	binary:13641255583704384	system	testSystem
 binary	binary:13641255583704384	user	141414
 binary	binary:13641255583704384	validationType	genericBinary
-demo	sdfsdf	binary	binary:13641255583704384
 demo	sdfsdf	recordType	demo
 demo	sdfsdf	system	testSystem
 demo	sdfsdf	user	141414
