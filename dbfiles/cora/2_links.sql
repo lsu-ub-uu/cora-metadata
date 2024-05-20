@@ -1610,6 +1610,7 @@ metadata	coraUserGroup	metadata	passwordGroup
 metadata	coraUserGroup	metadata	plainTextPasswordTextVar
 metadata	coraUserGroup	metadata	recordInfoGroup
 metadata	coraUserGroup	metadata	systemOneUserRoleRelationGroup
+metadata	coraUserGroup	metadata	usePasswordCollectionVar
 metadata	coraUserGroup	metadata	userAppTokenGroup
 metadata	coraUserGroup	metadata	userFirstnameTextVar
 metadata	coraUserGroup	metadata	userGroup
@@ -6596,6 +6597,7 @@ metadata	systemOneUserGroup	metadata	passwordGroup
 metadata	systemOneUserGroup	metadata	plainTextPasswordTextVar
 metadata	systemOneUserGroup	metadata	recordInfoGroup
 metadata	systemOneUserGroup	metadata	systemOneUserRoleRelationGroup
+metadata	systemOneUserGroup	metadata	usePasswordCollectionVar
 metadata	systemOneUserGroup	metadata	userAppTokenGroup
 metadata	systemOneUserGroup	metadata	userFirstnameTextVar
 metadata	systemOneUserGroup	metadata	userGroup
@@ -7126,6 +7128,13 @@ metadata	urlTextVar	text	urlTextVarText
 metadata	urlTextVar	user	12345
 metadata	urlTextVar	user	141414
 metadata	urlTextVar	validationType	metadataTextVariable
+metadata	usePasswordCollectionVar	metadata	trueFalseCollection
+metadata	usePasswordCollectionVar	recordType	metadata
+metadata	usePasswordCollectionVar	system	cora
+metadata	usePasswordCollectionVar	text	usePasswordCollectionVarDefText
+metadata	usePasswordCollectionVar	text	usePasswordCollectionVarText
+metadata	usePasswordCollectionVar	user	141414
+metadata	usePasswordCollectionVar	validationType	metadataCollectionVariable
 metadata	userAppTokenGroup	metadata	appTokenLink
 metadata	userAppTokenGroup	metadata	noteTextVar
 metadata	userAppTokenGroup	recordType	metadata
@@ -7166,6 +7175,7 @@ metadata	userGroup	metadata	activeStatusCollectionVar
 metadata	userGroup	metadata	passwordGroup
 metadata	userGroup	metadata	plainTextPasswordTextVar
 metadata	userGroup	metadata	recordInfoGroup
+metadata	userGroup	metadata	usePasswordCollectionVar
 metadata	userGroup	metadata	userAppTokenGroup
 metadata	userGroup	metadata	userFirstnameTextVar
 metadata	userGroup	metadata	userIdTextVar
@@ -8582,6 +8592,7 @@ presentation	coraUserPGroup	presentation	passwordSContainer
 presentation	coraUserPGroup	presentation	plainTextPasswordPVar
 presentation	coraUserPGroup	presentation	recordInfoPGroup
 presentation	coraUserPGroup	presentation	systemOneUserRoleRelationPGroup
+presentation	coraUserPGroup	presentation	usePasswordPCollVar
 presentation	coraUserPGroup	presentation	userAppTokenPGroup
 presentation	coraUserPGroup	presentation	userFirstnameTextVarPVar
 presentation	coraUserPGroup	presentation	userIdTextVarPVar
@@ -13852,6 +13863,7 @@ presentation	systemOneUserPGroup	presentation	activeStatusPCollVar
 presentation	systemOneUserPGroup	presentation	plainTextPasswordPVar
 presentation	systemOneUserPGroup	presentation	recordInfoPGroup
 presentation	systemOneUserPGroup	presentation	systemOneUserRoleRelationPGroup
+presentation	systemOneUserPGroup	presentation	usePasswordPCollVar
 presentation	systemOneUserPGroup	presentation	userAppTokenPGroup
 presentation	systemOneUserPGroup	presentation	userFirstnameTextVarPVar
 presentation	systemOneUserPGroup	presentation	userIdTextVarPVar
@@ -14535,6 +14547,18 @@ presentation	urlTextVarPVar	system	cora
 presentation	urlTextVarPVar	user	12345
 presentation	urlTextVarPVar	user	141414
 presentation	urlTextVarPVar	validationType	presentationVar
+presentation	usePasswordOutputPCollVar	metadata	usePasswordCollectionVar
+presentation	usePasswordOutputPCollVar	recordType	presentation
+presentation	usePasswordOutputPCollVar	system	cora
+presentation	usePasswordOutputPCollVar	text	initialEmptyValueText
+presentation	usePasswordOutputPCollVar	user	141414
+presentation	usePasswordOutputPCollVar	validationType	presentationCollectionVar
+presentation	usePasswordPCollVar	metadata	usePasswordCollectionVar
+presentation	usePasswordPCollVar	recordType	presentation
+presentation	usePasswordPCollVar	system	cora
+presentation	usePasswordPCollVar	text	initialEmptyValueText
+presentation	usePasswordPCollVar	user	141414
+presentation	usePasswordPCollVar	validationType	presentationCollectionVar
 presentation	userAppTokenOutputPGroup	metadata	userAppTokenGroup
 presentation	userAppTokenOutputPGroup	presentation	noteTextVarOutputPVar
 presentation	userAppTokenOutputPGroup	recordType	presentation
@@ -14659,6 +14683,7 @@ presentation	userOutputPGroup	presentation	activeStatusOutputPCollVar
 presentation	userOutputPGroup	presentation	passwordOutputPGroup
 presentation	userOutputPGroup	presentation	recordInfoOutputPGroup
 presentation	userOutputPGroup	presentation	tsPasswordUpdatedOutputSContainer
+presentation	userOutputPGroup	presentation	usePasswordOutputPCollVar
 presentation	userOutputPGroup	presentation	userFirstnameTextVarOutputPVar
 presentation	userOutputPGroup	presentation	userIdTextVarOutputPVar
 presentation	userOutputPGroup	presentation	userLastnameTextVarOutputPVar
@@ -23696,6 +23721,14 @@ text	urlTextVarText	system	cora
 text	urlTextVarText	user	12345
 text	urlTextVarText	user	141414
 text	urlTextVarText	validationType	coraText
+text	usePasswordCollectionVarDefText	recordType	text
+text	usePasswordCollectionVarDefText	system	cora
+text	usePasswordCollectionVarDefText	user	141414
+text	usePasswordCollectionVarDefText	validationType	coraText
+text	usePasswordCollectionVarText	recordType	text
+text	usePasswordCollectionVarText	system	cora
+text	usePasswordCollectionVarText	user	141414
+text	usePasswordCollectionVarText	validationType	coraText
 text	userAdminRolePermissionRoleDefText	recordType	text
 text	userAdminRolePermissionRoleDefText	system	cora
 text	userAdminRolePermissionRoleDefText	user	141414
