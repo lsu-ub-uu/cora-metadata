@@ -24549,7 +24549,6 @@ user	user:13641673157161404	permissionRole	systemOneSystemUserRole
 user	user:13641673157161404	permissionRole	userAdminRole
 user	user:13641673157161404	recordType	user
 user	user:13641673157161404	system	cora
-user	user:13641673157161404	systemSecret	systemSecret:15088189383672983
 user	user:13641673157161404	user	141414
 user	user:13641673157161404	validationType	coraUser
 user	user:13641982216972183	collectTerm	permissionUnitPermissionTerm
