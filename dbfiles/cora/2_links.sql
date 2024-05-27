@@ -9021,10 +9021,6 @@ presentation	genericCollectionItemNewPGroup	presentation	recordInfoNewPGroup
 presentation	genericCollectionItemNewPGroup	presentation	textIdPLink
 presentation	genericCollectionItemNewPGroup	recordType	presentation
 presentation	genericCollectionItemNewPGroup	system	cora
-presentation	genericCollectionItemNewPGroup	text	defTextIdTextVarText
-presentation	genericCollectionItemNewPGroup	text	genericCollectionItemNewHeadlineText
-presentation	genericCollectionItemNewPGroup	text	nameInDataTextVarText
-presentation	genericCollectionItemNewPGroup	text	textIdTextVarText
 presentation	genericCollectionItemNewPGroup	user	12345
 presentation	genericCollectionItemNewPGroup	user	141414
 presentation	genericCollectionItemNewPGroup	validationType	presentationGroup
@@ -10181,7 +10177,6 @@ presentation	loginUnitNewPGroup	presentation	loginUnitLoginInfoPGroup
 presentation	loginUnitNewPGroup	presentation	recordInfoNewPGroup
 presentation	loginUnitNewPGroup	recordType	presentation
 presentation	loginUnitNewPGroup	system	cora
-presentation	loginUnitNewPGroup	text	loginUnitText
 presentation	loginUnitNewPGroup	user	12345
 presentation	loginUnitNewPGroup	user	141414
 presentation	loginUnitNewPGroup	validationType	presentationGroup
@@ -13063,7 +13058,9 @@ presentation	recordTypeIndexSettingsPLink	system	cora
 presentation	recordTypeIndexSettingsPLink	user	141414
 presentation	recordTypeIndexSettingsPLink	validationType	presentationRecordLink
 presentation	recordTypeListPGroup	metadata	recordTypeGroup
+presentation	recordTypeListPGroup	presentation	defTextIdOnlyTranslatedTextPLink
 presentation	recordTypeListPGroup	presentation	recordInfoListPGroup
+presentation	recordTypeListPGroup	presentation	textIdOnlyTranslatedTextPLink
 presentation	recordTypeListPGroup	recordType	presentation
 presentation	recordTypeListPGroup	system	cora
 presentation	recordTypeListPGroup	user	12345
@@ -15048,7 +15045,9 @@ presentation	validationTypeItemCollectionPLink	system	cora
 presentation	validationTypeItemCollectionPLink	user	141414
 presentation	validationTypeItemCollectionPLink	validationType	presentationRecordLink
 presentation	validationTypeListPGroup	metadata	validationTypeGroup
+presentation	validationTypeListPGroup	presentation	defTextIdOnlyTranslatedTextPLink
 presentation	validationTypeListPGroup	presentation	recordInfoListPGroup
+presentation	validationTypeListPGroup	presentation	textIdOnlyTranslatedTextPLink
 presentation	validationTypeListPGroup	recordType	presentation
 presentation	validationTypeListPGroup	system	cora
 presentation	validationTypeListPGroup	user	141414
@@ -15424,12 +15423,9 @@ recordType	indexBatchJob	text	indexBatchJobText
 recordType	indexBatchJob	user	141414
 recordType	indexBatchJob	validationType	recordType
 recordType	login	metadata	loginGroup
-recordType	login	metadata	loginNewGroup
 recordType	login	presentation	loginListPGroup
 recordType	login	presentation	loginMenuPGroup
-recordType	login	presentation	loginNewPGroup
 recordType	login	presentation	loginOutputPGroup
-recordType	login	presentation	loginPGroup
 recordType	login	recordType	recordType
 recordType	login	search	loginSearch
 recordType	login	system	cora
@@ -15439,13 +15435,10 @@ recordType	login	user	12345
 recordType	login	user	141414
 recordType	login	validationType	recordType
 recordType	loginUnit	metadata	loginUnitGroup
-recordType	loginUnit	metadata	loginUnitNewGroup
 recordType	loginUnit	presentation	loginUnitAutocompletePGroup
 recordType	loginUnit	presentation	loginUnitListPGroup
 recordType	loginUnit	presentation	loginUnitMenuPGroup
-recordType	loginUnit	presentation	loginUnitNewPGroup
 recordType	loginUnit	presentation	loginUnitOutputPGroup
-recordType	loginUnit	presentation	loginUnitPGroup
 recordType	loginUnit	recordType	recordType
 recordType	loginUnit	search	loginUnitSearch
 recordType	loginUnit	system	cora
