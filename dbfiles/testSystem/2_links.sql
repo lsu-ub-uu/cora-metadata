@@ -868,6 +868,7 @@ presentation	or2024DemoNewPGroup	presentation	or2024DemoPNumVar
 presentation	or2024DemoNewPGroup	presentation	or2024PCollVar
 presentation	or2024DemoNewPGroup	recordType	presentation
 presentation	or2024DemoNewPGroup	system	testSystem
+presentation	or2024DemoNewPGroup	text	or2024PublicationHeadlineText
 presentation	or2024DemoNewPGroup	user	141414
 presentation	or2024DemoNewPGroup	validationType	presentationGroup
 presentation	or2024DemoOutputPGroup	metadata	or2024DemoGroup
@@ -876,6 +877,7 @@ presentation	or2024DemoOutputPGroup	presentation	or2024OutputPCollVar
 presentation	or2024DemoOutputPGroup	presentation	recordInfoOutputPGroup
 presentation	or2024DemoOutputPGroup	recordType	presentation
 presentation	or2024DemoOutputPGroup	system	testSystem
+presentation	or2024DemoOutputPGroup	text	or2024PublicationHeadlineText
 presentation	or2024DemoOutputPGroup	user	141414
 presentation	or2024DemoOutputPGroup	validationType	presentationGroup
 presentation	or2024DemoOutputPNumVar	metadata	or2024DemoNumberVar
@@ -889,6 +891,7 @@ presentation	or2024DemoPGroup	presentation	or2024PCollVar
 presentation	or2024DemoPGroup	presentation	or2024RecordInfoOutputPGroup
 presentation	or2024DemoPGroup	recordType	presentation
 presentation	or2024DemoPGroup	system	testSystem
+presentation	or2024DemoPGroup	text	or2024PublicationHeadlineText
 presentation	or2024DemoPGroup	user	141414
 presentation	or2024DemoPGroup	validationType	presentationGroup
 presentation	or2024DemoPNumVar	metadata	or2024DemoNumberVar
@@ -1487,6 +1490,10 @@ text	or2024DemoValidationTypeText	recordType	text
 text	or2024DemoValidationTypeText	system	testSystem
 text	or2024DemoValidationTypeText	user	141414
 text	or2024DemoValidationTypeText	validationType	coraText
+text	or2024PublicationHeadlineText	recordType	text
+text	or2024PublicationHeadlineText	system	testSystem
+text	or2024PublicationHeadlineText	user	141414
+text	or2024PublicationHeadlineText	validationType	coraText
 text	someTestTextVarDefText	recordType	text
 text	someTestTextVarDefText	system	testSystem
 text	someTestTextVarDefText	user	131313
