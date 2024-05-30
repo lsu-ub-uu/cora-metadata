@@ -446,7 +446,6 @@ presentation	demoNewPGroup	presentation	keepThisPNumVar
 presentation	demoNewPGroup	presentation	recordInfoNewPGroup
 presentation	demoNewPGroup	recordType	presentation
 presentation	demoNewPGroup	system	testSystem
-presentation	demoNewPGroup	text	demoText
 presentation	demoNewPGroup	user	141414
 presentation	demoNewPGroup	validationType	presentationGroup
 presentation	exampelColourOutputPCollVar	metadata	exampelColourCollectionVar
@@ -647,7 +646,6 @@ presentation	exampleNewPGroup	presentation	exampleRecordInfoNewPGroup
 presentation	exampleNewPGroup	recordType	presentation
 presentation	exampleNewPGroup	system	testSystem
 presentation	exampleNewPGroup	text	exampleBasicTypesHeaderText
-presentation	exampleNewPGroup	text	exampleHeadlineText
 presentation	exampleNewPGroup	text	exampleItalicText
 presentation	exampleNewPGroup	user	141414
 presentation	exampleNewPGroup	validationType	presentationGroup
@@ -798,7 +796,6 @@ presentation	exampleRecordInfoNewPGroup	presentation	dataDividerPLink
 presentation	exampleRecordInfoNewPGroup	presentation	validationTypePLink
 presentation	exampleRecordInfoNewPGroup	recordType	presentation
 presentation	exampleRecordInfoNewPGroup	system	testSystem
-presentation	exampleRecordInfoNewPGroup	text	validationTypeLinkText
 presentation	exampleRecordInfoNewPGroup	user	141414
 presentation	exampleRecordInfoNewPGroup	validationType	presentationGroup
 presentation	exampleRecordInfoOutputPGroup	metadata	exampleRecordInfoGroup
