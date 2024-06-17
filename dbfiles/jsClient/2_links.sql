@@ -27,6 +27,10 @@ text	theClient_indexedText	recordType	text
 text	theClient_indexedText	system	jsClient
 text	theClient_indexedText	user	141414
 text	theClient_indexedText	validationType	coraText
+text	theClient_loginButtonText	recordType	text
+text	theClient_loginButtonText	system	jsClient
+text	theClient_loginButtonText	user	141414
+text	theClient_loginButtonText	validationType	coraText
 text	theClient_loginMenuText	recordType	text
 text	theClient_loginMenuText	system	jsClient
 text	theClient_loginMenuText	user	131313
