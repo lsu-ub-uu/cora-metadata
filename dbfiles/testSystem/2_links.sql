@@ -1199,11 +1199,6 @@ text	testNewsContentTextVarDefText	system	testSystem
 text	testNewsContentTextVarDefText	user	131313
 text	testNewsContentTextVarDefText	user	141414
 text	testNewsContentTextVarDefText	validationType	coraText
-text	testNewsContentTextVarText	recordType	text
-text	testNewsContentTextVarText	system	testSystem
-text	testNewsContentTextVarText	user	131313
-text	testNewsContentTextVarText	user	141414
-text	testNewsContentTextVarText	validationType	coraText
 text	testNewsHeadingTextVarDefText	recordType	text
 text	testNewsHeadingTextVarDefText	system	testSystem
 text	testNewsHeadingTextVarDefText	user	131313
