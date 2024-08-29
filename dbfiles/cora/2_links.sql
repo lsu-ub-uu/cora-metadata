@@ -16962,14 +16962,6 @@ text	bookDefText	system	cora
 text	bookDefText	user	12345
 text	bookDefText	user	141414
 text	bookDefText	validationType	coraText
-text	bookGroupDefText	recordType	text
-text	bookGroupDefText	system	cora
-text	bookGroupDefText	user	141414
-text	bookGroupDefText	validationType	coraText
-text	bookGroupText	recordType	text
-text	bookGroupText	system	cora
-text	bookGroupText	user	141414
-text	bookGroupText	validationType	coraText
 text	bookText	recordType	text
 text	bookText	system	cora
 text	bookText	user	12345
