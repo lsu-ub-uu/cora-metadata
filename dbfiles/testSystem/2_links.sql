@@ -11,10 +11,6 @@ collectTerm	exampleUniqueStorageTerm	recordType	collectTerm
 collectTerm	exampleUniqueStorageTerm	system	testSystem
 collectTerm	exampleUniqueStorageTerm	user	141414
 collectTerm	exampleUniqueStorageTerm	validationType	collectStorageTerm
-demo	sdfsdf	recordType	demo
-demo	sdfsdf	system	testSystem
-demo	sdfsdf	user	141414
-demo	sdfsdf	validationType	demo
 example	example:10093765314019722	demo	asdf
 example	example:10093765314019722	recordType	example
 example	example:10093765314019722	system	testSystem
