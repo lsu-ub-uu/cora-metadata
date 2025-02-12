@@ -315,6 +315,11 @@ metadata	exampleYellowItem	text	exampleYellowItemDefText
 metadata	exampleYellowItem	text	exampleYellowItemText
 metadata	exampleYellowItem	user	141414
 metadata	exampleYellowItem	validationType	genericCollectionItem
+permissionUnit	permissionUnit001	recordType	permissionUnit
+permissionUnit	permissionUnit001	system	testSystem
+permissionUnit	permissionUnit001	text	permissionUnit001Text
+permissionUnit	permissionUnit001	user	141414
+permissionUnit	permissionUnit001	validationType	permissionUnit
 presentation	demoAutocompletePGroup	metadata	demoGroup
 presentation	demoAutocompletePGroup	presentation	recordInfoPGroup
 presentation	demoAutocompletePGroup	recordType	presentation
@@ -1216,6 +1221,10 @@ text	myRecordTypeSearchText	system	testSystem
 text	myRecordTypeSearchText	user	131313
 text	myRecordTypeSearchText	user	141414
 text	myRecordTypeSearchText	validationType	coraText
+text	permissionUnit001Text	recordType	text
+text	permissionUnit001Text	system	testSystem
+text	permissionUnit001Text	user	141414
+text	permissionUnit001Text	validationType	coraText
 text	permissionUnitTestText	recordType	text
 text	permissionUnitTestText	system	testSystem
 text	permissionUnitTestText	user	141414
