@@ -8591,6 +8591,11 @@ permissionRule	userAdmin	text	userAdminRuleText
 permissionRule	userAdmin	user	131313
 permissionRule	userAdmin	user	141414
 permissionRule	userAdmin	validationType	permissionRule
+permissionUnit	cora	recordType	permissionUnit
+permissionUnit	cora	system	cora
+permissionUnit	cora	text	coraPermissionUnitText
+permissionUnit	cora	user	141414
+permissionUnit	cora	validationType	permissionUnit
 presentation	abstractCollectionVarOutputPCollVar	metadata	abstractCollectionVar
 presentation	abstractCollectionVarOutputPCollVar	recordType	presentation
 presentation	abstractCollectionVarOutputPCollVar	system	cora
@@ -18079,6 +18084,10 @@ text	coraDefText	recordType	text
 text	coraDefText	system	cora
 text	coraDefText	user	141414
 text	coraDefText	validationType	coraText
+text	coraPermissionUnitText	recordType	text
+text	coraPermissionUnitText	system	cora
+text	coraPermissionUnitText	user	141414
+text	coraPermissionUnitText	validationType	coraText
 text	coraText	recordType	text
 text	coraText	system	cora
 text	coraText	user	141414
