@@ -2471,6 +2471,7 @@ metadata	coraUserGroup	collectTerm	userLoginIdStorageTerm
 metadata	coraUserGroup	metadata	activeStatusCollectionVar
 metadata	coraUserGroup	metadata	appTokensGroup
 metadata	coraUserGroup	metadata	coraUserTypeCollectionVar
+metadata	coraUserGroup	metadata	emailTextVar
 metadata	coraUserGroup	metadata	loginIdTextVar
 metadata	coraUserGroup	metadata	modifyPermissionUnitDataLink
 metadata	coraUserGroup	metadata	passwordLink
@@ -2492,6 +2493,7 @@ metadata	coraUserNewGroup	collectTerm	userLoginIdStorageTerm
 metadata	coraUserNewGroup	metadata	activeStatusCollectionVar
 metadata	coraUserNewGroup	metadata	coraUserGroup
 metadata	coraUserNewGroup	metadata	coraUserTypeCollectionVar
+metadata	coraUserNewGroup	metadata	emailTextVar
 metadata	coraUserNewGroup	metadata	loginIdTextVar
 metadata	coraUserNewGroup	metadata	modifyPermissionUnitDataLink
 metadata	coraUserNewGroup	metadata	recordInfoWithPermissionUnitsNewGroup
@@ -6611,6 +6613,7 @@ metadata	recordTypeGroup	metadata	textIdLink
 metadata	recordTypeGroup	metadata	uniqueGroup
 metadata	recordTypeGroup	metadata	usePermissionUnitCollectionVar
 metadata	recordTypeGroup	metadata	userSuppliedIdCollectionVar
+metadata	recordTypeGroup	metadata	useVisibilityCollectionVar
 metadata	recordTypeGroup	recordType	metadata
 metadata	recordTypeGroup	system	cora
 metadata	recordTypeGroup	text	recordTypeDefText
@@ -6650,6 +6653,7 @@ metadata	recordTypeNewGroup	metadata	textIdLink
 metadata	recordTypeNewGroup	metadata	uniqueGroup
 metadata	recordTypeNewGroup	metadata	usePermissionUnitCollectionVar
 metadata	recordTypeNewGroup	metadata	userSuppliedIdCollectionVar
+metadata	recordTypeNewGroup	metadata	useVisibilityCollectionVar
 metadata	recordTypeNewGroup	recordType	metadata
 metadata	recordTypeNewGroup	system	cora
 metadata	recordTypeNewGroup	text	recordTypeDefText
@@ -7566,6 +7570,7 @@ metadata	systemNewGroup	validationType	metadataGroup
 metadata	systemOneUserGroup	collectTerm	userLoginIdStorageTerm
 metadata	systemOneUserGroup	metadata	activeStatusCollectionVar
 metadata	systemOneUserGroup	metadata	appTokensGroup
+metadata	systemOneUserGroup	metadata	emailTextVar
 metadata	systemOneUserGroup	metadata	loginIdTextVar
 metadata	systemOneUserGroup	metadata	modifyPermissionUnitDataLink
 metadata	systemOneUserGroup	metadata	passwordLink
@@ -7587,6 +7592,7 @@ metadata	systemOneUserGroup	user	141414
 metadata	systemOneUserGroup	validationType	metadataGroup
 metadata	systemOneUserNewGroup	collectTerm	userLoginIdStorageTerm
 metadata	systemOneUserNewGroup	metadata	activeStatusCollectionVar
+metadata	systemOneUserNewGroup	metadata	emailTextVar
 metadata	systemOneUserNewGroup	metadata	loginIdTextVar
 metadata	systemOneUserNewGroup	metadata	modifyPermissionUnitDataLink
 metadata	systemOneUserNewGroup	metadata	recordInfoWithPermissionUnitsNewGroup
@@ -8183,6 +8189,7 @@ metadata	userFirstnameTextVar	validationType	metadataTextVariable
 metadata	userGroup	collectTerm	userLoginIdStorageTerm
 metadata	userGroup	metadata	activeStatusCollectionVar
 metadata	userGroup	metadata	appTokensGroup
+metadata	userGroup	metadata	emailTextVar
 metadata	userGroup	metadata	loginIdTextVar
 metadata	userGroup	metadata	modifyPermissionUnitDataLink
 metadata	userGroup	metadata	passwordLink
@@ -9707,6 +9714,7 @@ presentation	coraUserOutputPGroup	validationType	presentationGroup
 presentation	coraUserPGroup	metadata	coraUserGroup
 presentation	coraUserPGroup	presentation	activeStatusPCollVar
 presentation	coraUserPGroup	presentation	appTokensPGroup
+presentation	coraUserPGroup	presentation	emailPVar
 presentation	coraUserPGroup	presentation	loginIdPVar
 presentation	coraUserPGroup	presentation	permissionUnitPLink
 presentation	coraUserPGroup	presentation	plainTextPasswordPVar
@@ -14169,6 +14177,7 @@ presentation	recordTypeNewPGroup	presentation	textIdPLink
 presentation	recordTypeNewPGroup	presentation	uniquePGroup
 presentation	recordTypeNewPGroup	presentation	usePermissionUnitPCollVar
 presentation	recordTypeNewPGroup	presentation	userSuppliedIdCollectionVarPCollVar
+presentation	recordTypeNewPGroup	presentation	useVisibilityPCollVar
 presentation	recordTypeNewPGroup	recordType	presentation
 presentation	recordTypeNewPGroup	system	cora
 presentation	recordTypeNewPGroup	text	metadataHeadlineText
@@ -14196,6 +14205,7 @@ presentation	recordTypeOutputPGroup	presentation	textOutputSContainer
 presentation	recordTypeOutputPGroup	presentation	uniqueOutputPGroup
 presentation	recordTypeOutputPGroup	presentation	usePermissionUnitOutputPCollVar
 presentation	recordTypeOutputPGroup	presentation	userSuppliedIdCollectionVarOutputPCollVar
+presentation	recordTypeOutputPGroup	presentation	useVisibilityOutputPCollVar
 presentation	recordTypeOutputPGroup	recordType	presentation
 presentation	recordTypeOutputPGroup	system	cora
 presentation	recordTypeOutputPGroup	text	metadataHeadlineText
@@ -14225,6 +14235,7 @@ presentation	recordTypePGroup	presentation	textIdPLink
 presentation	recordTypePGroup	presentation	uniquePGroup
 presentation	recordTypePGroup	presentation	usePermissionUnitPCollVar
 presentation	recordTypePGroup	presentation	userSuppliedIdCollectionVarPCollVar
+presentation	recordTypePGroup	presentation	useVisibilityPCollVar
 presentation	recordTypePGroup	recordType	presentation
 presentation	recordTypePGroup	system	cora
 presentation	recordTypePGroup	text	metadataHeadlineText
@@ -15082,6 +15093,7 @@ presentation	systemOneUserMenuPGroup	user	141414
 presentation	systemOneUserMenuPGroup	validationType	presentationGroup
 presentation	systemOneUserNewPGroup	metadata	systemOneUserNewGroup
 presentation	systemOneUserNewPGroup	presentation	activeStatusPCollVar
+presentation	systemOneUserNewPGroup	presentation	emailPVar
 presentation	systemOneUserNewPGroup	presentation	loginIdPVar
 presentation	systemOneUserNewPGroup	presentation	permissionUnitPLink
 presentation	systemOneUserNewPGroup	presentation	recordInfoWithPermissionUnitsNewPGroup
@@ -15115,6 +15127,7 @@ presentation	systemOneUserOutputPGroup	validationType	presentationGroup
 presentation	systemOneUserPGroup	metadata	systemOneUserGroup
 presentation	systemOneUserPGroup	presentation	activeStatusPCollVar
 presentation	systemOneUserPGroup	presentation	appTokensPGroup
+presentation	systemOneUserPGroup	presentation	emailPVar
 presentation	systemOneUserPGroup	presentation	loginIdPVar
 presentation	systemOneUserPGroup	presentation	permissionUnitPLink
 presentation	systemOneUserPGroup	presentation	plainTextPasswordPVar
@@ -15960,6 +15973,7 @@ presentation	userMenuPGroup	validationType	presentationGroup
 presentation	userOutputPGroup	metadata	userGroup
 presentation	userOutputPGroup	presentation	activeStatusOutputPCollVar
 presentation	userOutputPGroup	presentation	appTokensOutputPGroup
+presentation	userOutputPGroup	presentation	emailOutputPVar
 presentation	userOutputPGroup	presentation	loginIdOutputPVar
 presentation	userOutputPGroup	presentation	permissionUnitOutputPLink
 presentation	userOutputPGroup	presentation	recordInfoWithPermissionUnitOutputPGroup
