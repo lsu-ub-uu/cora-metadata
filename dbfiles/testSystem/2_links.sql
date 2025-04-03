@@ -1,8 +1,4 @@
 COPY public.link (fromtype, fromid, totype, toid) FROM stdin;
-binary	binary:13641255583704384	recordType	binary
-binary	binary:13641255583704384	system	testSystem
-binary	binary:13641255583704384	user	141414
-binary	binary:13641255583704384	validationType	genericBinary
 collectTerm	exampleCombineStorageTerm	recordType	collectTerm
 collectTerm	exampleCombineStorageTerm	system	testSystem
 collectTerm	exampleCombineStorageTerm	user	141414
