@@ -7332,8 +7332,6 @@ metadata	searchNewGroup	text	searchNewText
 metadata	searchNewGroup	user	141414
 metadata	searchNewGroup	validationType	metadataGroup
 metadata	searchPermissionUnitGroup	metadata	searchPermissionUnitIncludeGroup
-metadata	searchPermissionUnitGroup	metadata	searchRowsNumberVar
-metadata	searchPermissionUnitGroup	metadata	searchStartNumberVar
 metadata	searchPermissionUnitGroup	recordType	metadata
 metadata	searchPermissionUnitGroup	system	cora
 metadata	searchPermissionUnitGroup	text	searchPermissionUnitGroupDefText
@@ -12864,6 +12862,8 @@ presentation	permissionUnitPGroup	user	12345
 presentation	permissionUnitPGroup	user	141414
 presentation	permissionUnitPGroup	validationType	presentationGroup
 presentation	permissionUnitPLink	metadata	permissionUnitLink
+presentation	permissionUnitPLink	presentation	permissionUnitOnlyNameForLinkedOutputPGroup
+presentation	permissionUnitPLink	recordType	permissionUnit
 presentation	permissionUnitPLink	recordType	presentation
 presentation	permissionUnitPLink	search	permissionUnitSearch
 presentation	permissionUnitPLink	system	cora
