@@ -2375,6 +2375,12 @@ metadata	cityTextVar	text	cityTextVarDefText
 metadata	cityTextVar	text	cityTextVarText
 metadata	cityTextVar	user	141414
 metadata	cityTextVar	validationType	metadataTextVariable
+metadata	clientNavigationItem	recordType	metadata
+metadata	clientNavigationItem	system	cora
+metadata	clientNavigationItem	text	clientNavigationItemDefText
+metadata	clientNavigationItem	text	clientNavigationItemText
+metadata	clientNavigationItem	user	141414
+metadata	clientNavigationItem	validationType	genericCollectionItem
 metadata	collectIndexTermExtraDataGroup	metadata	collectTermExtraDataGroup
 metadata	collectIndexTermExtraDataGroup	metadata	indexFieldNameTextVar
 metadata	collectIndexTermExtraDataGroup	metadata	indexTypeCollectionVar
@@ -3123,7 +3129,6 @@ metadata	givenNameItem	user	141414
 metadata	givenNameItem	validationType	genericCollectionItem
 metadata	groupOfRecordTypeCollection	metadata	authorityItem
 metadata	groupOfRecordTypeCollection	metadata	controlledListsItem
-metadata	groupOfRecordTypeCollection	metadata	divaClientItem
 metadata	groupOfRecordTypeCollection	metadata	metadataItem
 metadata	groupOfRecordTypeCollection	metadata	otherItem
 metadata	groupOfRecordTypeCollection	metadata	permissionItem
@@ -6821,6 +6826,7 @@ metadata	recordRelationItem	validationType	genericCollectionItem
 metadata	recordTypeCategoryCollection	metadata	categoryOneItem
 metadata	recordTypeCategoryCollection	metadata	categoryThreeItem
 metadata	recordTypeCategoryCollection	metadata	categoryTwoItem
+metadata	recordTypeCategoryCollection	metadata	clientNavigationItem
 metadata	recordTypeCategoryCollection	recordType	metadata
 metadata	recordTypeCategoryCollection	system	cora
 metadata	recordTypeCategoryCollection	text	recordTypeCategoryCollectionDefText
@@ -18121,6 +18127,14 @@ text	cityTextVarText	recordType	text
 text	cityTextVarText	system	cora
 text	cityTextVarText	user	141414
 text	cityTextVarText	validationType	coraText
+text	clientNavigationItemDefText	recordType	text
+text	clientNavigationItemDefText	system	cora
+text	clientNavigationItemDefText	user	141414
+text	clientNavigationItemDefText	validationType	coraText
+text	clientNavigationItemText	recordType	text
+text	clientNavigationItemText	system	cora
+text	clientNavigationItemText	user	141414
+text	clientNavigationItemText	validationType	coraText
 text	collectIndexTermDefText	recordType	text
 text	collectIndexTermDefText	system	cora
 text	collectIndexTermDefText	user	141414
