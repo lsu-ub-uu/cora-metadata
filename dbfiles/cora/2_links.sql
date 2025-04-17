@@ -1650,11 +1650,6 @@ indexBatchJob	indexBatchJob:8590310837071	system	cora
 indexBatchJob	indexBatchJob:8590310837071	user	141414
 indexBatchJob	indexBatchJob:8590310837071	user	system
 indexBatchJob	indexBatchJob:8590310837071	validationType	indexBatchJob
-indexBatchJob	indexBatchJob:8590455012361	recordType	indexBatchJob
-indexBatchJob	indexBatchJob:8590455012361	system	cora
-indexBatchJob	indexBatchJob:8590455012361	user	141414
-indexBatchJob	indexBatchJob:8590455012361	user	system
-indexBatchJob	indexBatchJob:8590455012361	validationType	indexBatchJob
 indexBatchJob	indexBatchJob:8590643448451	recordType	indexBatchJob
 indexBatchJob	indexBatchJob:8590643448451	system	cora
 indexBatchJob	indexBatchJob:8590643448451	user	141414
