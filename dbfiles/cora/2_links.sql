@@ -8952,6 +8952,7 @@ permissionRole	guest	user	12345
 permissionRole	guest	user	141414
 permissionRole	guest	validationType	permissionRole
 permissionRole	metadataAdmin	permissionRule	metadataAdmin
+permissionRole	metadataAdmin	permissionRule	metadataAdminCoraOnlyReadRule
 permissionRole	metadataAdmin	permissionRule	textAdmin
 permissionRole	metadataAdmin	recordType	permissionRole
 permissionRole	metadataAdmin	system	cora
@@ -9064,6 +9065,13 @@ permissionRule	metadataAdmin	text	metadataAdminText
 permissionRule	metadataAdmin	user	12345
 permissionRule	metadataAdmin	user	141414
 permissionRule	metadataAdmin	validationType	permissionRule
+permissionRule	metadataAdminCoraOnlyReadRule	collectTerm	systemPermissionTerm
+permissionRule	metadataAdminCoraOnlyReadRule	recordType	permissionRule
+permissionRule	metadataAdminCoraOnlyReadRule	system	cora
+permissionRule	metadataAdminCoraOnlyReadRule	text	metadataAdminCoraOnlyReadRuleDefText
+permissionRule	metadataAdminCoraOnlyReadRule	text	metadataAdminCoraOnlyReadRuleText
+permissionRule	metadataAdminCoraOnlyReadRule	user	141414
+permissionRule	metadataAdminCoraOnlyReadRule	validationType	permissionRule
 permissionRule	metadataSearchRule	recordType	permissionRule
 permissionRule	metadataSearchRule	system	cora
 permissionRule	metadataSearchRule	text	metadataSearchRulePermissionRuleDefText
@@ -20500,6 +20508,14 @@ text	menuPresentationViewIdTextVarText	system	cora
 text	menuPresentationViewIdTextVarText	user	12345
 text	menuPresentationViewIdTextVarText	user	141414
 text	menuPresentationViewIdTextVarText	validationType	coraText
+text	metadataAdminCoraOnlyReadRuleDefText	recordType	text
+text	metadataAdminCoraOnlyReadRuleDefText	system	cora
+text	metadataAdminCoraOnlyReadRuleDefText	user	141414
+text	metadataAdminCoraOnlyReadRuleDefText	validationType	coraText
+text	metadataAdminCoraOnlyReadRuleText	recordType	text
+text	metadataAdminCoraOnlyReadRuleText	system	cora
+text	metadataAdminCoraOnlyReadRuleText	user	141414
+text	metadataAdminCoraOnlyReadRuleText	validationType	coraText
 text	metadataAdminDefText	recordType	text
 text	metadataAdminDefText	system	cora
 text	metadataAdminDefText	user	141414
