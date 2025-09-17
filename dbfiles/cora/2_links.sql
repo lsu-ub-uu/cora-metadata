@@ -3060,7 +3060,7 @@ metadata	createdByTextVar	validationType	metadataTextVariable
 metadata	dataDividerCoraLink	recordType	metadata
 metadata	dataDividerCoraLink	recordType	system
 metadata	dataDividerCoraLink	system	cora
-metadata	dataDividerCoraLink	text	dataDividerDefText
+metadata	dataDividerCoraLink	text	dataDividerCoraDefText
 metadata	dataDividerCoraLink	text	dataDividerText
 metadata	dataDividerCoraLink	user	12345
 metadata	dataDividerCoraLink	user	141414
@@ -18907,6 +18907,10 @@ text	createWorkOrderRuleText	recordType	text
 text	createWorkOrderRuleText	system	cora
 text	createWorkOrderRuleText	user	141414
 text	createWorkOrderRuleText	validationType	coraText
+text	dataDividerCoraDefText	recordType	text
+text	dataDividerCoraDefText	system	cora
+text	dataDividerCoraDefText	user	141414
+text	dataDividerCoraDefText	validationType	coraText
 text	dataDividerDefText	recordType	text
 text	dataDividerDefText	system	cora
 text	dataDividerDefText	user	141414
