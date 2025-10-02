@@ -1007,6 +1007,10 @@ search	exampleSearch	text	exampleSearchDefText
 search	exampleSearch	text	exampleSearchText
 search	exampleSearch	user	141414
 search	exampleSearch	validationType	search
+sequence	someSequence	recordType	sequence
+sequence	someSequence	system	testSystem
+sequence	someSequence	user	141414
+sequence	someSequence	validationType	sequence
 system	testSystem	recordType	system
 system	testSystem	system	testSystem
 system	testSystem	text	testSystemDefText
