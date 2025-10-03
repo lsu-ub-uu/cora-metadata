@@ -17579,7 +17579,6 @@ recordType	collectTerm	search	collectTermSearch
 recordType	collectTerm	system	cora
 recordType	collectTerm	text	collectTermDefText
 recordType	collectTerm	text	collectTermText
-recordType	collectTerm	user	12345
 recordType	collectTerm	user	141414
 recordType	collectTerm	validationType	recordType
 recordType	guiElement	metadata	guiElementGroup
@@ -17628,7 +17627,6 @@ recordType	loginUnit	search	loginUnitSearch
 recordType	loginUnit	system	cora
 recordType	loginUnit	text	loginUnitDefText
 recordType	loginUnit	text	loginUnitText
-recordType	loginUnit	user	12345
 recordType	loginUnit	user	141414
 recordType	loginUnit	validationType	recordType
 recordType	metadata	metadata	metadataGroup
@@ -17677,7 +17675,6 @@ recordType	permissionUnit	search	permissionUnitSearch
 recordType	permissionUnit	system	cora
 recordType	permissionUnit	text	permissionUnitDefText
 recordType	permissionUnit	text	permissionUnitText
-recordType	permissionUnit	user	12345
 recordType	permissionUnit	user	141414
 recordType	permissionUnit	validationType	recordType
 recordType	presentation	metadata	presentationGroup
@@ -17713,7 +17710,6 @@ recordType	search	search	searchSearch
 recordType	search	system	cora
 recordType	search	text	searchDefText
 recordType	search	text	searchText
-recordType	search	user	12345
 recordType	search	user	141414
 recordType	search	validationType	recordType
 recordType	searchTerm	metadata	searchTermGroup
@@ -17725,7 +17721,6 @@ recordType	searchTerm	search	searchTermSearch
 recordType	searchTerm	system	cora
 recordType	searchTerm	text	searchTermDefText
 recordType	searchTerm	text	searchTermText
-recordType	searchTerm	user	12345
 recordType	searchTerm	user	141414
 recordType	searchTerm	validationType	recordType
 recordType	sequence	metadata	sequenceGroup
@@ -17822,7 +17817,6 @@ recordType	workOrder	search	workOrderSearch
 recordType	workOrder	system	cora
 recordType	workOrder	text	workOrderDefText
 recordType	workOrder	text	workOrderText
-recordType	workOrder	user	12345
 recordType	workOrder	user	141414
 recordType	workOrder	validationType	recordType
 search	binarySearch	metadata	autocompleteSearchGroup
