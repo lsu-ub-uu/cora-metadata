@@ -25875,6 +25875,11 @@ text	updatesHeadlineText	recordType	text
 text	updatesHeadlineText	system	cora
 text	updatesHeadlineText	user	141414
 text	updatesHeadlineText	validationType	coraText
+text	urlTextVarDefText	recordType	text
+text	urlTextVarDefText	system	cora
+text	urlTextVarDefText	user	12345
+text	urlTextVarDefText	user	141414
+text	urlTextVarDefText	validationType	coraText
 text	urlTextVarText	recordType	text
 text	urlTextVarText	system	cora
 text	urlTextVarText	user	12345
