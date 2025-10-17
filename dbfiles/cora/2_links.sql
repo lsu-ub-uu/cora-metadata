@@ -57,6 +57,10 @@ collectTerm	systemPermissionTerm	user	141414
 collectTerm	systemPermissionTerm	validationType	collectPermissionTerm
 collectTerm	translationIndexTerm	system	cora
 collectTerm	translationIndexTerm	validationType	collectIndexTerm
+collectTerm	trashBinPermissionTerm	recordType	collectTerm
+collectTerm	trashBinPermissionTerm	system	cora
+collectTerm	trashBinPermissionTerm	user	141414
+collectTerm	trashBinPermissionTerm	validationType	collectPermissionTerm
 collectTerm	userActiveStatusIndexTerm	recordType	collectTerm
 collectTerm	userActiveStatusIndexTerm	system	cora
 collectTerm	userActiveStatusIndexTerm	user	141414
