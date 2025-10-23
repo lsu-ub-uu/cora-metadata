@@ -9290,6 +9290,7 @@ presentation	indexBatchJobListPGroup	metadata	indexBatchJobGroup
 presentation	indexBatchJobListPGroup	presentation	batchJobStatusOutputPCollVar
 presentation	indexBatchJobListPGroup	presentation	recordInfoListPGroup
 presentation	indexBatchJobListPGroup	presentation	recordTypeToIndexOutputPVar
+presentation	indexBatchJobListPGroup	presentation	totalNumberToIndexOutputPNumVar
 presentation	indexBatchJobListPGroup	recordType	presentation
 presentation	indexBatchJobListPGroup	system	cora
 presentation	indexBatchJobListPGroup	user	141414
@@ -16205,6 +16206,12 @@ system	cora	text	coraText
 system	cora	user	12345
 system	cora	user	141414
 system	cora	validationType	system
+system	coraData	recordType	system
+system	coraData	system	cora
+system	coraData	text	coraDataDefText
+system	coraData	text	coraDataText
+system	coraData	user	141414
+system	coraData	validationType	system
 text	abstractCollectionVarDefText	recordType	text
 text	abstractCollectionVarDefText	system	cora
 text	abstractCollectionVarDefText	user	12345
@@ -17179,6 +17186,14 @@ text	controlledListsItemText	recordType	text
 text	controlledListsItemText	system	cora
 text	controlledListsItemText	user	141414
 text	controlledListsItemText	validationType	coraText
+text	coraDataDefText	recordType	text
+text	coraDataDefText	system	cora
+text	coraDataDefText	user	141414
+text	coraDataDefText	validationType	coraText
+text	coraDataText	recordType	text
+text	coraDataText	system	cora
+text	coraDataText	user	141414
+text	coraDataText	validationType	coraText
 text	coraDefText	recordType	text
 text	coraDefText	system	cora
 text	coraDefText	user	141414
