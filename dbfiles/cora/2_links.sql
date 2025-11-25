@@ -11386,6 +11386,7 @@ presentation	permissionTermRulePartRuleOutputPLink	user	141414
 presentation	permissionTermRulePartRuleOutputPLink	validationType	presentationRecordLink
 presentation	permissionTermRulePartRulePLink	metadata	permissionTermRulePartRuleLink
 presentation	permissionTermRulePartRulePLink	recordType	presentation
+presentation	permissionTermRulePartRulePLink	search	collectTermSearch
 presentation	permissionTermRulePartRulePLink	system	cora
 presentation	permissionTermRulePartRulePLink	user	141414
 presentation	permissionTermRulePartRulePLink	validationType	presentationRecordLink
@@ -24750,6 +24751,7 @@ user	12345	user	141414
 user	12345	user	guest
 user	12345	validationType	systemOneUser
 user	131313	collectTerm	systemPermissionTerm
+user	131313	collectTerm	trashBinPermissionTerm
 user	131313	permissionRole	binaryUserRole
 user	131313	permissionRole	everything
 user	131313	recordType	user
