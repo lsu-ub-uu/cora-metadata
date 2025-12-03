@@ -24752,6 +24752,7 @@ user	12345	user	guest
 user	12345	validationType	systemOneUser
 user	131313	collectTerm	systemPermissionTerm
 user	131313	collectTerm	trashBinPermissionTerm
+user	131313	collectTerm	visibilityPermissionTerm
 user	131313	permissionRole	binaryUserRole
 user	131313	permissionRole	everything
 user	131313	recordType	user
