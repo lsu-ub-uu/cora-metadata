@@ -7506,9 +7506,11 @@ permissionRole	userAdminRole	text	userAdminRolePermissionRoleText
 permissionRole	userAdminRole	user	131313
 permissionRole	userAdminRole	user	141414
 permissionRole	userAdminRole	validationType	permissionRole
+permissionRule	binaryUser	collectTerm	systemPermissionTerm
 permissionRule	binaryUser	collectTerm	visibilityPermissionTerm
 permissionRule	binaryUser	recordType	permissionRule
 permissionRule	binaryUser	system	cora
+permissionRule	binaryUser	text	binaryUserPermissionRuleDefText
 permissionRule	binaryUser	text	binaryUserPermissionRuleText
 permissionRule	binaryUser	user	12345
 permissionRule	binaryUser	user	141414
@@ -11329,8 +11331,7 @@ presentation	permissionRoleWhenLinkedOutputPGroup	presentation	permissionRuleOut
 presentation	permissionRoleWhenLinkedOutputPGroup	presentation	recordInfoOutputPGroup
 presentation	permissionRoleWhenLinkedOutputPGroup	recordType	presentation
 presentation	permissionRoleWhenLinkedOutputPGroup	system	cora
-presentation	permissionRoleWhenLinkedOutputPGroup	text	activeStatusCollectionVarText
-presentation	permissionRoleWhenLinkedOutputPGroup	text	permissionRoleRuleLinkText
+presentation	permissionRoleWhenLinkedOutputPGroup	text	recordInfoText
 presentation	permissionRoleWhenLinkedOutputPGroup	user	12345
 presentation	permissionRoleWhenLinkedOutputPGroup	user	141414
 presentation	permissionRoleWhenLinkedOutputPGroup	validationType	presentationGroup
@@ -11525,6 +11526,7 @@ presentation	permissionRuleViewPGroup	presentation	permissionTermRulePartOutputP
 presentation	permissionRuleViewPGroup	presentation	recordInfoOutputPGroup
 presentation	permissionRuleViewPGroup	recordType	presentation
 presentation	permissionRuleViewPGroup	system	cora
+presentation	permissionRuleViewPGroup	text	recordInfoText
 presentation	permissionRuleViewPGroup	user	12345
 presentation	permissionRuleViewPGroup	user	141414
 presentation	permissionRuleViewPGroup	validationType	presentationGroup
@@ -14367,7 +14369,6 @@ presentation	systemOneUserRoleRelationOutputPGroup	presentation	userRoleMinimize
 presentation	systemOneUserRoleRelationOutputPGroup	presentation	userRoleOutputPLink
 presentation	systemOneUserRoleRelationOutputPGroup	recordType	presentation
 presentation	systemOneUserRoleRelationOutputPGroup	system	cora
-presentation	systemOneUserRoleRelationOutputPGroup	text	userRoleRelationGroupText
 presentation	systemOneUserRoleRelationOutputPGroup	user	12345
 presentation	systemOneUserRoleRelationOutputPGroup	user	141414
 presentation	systemOneUserRoleRelationOutputPGroup	validationType	presentationGroup
@@ -15316,7 +15317,6 @@ presentation	userRoleRelationPGroup	presentation	permissionTermRulePartPGroup
 presentation	userRoleRelationPGroup	presentation	userRolePLink
 presentation	userRoleRelationPGroup	recordType	presentation
 presentation	userRoleRelationPGroup	system	cora
-presentation	userRoleRelationPGroup	text	userRoleRelationGroupText
 presentation	userRoleRelationPGroup	user	12345
 presentation	userRoleRelationPGroup	user	141414
 presentation	userRoleRelationPGroup	validationType	presentationGroup
@@ -25073,13 +25073,19 @@ user	141414	systemSecret	systemSecret:3452591265079916
 user	141414	user	131313
 user	141414	user	141414
 user	141414	validationType	systemOneUser
+user	binaryConverter	permissionRole	binaryUserRole
+user	binaryConverter	permissionUnit	cora
+user	binaryConverter	recordType	user
+user	binaryConverter	system	cora
+user	binaryConverter	user	141414
+user	binaryConverter	validationType	coraUser
 user	guest	permissionRole	guest
 user	guest	recordType	user
 user	guest	system	cora
 user	guest	user	12345
 user	guest	user	141414
 user	guest	validationType	systemOneUser
-user	user	permissionRole	user
+user	user	permissionRole	binaryUserRole
 user	user	recordType	user
 user	user	system	cora
 user	user	user	12345
