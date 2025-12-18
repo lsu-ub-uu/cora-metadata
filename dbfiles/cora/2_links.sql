@@ -25108,7 +25108,6 @@ user	121212	collectTerm	systemPermissionTerm
 user	121212	permissionRole	fitnesseTextAdmin
 user	121212	recordType	user
 user	121212	system	cora
-user	121212	systemSecret	systemSecret:3452520491234582
 user	121212	user	131313
 user	121212	user	141414
 user	121212	validationType	systemOneUser
@@ -25126,7 +25125,6 @@ user	131313	permissionRole	binaryUserRole
 user	131313	permissionRole	everything
 user	131313	recordType	user
 user	131313	system	cora
-user	131313	systemSecret	systemSecret:3452556002950361
 user	131313	user	12345
 user	131313	user	141414
 user	131313	validationType	systemOneUser
@@ -25141,7 +25139,6 @@ user	141414	permissionRole	userAdminRole
 user	141414	permissionUnit	cora
 user	141414	recordType	user
 user	141414	system	cora
-user	141414	systemSecret	systemSecret:3452591265079916
 user	141414	user	131313
 user	141414	user	141414
 user	141414	validationType	systemOneUser
