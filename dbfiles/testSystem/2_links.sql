@@ -997,6 +997,7 @@ recordType	demo	recordType	recordType
 recordType	demo	search	demoSearch
 recordType	demo	system	testSystem
 recordType	demo	text	demoDefText
+recordType	demo	text	demoPluralText
 recordType	demo	text	demoText
 recordType	demo	user	141414
 recordType	demo	validationType	recordType
@@ -1051,6 +1052,10 @@ text	demoDefText	recordType	text
 text	demoDefText	system	testSystem
 text	demoDefText	user	141414
 text	demoDefText	validationType	coraText
+text	demoPluralText	recordType	text
+text	demoPluralText	system	testSystem
+text	demoPluralText	user	141414
+text	demoPluralText	validationType	coraText
 text	demoSearchDefText	recordType	text
 text	demoSearchDefText	system	testSystem
 text	demoSearchDefText	user	141414
