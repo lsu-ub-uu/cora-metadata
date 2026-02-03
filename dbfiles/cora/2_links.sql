@@ -35,10 +35,6 @@ collectTerm	recordIdCollectIndexTerm	recordType	collectTerm
 collectTerm	recordIdCollectIndexTerm	system	cora
 collectTerm	recordIdCollectIndexTerm	user	141414
 collectTerm	recordIdCollectIndexTerm	validationType	collectIndexTerm
-collectTerm	recordTypeCategoryCollectIndexTerm	recordType	collectTerm
-collectTerm	recordTypeCategoryCollectIndexTerm	system	cora
-collectTerm	recordTypeCategoryCollectIndexTerm	user	141414
-collectTerm	recordTypeCategoryCollectIndexTerm	validationType	collectIndexTerm
 collectTerm	someIndexTerm	recordType	collectTerm
 collectTerm	someIndexTerm	system	cora
 collectTerm	someIndexTerm	user	141414
@@ -630,12 +626,6 @@ metadata	cityTextVar	text	cityTextVarDefText
 metadata	cityTextVar	text	cityTextVarText
 metadata	cityTextVar	user	141414
 metadata	cityTextVar	validationType	metadataTextVariable
-metadata	clientMainNavigationItem	recordType	metadata
-metadata	clientMainNavigationItem	system	cora
-metadata	clientMainNavigationItem	text	clientMainNavigationItemDefText
-metadata	clientMainNavigationItem	text	clientMainNavigationItemText
-metadata	clientMainNavigationItem	user	141414
-metadata	clientMainNavigationItem	validationType	genericCollectionItem
 metadata	clientNavigationItem	recordType	metadata
 metadata	clientNavigationItem	system	cora
 metadata	clientNavigationItem	text	clientNavigationItemDefText
@@ -5234,7 +5224,6 @@ metadata	recordRelationItem	validationType	genericCollectionItem
 metadata	recordTypeCategoryCollection	metadata	categoryOneItem
 metadata	recordTypeCategoryCollection	metadata	categoryThreeItem
 metadata	recordTypeCategoryCollection	metadata	categoryTwoItem
-metadata	recordTypeCategoryCollection	metadata	clientMainNavigationItem
 metadata	recordTypeCategoryCollection	metadata	clientNavigationItem
 metadata	recordTypeCategoryCollection	recordType	metadata
 metadata	recordTypeCategoryCollection	system	cora
@@ -5262,7 +5251,6 @@ metadata	recordTypeFilterPresentationLink	text	recordTypeFilterPresentationLinkD
 metadata	recordTypeFilterPresentationLink	text	recordTypeFilterPresentationLinkText
 metadata	recordTypeFilterPresentationLink	user	141414
 metadata	recordTypeFilterPresentationLink	validationType	metadataRecordLink
-metadata	recordTypeGroup	collectTerm	recordTypeCategoryCollectIndexTerm
 metadata	recordTypeGroup	metadata	autocompletePresentationViewLink
 metadata	recordTypeGroup	metadata	defTextIdLink
 metadata	recordTypeGroup	metadata	groupOfRecordTypeCollectionVar
@@ -5354,7 +5342,6 @@ metadata	recordTypeSearchIncludeGroup	user	141414
 metadata	recordTypeSearchIncludeGroup	validationType	metadataGroup
 metadata	recordTypeSearchIncludePartGroup	metadata	searchDataDividerTextVar
 metadata	recordTypeSearchIncludePartGroup	metadata	searchRecordIdTextVar
-metadata	recordTypeSearchIncludePartGroup	metadata	searchRecordTypeCategoryTextVar
 metadata	recordTypeSearchIncludePartGroup	recordType	metadata
 metadata	recordTypeSearchIncludePartGroup	system	cora
 metadata	recordTypeSearchIncludePartGroup	text	recordTypeSearchIncludePartGroupDefText
@@ -5929,12 +5916,6 @@ metadata	searchRecordIdTextVar	text	searchRecordIdTextVarDefText
 metadata	searchRecordIdTextVar	text	searchRecordIdTextVarText
 metadata	searchRecordIdTextVar	user	141414
 metadata	searchRecordIdTextVar	validationType	metadataTextVariable
-metadata	searchRecordTypeCategoryTextVar	recordType	metadata
-metadata	searchRecordTypeCategoryTextVar	system	cora
-metadata	searchRecordTypeCategoryTextVar	text	searchRecordTypeCategoryTextVarDefText
-metadata	searchRecordTypeCategoryTextVar	text	searchRecordTypeCategoryTextVarText
-metadata	searchRecordTypeCategoryTextVar	user	141414
-metadata	searchRecordTypeCategoryTextVar	validationType	metadataTextVariable
 metadata	searchResultPresentationLink	recordType	metadata
 metadata	searchResultPresentationLink	recordType	presentation
 metadata	searchResultPresentationLink	system	cora
@@ -13445,7 +13426,6 @@ presentation	recordTypePLink	validationType	presentationRecordLink
 presentation	recordTypeSearchIncludePartPGroup	metadata	recordTypeSearchIncludePartGroup
 presentation	recordTypeSearchIncludePartPGroup	presentation	searchDataDividerPVar
 presentation	recordTypeSearchIncludePartPGroup	presentation	searchRecordIdPVar
-presentation	recordTypeSearchIncludePartPGroup	presentation	searchRecordTypeCategoryPVar
 presentation	recordTypeSearchIncludePartPGroup	recordType	presentation
 presentation	recordTypeSearchIncludePartPGroup	system	cora
 presentation	recordTypeSearchIncludePartPGroup	user	141414
@@ -14025,16 +14005,6 @@ presentation	searchRecordIdPVar	recordType	presentation
 presentation	searchRecordIdPVar	system	cora
 presentation	searchRecordIdPVar	user	141414
 presentation	searchRecordIdPVar	validationType	presentationVar
-presentation	searchRecordTypeCategoryOutputPVar	metadata	searchRecordTypeCategoryTextVar
-presentation	searchRecordTypeCategoryOutputPVar	recordType	presentation
-presentation	searchRecordTypeCategoryOutputPVar	system	cora
-presentation	searchRecordTypeCategoryOutputPVar	user	141414
-presentation	searchRecordTypeCategoryOutputPVar	validationType	presentationVar
-presentation	searchRecordTypeCategoryPVar	metadata	searchRecordTypeCategoryTextVar
-presentation	searchRecordTypeCategoryPVar	recordType	presentation
-presentation	searchRecordTypeCategoryPVar	system	cora
-presentation	searchRecordTypeCategoryPVar	user	141414
-presentation	searchRecordTypeCategoryPVar	validationType	presentationVar
 presentation	searchResultPresentationOutputPLink	metadata	searchResultPresentationLink
 presentation	searchResultPresentationOutputPLink	recordType	presentation
 presentation	searchResultPresentationOutputPLink	system	cora
@@ -16052,6 +16022,7 @@ recordType	binary	recordType	recordType
 recordType	binary	search	binarySearch
 recordType	binary	system	cora
 recordType	binary	text	binaryDefText
+recordType	binary	text	binaryPluralText
 recordType	binary	text	binaryText
 recordType	binary	user	12345
 recordType	binary	user	141414
@@ -16064,6 +16035,7 @@ recordType	collectTerm	recordType	recordType
 recordType	collectTerm	search	collectTermSearch
 recordType	collectTerm	system	cora
 recordType	collectTerm	text	collectTermDefText
+recordType	collectTerm	text	collectTermPluralText
 recordType	collectTerm	text	collectTermText
 recordType	collectTerm	user	141414
 recordType	collectTerm	validationType	recordType
@@ -16074,6 +16046,7 @@ recordType	exampleUser	presentation	exampleUserOutputPGroup
 recordType	exampleUser	recordType	recordType
 recordType	exampleUser	system	cora
 recordType	exampleUser	text	exampleUserDefText
+recordType	exampleUser	text	exampleUserPluralText
 recordType	exampleUser	text	exampleUserText
 recordType	exampleUser	user	141414
 recordType	exampleUser	validationType	recordType
@@ -16086,6 +16059,7 @@ recordType	guiElement	recordType	recordType
 recordType	guiElement	search	guiElementSearch
 recordType	guiElement	system	cora
 recordType	guiElement	text	guiElementDefText
+recordType	guiElement	text	guiElementPluralText
 recordType	guiElement	text	guiElementText
 recordType	guiElement	user	141414
 recordType	guiElement	validationType	recordType
@@ -16098,6 +16072,7 @@ recordType	indexBatchJob	recordType	recordType
 recordType	indexBatchJob	search	indexBatchJobSearch
 recordType	indexBatchJob	system	cora
 recordType	indexBatchJob	text	indexBatchJobDefText
+recordType	indexBatchJob	text	indexBatchJobPluralText
 recordType	indexBatchJob	text	indexBatchJobText
 recordType	indexBatchJob	user	141414
 recordType	indexBatchJob	validationType	recordType
@@ -16109,6 +16084,7 @@ recordType	login	recordType	recordType
 recordType	login	search	loginSearch
 recordType	login	system	cora
 recordType	login	text	loginDefText
+recordType	login	text	loginPluralText
 recordType	login	text	loginText
 recordType	login	user	12345
 recordType	login	user	141414
@@ -16122,6 +16098,7 @@ recordType	loginUnit	recordType	recordType
 recordType	loginUnit	search	loginUnitSearch
 recordType	loginUnit	system	cora
 recordType	loginUnit	text	loginUnitDefText
+recordType	loginUnit	text	loginUnitPluralText
 recordType	loginUnit	text	loginUnitText
 recordType	loginUnit	user	141414
 recordType	loginUnit	validationType	recordType
@@ -16133,6 +16110,7 @@ recordType	metadata	recordType	recordType
 recordType	metadata	search	metadataSearch
 recordType	metadata	system	cora
 recordType	metadata	text	metadataDefText
+recordType	metadata	text	metadataPluralText
 recordType	metadata	text	metadataText
 recordType	metadata	user	12345
 recordType	metadata	user	141414
@@ -16145,6 +16123,7 @@ recordType	permissionRole	recordType	recordType
 recordType	permissionRole	search	permissionRoleSearch
 recordType	permissionRole	system	cora
 recordType	permissionRole	text	permissionRoleDefText
+recordType	permissionRole	text	permissionRolePluralText
 recordType	permissionRole	text	permissionRoleText
 recordType	permissionRole	user	12345
 recordType	permissionRole	user	141414
@@ -16157,6 +16136,7 @@ recordType	permissionRule	recordType	recordType
 recordType	permissionRule	search	permissionRuleSearch
 recordType	permissionRule	system	cora
 recordType	permissionRule	text	permissionRuleDefText
+recordType	permissionRule	text	permissionRulePluralText
 recordType	permissionRule	text	permissionRuleText
 recordType	permissionRule	user	12345
 recordType	permissionRule	user	141414
@@ -16170,6 +16150,7 @@ recordType	permissionUnit	recordType	recordType
 recordType	permissionUnit	search	permissionUnitSearch
 recordType	permissionUnit	system	cora
 recordType	permissionUnit	text	permissionUnitDefText
+recordType	permissionUnit	text	permissionUnitPluralText
 recordType	permissionUnit	text	permissionUnitText
 recordType	permissionUnit	user	141414
 recordType	permissionUnit	validationType	recordType
@@ -16181,6 +16162,7 @@ recordType	presentation	recordType	recordType
 recordType	presentation	search	presentationSearch
 recordType	presentation	system	cora
 recordType	presentation	text	presentationDefText
+recordType	presentation	text	presentationPluralText
 recordType	presentation	text	presentationText
 recordType	presentation	user	12345
 recordType	presentation	user	141414
@@ -16193,6 +16175,7 @@ recordType	recordType	recordType	recordType
 recordType	recordType	search	recordTypeSearch
 recordType	recordType	system	cora
 recordType	recordType	text	recordTypeDefText
+recordType	recordType	text	recordTypePluralText
 recordType	recordType	text	recordTypeText
 recordType	recordType	user	12345
 recordType	recordType	user	141414
@@ -16205,6 +16188,7 @@ recordType	search	recordType	recordType
 recordType	search	search	searchSearch
 recordType	search	system	cora
 recordType	search	text	searchDefText
+recordType	search	text	searchPluralText
 recordType	search	text	searchText
 recordType	search	user	141414
 recordType	search	validationType	recordType
@@ -16216,6 +16200,7 @@ recordType	searchTerm	recordType	recordType
 recordType	searchTerm	search	searchTermSearch
 recordType	searchTerm	system	cora
 recordType	searchTerm	text	searchTermDefText
+recordType	searchTerm	text	searchTermPluralText
 recordType	searchTerm	text	searchTermText
 recordType	searchTerm	user	141414
 recordType	searchTerm	validationType	recordType
@@ -16226,6 +16211,7 @@ recordType	sequence	presentation	sequenceOutputPGroup
 recordType	sequence	recordType	recordType
 recordType	sequence	system	cora
 recordType	sequence	text	sequenceDefText
+recordType	sequence	text	sequencePluralText
 recordType	sequence	text	sequenceText
 recordType	sequence	user	141414
 recordType	sequence	validationType	recordType
@@ -16237,6 +16223,7 @@ recordType	system	recordType	recordType
 recordType	system	search	systemSearch
 recordType	system	system	cora
 recordType	system	text	systemDefText
+recordType	system	text	systemPluralText
 recordType	system	text	systemText
 recordType	system	user	12345
 recordType	system	user	141414
@@ -16249,6 +16236,7 @@ recordType	systemSecret	presentation	systemSecretOutputPGroup
 recordType	systemSecret	recordType	recordType
 recordType	systemSecret	system	cora
 recordType	systemSecret	text	systemSecretDefText
+recordType	systemSecret	text	systemSecretPluralText
 recordType	systemSecret	text	systemSecretText
 recordType	systemSecret	user	141414
 recordType	systemSecret	validationType	recordType
@@ -16260,6 +16248,7 @@ recordType	text	recordType	recordType
 recordType	text	search	textSearch
 recordType	text	system	cora
 recordType	text	text	textDefText
+recordType	text	text	textPluralText
 recordType	text	text	textText
 recordType	text	user	12345
 recordType	text	user	141414
@@ -16275,6 +16264,7 @@ recordType	user	recordType	recordType
 recordType	user	search	userSearch
 recordType	user	system	cora
 recordType	user	text	userDefText
+recordType	user	text	userPluralText
 recordType	user	text	userText
 recordType	user	user	12345
 recordType	user	user	141414
@@ -16288,6 +16278,7 @@ recordType	validationOrder	recordType	recordType
 recordType	validationOrder	search	validationOrderSearch
 recordType	validationOrder	system	cora
 recordType	validationOrder	text	validationOrderDefText
+recordType	validationOrder	text	validationOrderPluralText
 recordType	validationOrder	text	validationOrderText
 recordType	validationOrder	user	141414
 recordType	validationOrder	validationType	recordType
@@ -16300,6 +16291,7 @@ recordType	validationType	recordType	recordType
 recordType	validationType	search	validationTypeSearch
 recordType	validationType	system	cora
 recordType	validationType	text	validationTypeDefText
+recordType	validationType	text	validationTypePluralText
 recordType	validationType	text	validationTypeText
 recordType	validationType	user	141414
 recordType	validationType	validationType	recordType
@@ -16312,6 +16304,7 @@ recordType	workOrder	recordType	recordType
 recordType	workOrder	search	workOrderSearch
 recordType	workOrder	system	cora
 recordType	workOrder	text	workOrderDefText
+recordType	workOrder	text	workOrderPluralText
 recordType	workOrder	text	workOrderText
 recordType	workOrder	user	141414
 recordType	workOrder	validationType	recordType
@@ -16591,11 +16584,6 @@ searchTerm	recordIdSearchTerm	recordType	text
 searchTerm	recordIdSearchTerm	system	cora
 searchTerm	recordIdSearchTerm	user	141414
 searchTerm	recordIdSearchTerm	validationType	searchTerm
-searchTerm	recordTypeCategorySearchTerm	collectTerm	recordTypeCategoryCollectIndexTerm
-searchTerm	recordTypeCategorySearchTerm	recordType	searchTerm
-searchTerm	recordTypeCategorySearchTerm	system	cora
-searchTerm	recordTypeCategorySearchTerm	user	141414
-searchTerm	recordTypeCategorySearchTerm	validationType	searchTerm
 searchTerm	someSearchTerm	recordType	searchTerm
 searchTerm	someSearchTerm	system	cora
 searchTerm	someSearchTerm	user	141414
@@ -16989,6 +16977,10 @@ text	binaryNewGroupText	system	cora
 text	binaryNewGroupText	user	12345
 text	binaryNewGroupText	user	141414
 text	binaryNewGroupText	validationType	coraText
+text	binaryPluralText	recordType	text
+text	binaryPluralText	system	cora
+text	binaryPluralText	user	141414
+text	binaryPluralText	validationType	coraText
 text	binaryText	recordType	text
 text	binaryText	system	cora
 text	binaryText	user	12345
@@ -17323,14 +17315,6 @@ text	cityTextVarText	recordType	text
 text	cityTextVarText	system	cora
 text	cityTextVarText	user	141414
 text	cityTextVarText	validationType	coraText
-text	clientMainNavigationItemDefText	recordType	text
-text	clientMainNavigationItemDefText	system	cora
-text	clientMainNavigationItemDefText	user	141414
-text	clientMainNavigationItemDefText	validationType	coraText
-text	clientMainNavigationItemText	recordType	text
-text	clientMainNavigationItemText	system	cora
-text	clientMainNavigationItemText	user	141414
-text	clientMainNavigationItemText	validationType	coraText
 text	clientNavigationItemDefText	recordType	text
 text	clientNavigationItemDefText	system	cora
 text	clientNavigationItemDefText	user	141414
@@ -17540,6 +17524,10 @@ text	collectTermNewGroupText	recordType	text
 text	collectTermNewGroupText	system	cora
 text	collectTermNewGroupText	user	141414
 text	collectTermNewGroupText	validationType	coraText
+text	collectTermPluralText	recordType	text
+text	collectTermPluralText	system	cora
+text	collectTermPluralText	user	141414
+text	collectTermPluralText	validationType	coraText
 text	collectTermSearchDefText	recordType	text
 text	collectTermSearchDefText	system	cora
 text	collectTermSearchDefText	user	141414
@@ -18055,6 +18043,10 @@ text	exampleUserNewGroupText	recordType	text
 text	exampleUserNewGroupText	system	cora
 text	exampleUserNewGroupText	user	141414
 text	exampleUserNewGroupText	validationType	coraText
+text	exampleUserPluralText	recordType	text
+text	exampleUserPluralText	system	cora
+text	exampleUserPluralText	user	141414
+text	exampleUserPluralText	validationType	coraText
 text	exampleUserSearchDefText	recordType	text
 text	exampleUserSearchDefText	system	cora
 text	exampleUserSearchDefText	user	141414
@@ -18504,6 +18496,10 @@ text	guiElementNewGroupText	recordType	text
 text	guiElementNewGroupText	system	cora
 text	guiElementNewGroupText	user	141414
 text	guiElementNewGroupText	validationType	coraText
+text	guiElementPluralText	recordType	text
+text	guiElementPluralText	system	cora
+text	guiElementPluralText	user	141414
+text	guiElementPluralText	validationType	coraText
 text	guiElementPresentAsCollectionDefText	recordType	text
 text	guiElementPresentAsCollectionDefText	system	cora
 text	guiElementPresentAsCollectionDefText	user	141414
@@ -18919,6 +18915,10 @@ text	indexBatchJobNewGroupText	recordType	text
 text	indexBatchJobNewGroupText	system	cora
 text	indexBatchJobNewGroupText	user	141414
 text	indexBatchJobNewGroupText	validationType	coraText
+text	indexBatchJobPluralText	recordType	text
+text	indexBatchJobPluralText	system	cora
+text	indexBatchJobPluralText	user	141414
+text	indexBatchJobPluralText	validationType	coraText
 text	indexBatchJobRuleDefText	recordType	text
 text	indexBatchJobRuleDefText	system	cora
 text	indexBatchJobRuleDefText	user	141414
@@ -19477,6 +19477,10 @@ text	loginPasswordTextVarText	recordType	text
 text	loginPasswordTextVarText	system	cora
 text	loginPasswordTextVarText	user	141414
 text	loginPasswordTextVarText	validationType	coraText
+text	loginPluralText	recordType	text
+text	loginPluralText	system	cora
+text	loginPluralText	user	141414
+text	loginPluralText	validationType	coraText
 text	loginText	recordType	text
 text	loginText	system	cora
 text	loginText	user	12345
@@ -19626,6 +19630,10 @@ text	loginUnitNewGroupText	recordType	text
 text	loginUnitNewGroupText	system	cora
 text	loginUnitNewGroupText	user	141414
 text	loginUnitNewGroupText	validationType	coraText
+text	loginUnitPluralText	recordType	text
+text	loginUnitPluralText	system	cora
+text	loginUnitPluralText	user	141414
+text	loginUnitPluralText	validationType	coraText
 text	loginUnitSearchDefText	recordType	text
 text	loginUnitSearchDefText	system	cora
 text	loginUnitSearchDefText	user	141414
@@ -20079,6 +20087,10 @@ text	metadataNumberVariableValidationDefText	recordType	text
 text	metadataNumberVariableValidationDefText	system	cora
 text	metadataNumberVariableValidationDefText	user	141414
 text	metadataNumberVariableValidationDefText	validationType	coraText
+text	metadataPluralText	recordType	text
+text	metadataPluralText	system	cora
+text	metadataPluralText	user	141414
+text	metadataPluralText	validationType	coraText
 text	metadataRecordLinkDefText	recordType	text
 text	metadataRecordLinkDefText	system	cora
 text	metadataRecordLinkDefText	user	12345
@@ -20838,6 +20850,10 @@ text	permissionRoleNewGroupText	recordType	text
 text	permissionRoleNewGroupText	system	cora
 text	permissionRoleNewGroupText	user	141414
 text	permissionRoleNewGroupText	validationType	coraText
+text	permissionRolePluralText	recordType	text
+text	permissionRolePluralText	system	cora
+text	permissionRolePluralText	user	141414
+text	permissionRolePluralText	validationType	coraText
 text	permissionRoleRuleLinkText	recordType	text
 text	permissionRoleRuleLinkText	system	cora
 text	permissionRoleRuleLinkText	user	12345
@@ -21091,6 +21107,10 @@ text	permissionRulePartValueTextVarText	system	cora
 text	permissionRulePartValueTextVarText	user	12345
 text	permissionRulePartValueTextVarText	user	141414
 text	permissionRulePartValueTextVarText	validationType	textSystemOne
+text	permissionRulePluralText	recordType	text
+text	permissionRulePluralText	system	cora
+text	permissionRulePluralText	user	141414
+text	permissionRulePluralText	validationType	coraText
 text	permissionRuleText	recordType	text
 text	permissionRuleText	system	cora
 text	permissionRuleText	user	12345
@@ -21216,6 +21236,10 @@ text	permissionUnitNoteTextVarText	recordType	text
 text	permissionUnitNoteTextVarText	system	cora
 text	permissionUnitNoteTextVarText	user	141414
 text	permissionUnitNoteTextVarText	validationType	coraText
+text	permissionUnitPluralText	recordType	text
+text	permissionUnitPluralText	system	cora
+text	permissionUnitPluralText	user	141414
+text	permissionUnitPluralText	validationType	coraText
 text	permissionUnitSearchDefText	recordType	text
 text	permissionUnitSearchDefText	system	cora
 text	permissionUnitSearchDefText	user	141414
@@ -21589,6 +21613,10 @@ text	presentationOfTextVarText	system	cora
 text	presentationOfTextVarText	user	12345
 text	presentationOfTextVarText	user	141414
 text	presentationOfTextVarText	validationType	coraText
+text	presentationPluralText	recordType	text
+text	presentationPluralText	system	cora
+text	presentationPluralText	user	141414
+text	presentationPluralText	validationType	coraText
 text	presentationRecordLinkDefText	recordType	text
 text	presentationRecordLinkDefText	system	cora
 text	presentationRecordLinkDefText	user	12345
@@ -22318,6 +22346,10 @@ text	recordTypePGroupText	system	cora
 text	recordTypePGroupText	user	12345
 text	recordTypePGroupText	user	141414
 text	recordTypePGroupText	validationType	coraText
+text	recordTypePluralText	recordType	text
+text	recordTypePluralText	system	cora
+text	recordTypePluralText	user	141414
+text	recordTypePluralText	validationType	coraText
 text	recordTypeSearchDefText	recordType	text
 text	recordTypeSearchDefText	system	cora
 text	recordTypeSearchDefText	user	141414
@@ -23043,6 +23075,10 @@ text	searchPermissionUnitNameTextVarText	recordType	text
 text	searchPermissionUnitNameTextVarText	system	cora
 text	searchPermissionUnitNameTextVarText	user	141414
 text	searchPermissionUnitNameTextVarText	validationType	coraText
+text	searchPluralText	recordType	text
+text	searchPluralText	system	cora
+text	searchPluralText	user	141414
+text	searchPluralText	validationType	coraText
 text	searchPresentationFormIdTextVarDefText	recordType	text
 text	searchPresentationFormIdTextVarDefText	system	cora
 text	searchPresentationFormIdTextVarDefText	user	12345
@@ -23061,14 +23097,6 @@ text	searchRecordIdTextVarText	recordType	text
 text	searchRecordIdTextVarText	system	cora
 text	searchRecordIdTextVarText	user	141414
 text	searchRecordIdTextVarText	validationType	coraText
-text	searchRecordTypeCategoryTextVarDefText	recordType	text
-text	searchRecordTypeCategoryTextVarDefText	system	cora
-text	searchRecordTypeCategoryTextVarDefText	user	141414
-text	searchRecordTypeCategoryTextVarDefText	validationType	coraText
-text	searchRecordTypeCategoryTextVarText	recordType	text
-text	searchRecordTypeCategoryTextVarText	system	cora
-text	searchRecordTypeCategoryTextVarText	user	141414
-text	searchRecordTypeCategoryTextVarText	validationType	coraText
 text	searchResultPresentationDefText	recordType	text
 text	searchResultPresentationDefText	system	cora
 text	searchResultPresentationDefText	user	141414
@@ -23121,6 +23149,10 @@ text	searchTermGroupText	recordType	text
 text	searchTermGroupText	system	cora
 text	searchTermGroupText	user	141414
 text	searchTermGroupText	validationType	coraText
+text	searchTermPluralText	recordType	text
+text	searchTermPluralText	system	cora
+text	searchTermPluralText	user	141414
+text	searchTermPluralText	validationType	coraText
 text	searchTermText	recordType	text
 text	searchTermText	system	cora
 text	searchTermText	user	141414
@@ -23221,6 +23253,10 @@ text	sequenceItemText	recordType	text
 text	sequenceItemText	system	cora
 text	sequenceItemText	user	141414
 text	sequenceItemText	validationType	coraText
+text	sequencePluralText	recordType	text
+text	sequencePluralText	system	cora
+text	sequencePluralText	user	141414
+text	sequencePluralText	validationType	coraText
 text	sequenceSearchDefText	recordType	text
 text	sequenceSearchDefText	system	cora
 text	sequenceSearchDefText	user	141414
@@ -23707,6 +23743,10 @@ text	systemOneUserValidationDefText	recordType	text
 text	systemOneUserValidationDefText	system	cora
 text	systemOneUserValidationDefText	user	141414
 text	systemOneUserValidationDefText	validationType	coraText
+text	systemPluralText	recordType	text
+text	systemPluralText	system	cora
+text	systemPluralText	user	141414
+text	systemPluralText	validationType	coraText
 text	systemSearchGroupDefText	recordType	text
 text	systemSearchGroupDefText	system	cora
 text	systemSearchGroupDefText	user	141414
@@ -23743,6 +23783,10 @@ text	systemSecretGroupText	recordType	text
 text	systemSecretGroupText	system	cora
 text	systemSecretGroupText	user	141414
 text	systemSecretGroupText	validationType	coraText
+text	systemSecretPluralText	recordType	text
+text	systemSecretPluralText	system	cora
+text	systemSecretPluralText	user	141414
+text	systemSecretPluralText	validationType	coraText
 text	systemSecretText	recordType	text
 text	systemSecretText	system	cora
 text	systemSecretText	user	141414
@@ -24192,6 +24236,10 @@ text	textPartTypeCollectionVarText	recordType	text
 text	textPartTypeCollectionVarText	system	cora
 text	textPartTypeCollectionVarText	user	141414
 text	textPartTypeCollectionVarText	validationType	coraText
+text	textPluralText	recordType	text
+text	textPluralText	system	cora
+text	textPluralText	user	141414
+text	textPluralText	validationType	coraText
 text	textSearchDefText	recordType	text
 text	textSearchDefText	system	cora
 text	textSearchDefText	user	141414
@@ -24749,6 +24797,10 @@ text	userPermissionRoleText	recordType	text
 text	userPermissionRoleText	system	cora
 text	userPermissionRoleText	user	141414
 text	userPermissionRoleText	validationType	coraText
+text	userPluralText	recordType	text
+text	userPluralText	system	cora
+text	userPluralText	user	141414
+text	userPluralText	validationType	textSystemOne
 text	userRoleLinkDefText	recordType	text
 text	userRoleLinkDefText	system	cora
 text	userRoleLinkDefText	user	141414
@@ -24873,6 +24925,10 @@ text	validationOrderGroupText	recordType	text
 text	validationOrderGroupText	system	cora
 text	validationOrderGroupText	user	141414
 text	validationOrderGroupText	validationType	coraText
+text	validationOrderPluralText	recordType	text
+text	validationOrderPluralText	system	cora
+text	validationOrderPluralText	user	141414
+text	validationOrderPluralText	validationType	coraText
 text	validationOrderRecordTypeLinkDefText	recordType	text
 text	validationOrderRecordTypeLinkDefText	system	cora
 text	validationOrderRecordTypeLinkDefText	user	141414
@@ -24937,6 +24993,10 @@ text	validationTypePermissionUnitLinkText	recordType	text
 text	validationTypePermissionUnitLinkText	system	cora
 text	validationTypePermissionUnitLinkText	user	141414
 text	validationTypePermissionUnitLinkText	validationType	coraText
+text	validationTypePluralText	recordType	text
+text	validationTypePluralText	system	cora
+text	validationTypePluralText	user	141414
+text	validationTypePluralText	validationType	coraText
 text	validationTypeSearchDefText	recordType	text
 text	validationTypeSearchDefText	system	cora
 text	validationTypeSearchDefText	user	141414
@@ -25099,6 +25159,10 @@ text	workOrderPerformCommitCollectionVarText	recordType	text
 text	workOrderPerformCommitCollectionVarText	system	cora
 text	workOrderPerformCommitCollectionVarText	user	141414
 text	workOrderPerformCommitCollectionVarText	validationType	coraText
+text	workOrderPluralText	recordType	text
+text	workOrderPluralText	system	cora
+text	workOrderPluralText	user	141414
+text	workOrderPluralText	validationType	coraText
 text	workOrderRecordIdTextVarDefText	recordType	text
 text	workOrderRecordIdTextVarDefText	system	cora
 text	workOrderRecordIdTextVarDefText	user	141414

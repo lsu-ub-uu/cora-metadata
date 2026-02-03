@@ -1012,6 +1012,7 @@ recordType	example	recordType	recordType
 recordType	example	search	exampleSearch
 recordType	example	system	testSystem
 recordType	example	text	exampleDefText
+recordType	example	text	examplePluralText
 recordType	example	text	exampleText
 recordType	example	user	141414
 recordType	example	validationType	recordType
@@ -1328,6 +1329,10 @@ text	examplePinkItemText	recordType	text
 text	examplePinkItemText	system	testSystem
 text	examplePinkItemText	user	141414
 text	examplePinkItemText	validationType	coraText
+text	examplePluralText	recordType	text
+text	examplePluralText	system	testSystem
+text	examplePluralText	user	141414
+text	examplePluralText	validationType	coraText
 text	exampleRepeatingChildGroupDefText	recordType	text
 text	exampleRepeatingChildGroupDefText	system	testSystem
 text	exampleRepeatingChildGroupDefText	user	141414
