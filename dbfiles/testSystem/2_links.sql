@@ -1045,6 +1045,14 @@ system	testSystem	text	testSystemText
 system	testSystem	user	12345
 system	testSystem	user	141414
 system	testSystem	validationType	system
+text	anyTypeLinkDefText	recordType	text
+text	anyTypeLinkDefText	system	testSystem
+text	anyTypeLinkDefText	user	141414
+text	anyTypeLinkDefText	validationType	coraText
+text	anyTypeLinkText	recordType	text
+text	anyTypeLinkText	system	testSystem
+text	anyTypeLinkText	user	141414
+text	anyTypeLinkText	validationType	coraText
 text	dataDividerTestSystemLinkDefText	recordType	text
 text	dataDividerTestSystemLinkDefText	system	testSystem
 text	dataDividerTestSystemLinkDefText	user	141414
