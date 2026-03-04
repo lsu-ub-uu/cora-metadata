@@ -12,10 +12,6 @@ example	example:10093765314019722	recordType	example
 example	example:10093765314019722	system	testSystem
 example	example:10093765314019722	user	141414
 example	example:10093765314019722	validationType	example
-example	example:7077627570190471	recordType	example
-example	example:7077627570190471	system	testSystem
-example	example:7077627570190471	user	141414
-example	example:7077627570190471	validationType	example
 guiElement	demoTestLinkGuiElement	recordType	guiElement
 guiElement	demoTestLinkGuiElement	system	testSystem
 guiElement	demoTestLinkGuiElement	text	demoTestLinkGuiElementText
