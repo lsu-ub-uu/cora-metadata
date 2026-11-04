@@ -16417,6 +16417,7 @@ recordType	binary	presentation	binaryMenuPGroup
 recordType	binary	presentation	binaryOutputPGroup
 recordType	binary	recordType	recordType
 recordType	binary	search	binarySearch
+recordType	binary	sequence	binarySequence
 recordType	binary	system	cora
 recordType	binary	text	binaryDefText
 recordType	binary	text	binaryPluralText
@@ -17018,6 +17019,10 @@ searchTerm	visibilitySearchTerm	recordType	searchTerm
 searchTerm	visibilitySearchTerm	system	cora
 searchTerm	visibilitySearchTerm	user	141414
 searchTerm	visibilitySearchTerm	validationType	searchTerm
+sequence	binarySequence	recordType	sequence
+sequence	binarySequence	system	cora
+sequence	binarySequence	user	141414
+sequence	binarySequence	validationType	sequence
 system	cora	recordType	system
 system	cora	system	cora
 system	cora	text	coraDefText
