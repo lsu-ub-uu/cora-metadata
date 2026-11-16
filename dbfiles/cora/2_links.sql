@@ -16718,8 +16718,8 @@ search	binarySearch	presentation	binarySearchPGroup
 search	binarySearch	recordType	binary
 search	binarySearch	recordType	search
 search	binarySearch	system	cora
-search	binarySearch	text	searchDefText
-search	binarySearch	text	searchText
+search	binarySearch	text	binarySearchDefText
+search	binarySearch	text	binarySearchText
 search	binarySearch	user	141414
 search	binarySearch	validationType	search
 search	collectTermSearch	metadata	collectTermSearchGroup
@@ -17400,6 +17400,10 @@ text	binaryPluralText	recordType	text
 text	binaryPluralText	system	cora
 text	binaryPluralText	user	141414
 text	binaryPluralText	validationType	coraText
+text	binarySearchDefText	recordType	text
+text	binarySearchDefText	system	cora
+text	binarySearchDefText	user	141414
+text	binarySearchDefText	validationType	coraText
 text	binarySearchGroupDefText	recordType	text
 text	binarySearchGroupDefText	system	cora
 text	binarySearchGroupDefText	user	141414
@@ -17424,6 +17428,10 @@ text	binarySearchIncludePartGroupText	recordType	text
 text	binarySearchIncludePartGroupText	system	cora
 text	binarySearchIncludePartGroupText	user	141414
 text	binarySearchIncludePartGroupText	validationType	coraText
+text	binarySearchText	recordType	text
+text	binarySearchText	system	cora
+text	binarySearchText	user	141414
+text	binarySearchText	validationType	coraText
 text	binaryStatusCollectionDefText	recordType	text
 text	binaryStatusCollectionDefText	system	cora
 text	binaryStatusCollectionDefText	user	141414
